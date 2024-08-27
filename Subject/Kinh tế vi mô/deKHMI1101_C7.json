@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Lợi thế tuyệt đối là gì?",
+        "options": [
+            "Là khả năng sản xuất ra một hàng hoá sử dụng ít đầu vào sản xuất hơn so với nhà sản xuất khác.",
+            "Là khả năng sản xuất ra một hàng hoá sử dụng nhiều đầu vào sản xuất hơn so với nhà sản xuất khác.",
+            "Là khả năng sản xuất ra một hàng hoá sử dụng đầu vào sản xuất giống với nhà sản xuất khác.",
+            "Là khả năng độc quyền một đầu vào sản xuất để sản xuất ra một sản phẩm độc quyền trên thị trường"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Lợi thế so sánh là gì?",
+        "options": [
+            "Là khả năng sản xuất ra một hàng hoá với chi phí cơ hội cao hơn so với nhà sản xuất khác.",
+            "Là khả năng sản xuất ra một hàng hoá với chi phí cơ hội thấp hơn so với nhà sản xuất khác.",
+            "Là khả năng sản xuất ra một hàng hoá với chi phí cơ hội bằng với nhà sản xuất khác.",
+            "Là khả năng độc quyền một đầu vào sản xuất để sản xuất ra một sản phẩm độc quyền trên thị trường"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tại sao có thể nói rằng : Thương mại quốc tế có thể đem lại lợi ích cho tất cả mọi người trong xã hội?",
+        "options": [
+            "Vì nó cho phép con người có thể so sánh một cách trực quan giữa nền kinh tế này và nền kinh tế khác",
+            "Vì nó cho phép con người tự điều chỉnh hành vi sản xuất để phù hợp với nhu cầu của một thị trường khác",
+            "Vì nó cho phép con người có thể chuyên môn hoá vào hoạt động mà họ có lợi thế so sánh",
+            "Vì nó cho phép con người tự điều chỉnh các yếu tố đầu vào sản xuất để sản xuất ra một lượng Q phù hợp"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu KHÔNG phải một lợi ích và chi phí khi một quốc gia trở thành nhà xuất khẩu hàng hóa?",
+        "options": [
+            "Giảm thặng dư tiêu dùng của người tiêu dùng trong nước (người tiêu dùng trong nước bị thiệt).",
+            "Tăng thặng dư sản xuất của nhà sản xuất trong nước (nhà sản xuất trong nước sẽ được lợi)",
+            "Tăng lợi ích ròng xã hội cho quốc gia",
+            "Thu hút đầu tư cho các yếu tố đầu vào sản xuất của ngành sản xuất thế mạnh"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đâu KHÔNG phải một lợi ích và chi phí khi một quốc gia trở thành nhà nhập khẩu hàng hóa?",
+        "options": [
+            "Thu hút đầu tư cho các yếu tố đầu vào sản xuất của ngành sản xuất thế mạnh",
+            "Tăng thặng dư tiêu dùng của người tiêu dùng trong nước (người tiêu dùng trong nước được hưởng lợi).",
+            "Giảm thặng dư sản xuất của nhà sản xuất trong nước (nhà sản xuất trong nước sẽ bị thiệt)",
+            "Tăng lợi ích ròng xã hội cho quốc gia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phát biểu nào sau đây không phải một lợi ích mà thương mại quốc tế mang lại?",
+        "options": [
+            "Tăng tính đa dạng của các mặt hàng",
+            "Làm giảm chi phí thông qua tính cận biên của quy mô",
+            "Tăng cường tính cạnh tranh",
+            "Tăng cường đổi mới sáng tạo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Các chính sách thương mại quốc tế là:",
+        "options": [
+            "Là chính sách khuyến khích hạn chế xuất khẩu mặt hàng nào đó trong một khoảng thời gian nhất định",
+            "Là chính sách khuyến khích nhập khẩu mặt hàng nào đó trong một khoảng thời gian nhất định",
+            "Là chính sách khuyến khích hạn chế nhập khẩu mặt hàng nào đó trong một khoảng thời gian nhất định",
+            "Là chính sách khuyến khích xuất khẩu mặt hàng nào đó trong một khoảng thời gian nhất định"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Phát biểu nào sau đây là nhiệm vụ của các chính sách thương mại quốc tế?",
+        "options": [
+            "Tạo điều kiện thuận lợi cho các doanh nghiệp trong nước xâm nhập và mở rộng thị trường ra nước ngoài.",
+            "Bảo vệ thị trường nội địa, tại điều kiện cho các doanh nghiệp trong nước đứng vững và vươn lên trong hoạt động kinh doanh quốc tế.",
+            "Mở rộng giao thương giữa các quốc gia, kích thích phát triển các yếu tố đầu vào sản xuất, tăng tính cạnh tranh để từ đó tăng cường lượng Q đầu ra",
+            "A và B"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Phương pháp nào sau đây KHÔNG phải một công cụ, biện pháp bảo hộ các chính sách thương mại quốc tế ?",
+        "options": [
+            "Tăng cường xuất khẩu tự nguyện",
+            "Thuế quan: Thuế xuất khẩu, thuế nhập khẩu",
+            "Hạn ngạch",
+            "Hàng rào kỹ thuật"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phát biểu nào sau đây KHÔNG phải ảnh hưởng khi chính phủ đánh thuế nhập khẩu hàng hóa:",
+        "options": [
+            "Giảm thặng dư tiêu dùng của người tiêu dùng trong nước.",
+            "Giảm nguồn thu cho chính phủ",
+            "Bảo vệ nhà sản xuất trong nước.",
+            "Giảm lợi ích ròng xã hội so với trước khi đánh thuế nhập khẩu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Phát biểu nào sau đây KHÔNG phải là ảnh hưởng khi chính phủ áp hạn ngạch nhập khẩu hàng hóa",
+        "options": [
+            "Giảm thặng dư tiêu dùng của người tiêu dùng trong nước",
+            "Chính phủ sẽ không có bất kỳ nguồn thu nào",
+            "Giảm thặng dư sản xuất của nhà sản xuất trong nước",
+            "Giảm lợi ích ròng xã hội so với trước khi áp hạn ngạch nhập khẩu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Phát biểu nào sau đây là điểm khác nhau giữa việc đánh thuế nhập khẩu và áp hạn ngạch nhập khẩu hàng hóa là:",
+        "options": [
+            "Đều làm tăng giá hàng hoá trong nước",
+            "Lượng sản xuất trong nước tăng lên => CS tăng => Bảo vệ nhà sản xuất trong nước",
+            "Đều gây ra DWL",
+            "Hạn ngạch nhập khẩu làm giảm động lực phát triển và sản xuất của các nhà sản xuất nước ngoài hơn so với thuế nhập khẩu"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Điều nào sau đây là ảnh hưởng khi chính phủ trợ cấp xuất khẩu hàng hóa?",
+        "options": [
+            "Chính phủ sẽ phải bỏ ra khoản nợ tiền trợ cấp cho các nhà sản xuất các mặt hàng xuất khẩu trong nước",
+            "Tăng thặng dư tiêu dùng của người tiêu dùng trong nước (người tiêu dùng trong nước được lợi)",
+            "Giảm thặng dư sản xuất của nhà sản xuất trong nước",
+            "Tăng lợi ích ròng xã hội so với trước khi trợ cấp"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thuế xuất khẩu là gì?",
+        "options": [
+            "Là việc chính phủ đánh thuế đối với người tiêu dùng các mặt hàng xuất khẩu.",
+            "Là việc chính phủ đánh thuế đối với nhà sản xuất các mặt hàng xuất khẩu.",
+            "Là việc chính phủ đánh thuế đối với cả nhà sản xuất và người tiêu dùng các mặt hàng xuất khẩu.",
+            "Không đáp án nào đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chính sách thuế xuất khẩu thường được áp dụng khi:",
+        "options": [
+            "Chính phủ muốn tránh tình trạng dư thừa hàng hóa trong nước.",
+            "Chính phủ nhận thấy tổng giá trị cận biên các sản phẩm được xuất khẩu lớn hơn so với giá trị cận biên tại điểm cân bằng thị trường.",
+            "Chính phủ muốn tránh tình trạng khan hiếm hàng hóa trong nước.",
+            "A và B"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hạn ngạch xuất khẩu là:",
+        "options": [
+            "Là việc chính phủ quy định mức sản lượng tối thiểu của một hàng hoá có thể được xuất khẩu trong một khoảng thời gian nhất định.",
+            "Là việc chính phủ quy định mức sản lượng tối đa của một hàng hoá có thể được nhập khẩu trong một khoảng thời gian nhất định.",
+            "Là việc chính phủ quy định mức sản lượng tối thiểu của một hàng hoá có thể được nhập khẩu trong một khoảng thời gian nhất định.",
+            "Là việc chính phủ quy định mức sản lượng tối đa của một hàng hoá có thể được xuất khẩu trong một khoảng thời gian nhất định."
+        ],
+        "answer": 3
+    }
+]

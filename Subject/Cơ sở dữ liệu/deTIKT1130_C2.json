@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "﻿Mô hình thực thể - kết hợp là gì?",
+        "options": [
+            "Là cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới ảo mà không quan tâm đến hiệu quả hoặc vấn đề thiết kế CSDL vật lý",
+            "Được gọi là mô hình dữ liệu ngữ nghĩa - cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới thực mà không quan tâm đến hiệu quả hoặc vấn đề thiết kế CSDL vật lý",
+            "Được gọi là mô hình dữ liệu ngữ nghĩa - cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới thực và cần quan tâm đến hiệu quả",
+            "Được gọi là mô hình dữ liệu ngữ nghĩa - cố gắng biểu diễn các ngữ nghĩa của dữ liệu trong thế giới ảo và quan tâm đến hiệu quả hoặc vấn đề thiết kế CSDL vật lý"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Các tập thực thể là gì?",
+        "options": [
+            "Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới thực mà nó tồn tại và có thể phân biệt được với các đối tượng khác",
+            "Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới ảo mà không tồn tại và có thể phân biệt được với các đối tượng khác",
+            "Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới thực mà nó tồn tại nhưng không thể phân biệt được với các đối tượng khác",
+            "Một thực thể là một đối tượng cụ thể hay trừu tượng trong thế giới ảo mà nó tồn tại và có thể phân biệt được với các đối tượng khác"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Lược đồ thực thể kết hợp bao gồm:",
+        "options": [
+            "Tập thực thể và thuộc tính",
+            "Thuộc tính và mối quan hệ",
+            "Tập thực thể và mối quan hệ",
+            "Tập thực thể, thuộc tính và mối quan hệ"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mô hình thực thể - kết hợp được sử dụng:",
+        "options": [
+            "Dùng để thiết kế CSDL ở mức quan niệm và biểu diễn trừu tượng cấu trúc của CSDL",
+            "Dùng để thiết kế CSDL ở mức quan niệm",
+            "Dùng để biểu diễn trừu tượng cấu trúc của CSDL",
+            "Tất cả đều sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu là một thực thể?",
+        "options": [
+            "Nobita",
+            "Doraemon",
+            "Suneo",
+            "1 Sinh viên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thuộc tính là gì?",
+        "options": [
+            "Là những đặc điểm giống nhau của thực thể",
+            "Là những đặc điểm riêng biệt của tập thực thể",
+            "Cả 2 đều đúng",
+            "Cả 2 đều sai"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mối quan hệ là gì?",
+        "options": [
+            "Là sự liên kết của một thực thể với nhiều thực thể",
+            "Là sự liên kết",
+            "Là sự liên kết giữa 2 hay nhiều  tập thực thể",
+            "Là sự liên kết của một tập thực thể"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Lược đồ E/R là gì?",
+        "options": [
+            "Là đồ thị biểu diễn các tập thực thể và thuộc tính",
+            "Là đồ thị biểu diễn một thực thể, thuộc tính và mối quan hệ",
+            "Là đồ thị biểu diễn các tập thực thể, thuộc tính và mối quan hệ",
+            "Không có đáp án đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong sơ đồ thực thể liên kết, hình thoi nghĩa là gì?",
+        "options": [
+            "Biểu diễn các thực thể. Chúng được nối đến các tập thực thể bằng các cạnh vô hướng hoặc có hướng",
+            "Biểu diễn các liên kết. Chúng được nối đến một số thực thể bằng các cạnh vô hướng hoặc có hướng",
+            "Biểu diễn các liên kết. Chúng được nối đến các tập thực thể bằng các cạnh vô hướng hoặc có hướng",
+            "Chúng được nối đến các tập thực thể"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sơ đồ thực thể liên kết có mấy khối hình?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Có mấy cách liên kết của sơ đồ thực thể liên kết?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Liên kết nhiều - một (N -1) là gì?",
+        "options": [
+            "Là một thực thể trong tập thực thể E2 được kết hợp với không hay nhiều thực thể trong tập E1, nhưng mỗi thực thể trong tập E1 được kết hợp với nhiều nhất một thực thể trong tập thực thể E2",
+            "Một thực thể trong tập thực thể E2 được kết hợp với không hay nhiều thực thể trong tập E1 và ngược lại",
+            "Cả 2 đều đúng",
+            "Cả 2 đều sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thuộc tính trên mối quan hệ nghĩa là gì?",
+        "options": [
+            "Mô tả tính chất cho mối quan hệ đó và không thể gắn liền với những thực thể tham gia vào mối quan hệ",
+            "Mô tả quan hệ cho mối quan hệ đó",
+            "Mô tả tính chất cho mối quan hệ đó và có thể gắn liền với những thực thể tham gia vào mối quan hệ",
+            "Tất cả đều sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chọn câu trả lời đúng:",
+        "options": [
+            "Mỗi tập thực thể có thể có khóa hoặc không",
+            "Một khóa có thể có 1 hay nhiều thuộc tính",
+            "Không thể có nhiều khóa trong một tập thực thể",
+            "Tất cả đều đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Có bao nhiêu bước thiết kế lược đồ E/R",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chọn câu trả lời đúng:",
+        "options": [
+            "Thuộc tính là đặc tính của một tập thực thể",
+            "Chỉ có 1 kiểu thuộc tính là thuộc tính nguyên tố",
+            "Khóa gồm nhiều thuộc tính thì gọi là khóa đơn",
+            "Tập thực thể là một tập hợp các thực thể không có thuộc tính giống nhau"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chọn số câu trả lời đúng:\nI. Một liên kết là một mối liên hệ có nghĩa giữa nhiều thực thể\nII. Hình thoi biểu diễn cho tên quan hệ\nIII. Các thực thể trong tập thực thể không nhất thiết phải được phân biệt\nIV. Cạnh là đường nối giữa mối quan hệ và thuộc tính\nV. Mô hình được sử dụng để trao đổi giữa người thiết kế CSDl và người dùng trong giai đoạn phân tích thiết kế",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mô hình mức logic là:",
+        "options": [
+            "Chuyển các mô hình quan niệm sang đặc tả cho môi trường kỹ thuật",
+            "Là xây dựng câu lệnh của ngôn ngữ SQL để tạo các đối tượng CSDL vật lý",
+            "Là các mô hình hình thức, trừu tượng của thông tin và các yêu cầu xử lý",
+            "Không có đáp án đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chọn câu trả lời sai:",
+        "options": [
+            "Thực thể yếu là thực thể mà khóa có được từ những thuộc tính của tập thực thể khác",
+            "Thực thể yếu phải tham gia vào mối quan hệ mà trong đó có một tập thực thể chính",
+            "Các thực thể trong tập thực thể cần phải được phân biệt",
+            "Không có đáp án đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Có mấy cách tiếp cận xây dựng mô hình dữ liệu?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đâu là một bước của thiết kế CSDL?",
+        "options": [
+            "Thiết kế nhu cầu có sẵn",
+            "Thiết kế bên trong",
+            "Thiết kế bên ngoài",
+            "Thiết kế quan niệm và phân tích chức năng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chọn câu trả lời đúng:",
+        "options": [
+            "Một thực thể không nhất thiết phải là một thực thể thực",
+            "Một hay một tập con các thuộc tính mà giá trị của nó xác định nhiều thực thể trong tập thực thể được gọi là khóa đối với tập thực thể",
+            "Thực thể mạnh là một lớp thực thể tồn tại độc lập",
+            "Mỗi thực thể có thể có nhiều khóa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khóa là gì?",
+        "options": [
+            "Là khi có dấu gạch chân ở một thuộc tính nào đó",
+            "Là một hay một tập thuộc tính mà giá trị của chúng có thể xác định duy nhất một thực thể trong tập thực thể",
+            "Khóa gồm 2 thuộc tính thì gọi là khóa phức",
+            "Là một giá trị có thể xác định của một thực thể trong tập thực thể"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chọn câu trả lời đúng:",
+        "options": [
+            "Khóa chính có thể thay đổi mỗi khi cần thiết",
+            "Mỗi thực thể cần có một khóa chính",
+            "Có thể có nhiều khóa chính trong một thực thể",
+            "Khóa chính có thể có giá trị rỗng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Các thuộc tính khóa là :",
+        "options": [
+            "Các thuộc tính không khóa.",
+            "Các thuộc tính khoá",
+            "Các phần tử của khóa.",
+            "Các thuộc tính không được chứa trong khóa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu nào sai trong các câu dưới đây?",
+        "options": [
+            "Việc xác định khóa phụ thuộc vào quan hệ logic của các dữ liệu chứ không phụ thuộc vào giá trị các dữ liệu",
+            "Trong một bảng có thể có nhiều khóa chính",
+            "Mỗi bảng có ít nhất một khóa",
+            "Nên chọn khóa chính là khóa có ít thuộc tính nhất"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Có mấy quy tắc thiết kế lược đồ E/R",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mô hình quan niệm là:",
+        "options": [
+            "Cách nhìn dữ liệu ở mức ngoài.",
+            "Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng.",
+            "Nội dung thông tin của một phần dữ liệu.",
+            "Cách nhìn dữ liệu một cách tổng quát của người sử dụng."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thứ tự đúng các mức trong mô hình kiến trúc cơ sở dữ liệu:",
+        "options": [
+            "Mức ngoài, mức quan niệm và mức mô hình.",
+            "Mức ngoài, mức quan niệm và mức trong.",
+            "Mức trong, mức mô hình dữ liệu và mức ngoài.",
+            "Mức quan niệm, mức trong và mức ngoài."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thực thể là?",
+        "options": [
+            "Các mối liên kết giữa các đối tượng",
+            "Các quan hệ",
+            "Các đối tượng dữ liệu",
+            "Các đối tượng và mối liên kết giữa các đối tượng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ràng buộc toàn vẹn là gì?",
+        "options": [
+            "Là những quy tắc, điều kiện, ràng buộc cần được thỏa mãn cho mọi thể hiện của CSDL quan hệ",
+            "Là những quy tắc, điều kiện, ràng buộc không nhất thiết phải thỏa mãn cho mọi thể hiện của CSDL",
+            "Là những quy tắc, điều kiện, ràng buộc cần được thỏa mãn cho CSDL",
+            "Là những quy tắc, điều kiện, không cần được thỏa mãn cho mọi thể hiện của CSDL quan hệ"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Các bước chính để tạo CSDL:",
+        "options": [
+            "Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng; Tạo liên kết bảng",
+            "Tạo bảng; Chọn khóa chính cho bảng; Lưu cấu trúc bảng; Tạo liên kết bảng; cập nhật và khai thác CSDL",
+            "Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng; Tạo liên kết bảng",
+            "Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trường khóa chính là trường:",
+        "options": [
+            "Primary Key",
+            "Single Key",
+            "First Key",
+            "Unique Key"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Giá trị các thành phần của khoá ..., Trong dấu \"...\" là cụm từ nào?",
+        "options": [
+            "Không thể nhận giá trị null hay các giá trị không xác định",
+            "Có thể nhận giá trị null hay các giá trị không xác định",
+            "Có thể nhận giá trị các giá trị không xác định",
+            "Không thể nhận giá trị null và chấp nhận các giá trị không xác định"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Kết quả của các thao tác dữ liệu là:",
+        "options": [
+            "Một File",
+            "Nhiều quan hệ.",
+            "Một quan hệ",
+            "Một biểu thức."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mô hình ngoài là?",
+        "options": [
+            "Nội dung thông tin của toàn bộ CSDL dưới cách nhìn của người sử dụng",
+            "Nội dung thông tin của toàn bộ CSDL",
+            "Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng",
+            "Nội dung thông tin của một phần cơ sở dữ liệu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Các phép toán trong tổ hợp SELECT- FROM – WHERE",
+        "options": [
+            "Tich các quan hệ trong mệnh đề FROM, chọn theo biểu thức sau WHERE và chiếu trên các thuộc tính sau mệnh đề SELECT.",
+            "Tich các quan hệ trong mệnh đề FROM, chiếu trong WHERE và chọn trên các thuộc tính sau mệnh đề SELECT.",
+            "Kết nối các quan hệ sau mệnh đề FROM, chiếucác thuộc tính sau SELECT.",
+            "Kết nối tự nhiên các quan hệ sau mệnh đề SELECT, thoả mãn biểu thức logíc sau WHERE và chiếu trên các thuộc tính sau mệnh đề FROM"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Quan hệ là.......... của một hoặc hữu hạn các miền. Các phần tử của quan hệ là các bộ bộ (a1,a2,a3....,an)n giá trị thành phần, hay được gọi n bộ.",
+        "options": [
+            "Kết quả của phép hợp.",
+            "Kết quả của phép chiếu và chọn.",
+            "Kết quả của phép chiếu",
+            "Một tập con của tích Đề các"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Liên kết giữa các bảng được dựa trên:",
+        "options": [
+            "Thuộc tính khóa",
+            "Ý định của người quản trị hệ CSDL",
+            "Các thuộc tính trùng tên nhau giữa các bảng",
+            "Ý định ghép các bảng thành một bảng có nhiều thuộc tính hơn"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Nếu trong câu lệnh SELECT có chứa GROUP BY, hệ thống sẽ ... và thực hiện các phép gộp nhóm. Trong dấu \"...\" là gi?",
+        "options": [
+            "Thực hiện phép chọn sau mệnh đề WHERE",
+            "Thực hiện phép chiếu sau mệnh đề SELECT",
+            "Phân hoạch quan hệ thành nhiều nhóm tách biệt nhau",
+            "Thực hiện việc sắp xếp theo chỉ dẫn sau mệnh đề ORDER BY"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Phép chiếu quan hệ, tức là từ quan hệ nguồn .........",
+        "options": [
+            "Bỏ đi một số bộ",
+            "Bỏ đi một số thuộc tính",
+            "Bỏ đi một số bộ thoả mãn biểu thức logic",
+            "Bỏ đi một số bộ thoả mãn biểu thức logic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong SQL, ngôn ngữ thao tác dữ liệu DML bao gồm các chức năng::",
+        "options": [
+            "Truy vấn thông tin, thêm, sửa, xoá dữ liệu",
+            "Tạo, sửa và xóa cấu trúc quan hệ.",
+            "Bảo mật và quyền truy nhập.",
+            "Tạo, sửa và xóa cấu trúc và đảm bảo bảo mật và quyền truy nhập."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Kết nối bằng nhau các quan hệ theo thuộc tính là:",
+        "options": [
+            "Thực hiện phép chiếu và chia",
+            "Thực hiện tích Đề Các và phép chọn",
+            "Thực hiện tích Đề Các và phép chiếu",
+            "Thực hiện phép chiếu và phép chọn"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mô hình thực thể - liên kết cơ bản bao gồm các lớp đối tượng:",
+        "options": [
+            "Thực thể, mối quan hệ và thuộc tính.",
+            "Thực thể và thuộc tính",
+            "Môi trường và ranh giới môi trường",
+            "Các mối quan hệ"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Các bước thực hiện đúng trong câu lệnh SELECT:",
+        "options": [
+            "Phép toán chọn, tích Đề các, theo nhóm, sắp xếp và phép chiếu",
+            "Tích Đề các, phép toán chọn, theo nhóm, phép chiếu và sắp xếp",
+            "Tích Đề các, phép toán chọn, theo nhóm, sắp xếp và phép chiếu",
+            "Phép toán chọn, tích Đề các, theo nhóm, phép chiếu và sắp xếp"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hãy chọn phương án đúng. Hai bảng trong một CSDL quan hệ liên kết với nhau thông qua:",
+        "options": [
+            "Tên trường",
+            "Thuộc tính của các trường được chọn (không nhất thiết phải là khóa)",
+            "Thuộc tính khóa",
+            "Địa chỉ của các bảng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Phép toán tập hợp trong mệnh đề WHERE bao gồm?",
+        "options": [
+            "Các phép so sánh",
+            "Các phép số học và các phép so sánh",
+            "Biểu thức đại số",
+            "Các phép đại số quan hệ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chọn một khẳng định nào sau đây là đúng nhất :",
+        "options": [
+            "CREATE TABLE mô tả các thuộc tính.",
+            "CREATE TABLE mô tả các phụ thuộc hàm.",
+            "CREATE TABLE mô tả quan hệ",
+            "CREATE TABLE mô tả quan hệ và các thuộc tính."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Các phép toán gộp nhóm được sử dụng sau mệnh đề?",
+        "options": [
+            "SELECT",
+            "GROUP BY",
+            "WHERE",
+            "FROM"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khảng định sau: Cơ sở dữ liệu quan hệ được biểu diễn........., các cột là thuôc tính và các hàng là tập n giá trị của thực thể, đối tượng.",
+        "options": [
+            "Dưới dạng các bảng",
+            "Cấu trúc hình mạng",
+            "Dưới dạng các File dữ liệu",
+            "Cấu trúc hình cây."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phép chọn được thực hiện sau mệnh đề nào trong SELECT - FROM - WHERE?",
+        "options": [
+            "SELECT",
+            "GROUP BY HAVING",
+            "FROM",
+            "WHERE"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phép kết nối JOIN là phép toán:",
+        "options": [
+            "Tạo một quan hệ mới",
+            "Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn.",
+            "Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+            "Tạo một quan hệ mới, kêt nối nhiều quan hệ trên miền thuộc tính chung"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chọn một khẳng định nào sau đây là đúng nhất khi nói về phép giao:",
+        "options": [
+            "Các bộ của quan hệ giao là giao các bộ của các quan hệ nguồn",
+            "Giao của các quan hệ là một quan hệ",
+            "Thuộc tính của quan hệ giao là giao các thuộc tính của các quan hệ nguồn",
+            "Giao của các quan hệ khả hợp là một quan hệ khả hợp"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thứ tự đúng trong câu lệnh SELECT là?",
+        "options": [
+            "SELECT, FROM, GROUP BY HAVING, ORDER BY",
+            "SELECT, FROM, GROUP BY HAVING, ORDER BY",
+            "SELECT, FROM, WHERE, GROUP BY HAVING, ORDER BY",
+            "SELECT, FROM, GROUP BY HAVING, WHERE, ORDER BY"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Phép toán tập hợp trong mệnh đề WHERE bao gồm:",
+        "options": [
+            "Các phép số học và các phép so sánh",
+            "Các phép so sánh.",
+            "Biểu thức đại số",
+            "Các phép đại số quan hệ"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Nếu trong câu lệnh SELECT có chứa GROUP BY, hệ thống sẽ ... và thực hiện các phép gộp nhóm. Trong dấu \"...\" là gi?",
+        "options": [
+            "Thực hiện việc sắp xếp theo chỉ dẫn sau mệnh đề ORDER BY",
+            "Thực hiện phép chiếu sau mệnh đề SELECT",
+            "Phân hoạch quan hệ thành nhiều nhóm tách biệt nhau",
+            "Thực hiện phép chọn sau mệnh đề WHERE"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select distinct A, F from r, s where C = D” thực hiện biểu thức đại số quan hệ nào:",
+        "options": [
+            "ΠA,F(σC=D (r x s))",
+            "ΠA,F(σC=D (r + s))",
+            "ΠA,F(σC,D (r x s))",
+            "ΠC,D(σC=D (r x s))"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select * from r where B = 17” thực hiện biểu thức đại số quan hệ nào:",
+        "options": [
+            "σB=17(r)",
+            "ρB=17(r)",
+            "σA = 17(r)",
+            "ρA=17(r)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Khi thực hiện các phép toán trong một biểu thức quan hệ, thứ tự ưu tiên là:",
+        "options": [
+            "Phép kết nối được ưu tiên hơn so với phép hợp, phép giao",
+            "Các phép toán một ngôi có thứ tự ưu tiên cao hơn so với phép toán hai ngôi.",
+            "Phụ thuộc vào vị trí của các phép toán",
+            "Phép kết nối được ưu tiên hơn so với phép chọn và chiếu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Phép chọn SELECT là phép toán:",
+        "options": [
+            "Tạo một quan hệ mới, các bộ được rút ra một cách duy nhất từ quan hệ nguồn",
+            "Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+            "Tạo một quan hệ mới từ quan hệ nguồn.",
+            "Tạo một nhóm các phụ thuộc."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tối ưu theo nghĩa biến đổi một biểu thức đại số quan hệ:",
+        "options": [
+            "Cho cùng một kết quả với chi phí thời gian thực hiện và sử dụng bộ nhớ ít hơn.",
+            "Với chi phí thời gian ít hơn rất nhiều",
+            "Cho cùng một kết quả, không tổn thất thông tin.",
+            "Cho cùng một kết quả với chi phí bộ nhớ không nhiều"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phép chiếu PROJECT là phép toán:",
+        "options": [
+            "Tạo một quan hệ mới, các thuộc tính là các thuộc tính quan hệ nguồn",
+            "Tạo một quan hệ mới, thoả mãn một tân từ xác định.",
+            "Tạo một quan hệ mới, các bộ của quan hệ nguồn bỏ đi những bộ trùng lặp",
+            "Tạo một quan hệ mới, các thuộc tính được biến đổi từ quan hệ nguồn."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Các toán hạng trong các phép toán là:",
+        "options": [
+            "Các thuộc tính",
+            "Các bộ n_giá trị",
+            "Các biểu thức",
+            "Các quan hệ"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tối ưu hoá câu hỏi bằng cách",
+        "options": [
+            "Thực hiện biến đổi không làm tổn thất thông tin.",
+            "Thực hiện các phép toán đại số quan hệ.",
+            "Thực hiện các phép chiếu và chọn, tiếp sau mới thực hiện phép kết nối.",
+            "Bỏ đi các phép kết nối hoặc tích Đề các có chi phí lớn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select * from r1 where (A, B, C) not in (select * from r2)” thực hiện biểu thức đại số quan hệ nào:",
+        "options": [
+            "r1 Ո r2",
+            "r1 - r2",
+            "r1 * r2",
+            "r1 + r2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Phép sửa đổi là phép toán:",
+        "options": [
+            "Sửa đổi giá trị của một bộ hay một nhóm các bộ.",
+            "Sửa đổi giá trị của một số thuộc tính.",
+            "Sửa đổi mô tả các thuộc tính.",
+            "Sửa đổi giá trị của một quan hệ hay một nhóm các quan hệ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select distinct A from r” thực hiện biểu thức đại số quan hệ nào:",
+        "options": [
+            "σA(r)",
+            "ΠB(r)",
+            "ΠA(r)",
+            "σB(r)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ngôn ngữ đinh nghĩa dữ liệu - DDL (Data Definition Language).",
+        "options": [
+            "Được đặc tả bằng một ngôn ngữ dữ liệu",
+            "Được đặc tả bằng một ngôn ngữ, một phần của hệ quản trị cơ sở dữ liệu.",
+            "Được đặc tả bằng cách chương trùnh ứng dụng",
+            "Được đặc tả bằng một phần của hệ quản trị cơ sở dữ liệu."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cách nhìn cơ sở dữ liệu của người sử dụng bằng:",
+        "options": [
+            "Mô hình ngoài.",
+            "Mô hình ngoài và mô hình dữ liệu",
+            "Mô hình dữ liệu.",
+            "Mô hình trong."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hãy chọn từ/cụm từ tương ứng để hoàn thiện khẳng định sau: Trong biểu thức quan hệ các toán hạng là .........",
+        "options": [
+            "Các phụ thuộc hàm.",
+            "Các phần tử",
+            "Các thuộc tính.",
+            "Các quan hệ trong một CSDL"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Xác định mức độ quan hệ giữa thực thể PHÒNG CÔNG TÁC và thực thể TRƯỞNG PHÒNG? Một PHÒNG CÔNG TÁC được lãnh đạo bởi một TRƯỞNG PHÒNG; ngược lại một người chỉ làm trưởng một PHÒNG CÔNG TÁC.",
+        "options": [
+            "Là mối quan hệ Một – Nhiều",
+            "Là mối quan hệ Một – Một",
+            "Là mối quan hệ Nhiều – Một",
+            "Là mối quan hệ Nhiều – Nhiều"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho 2 quan hệ giữa NHANVIEN và DONVI như sau: NHANVIEN(Mã NV, Họ tên, Ngày Sinh, Mã Đơn vị). DONVI(Mã đơn vị, Tên đơn vị). Mối quan hệ giữa NHANVIEN và DONVI là quan hệ nào sau đây?",
+        "options": [
+            "Quan hệ N-M",
+            "Quan hệ 1-N",
+            "Quan hệ N-N",
+            "Quan hệ 1-1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho bài toán: Một công ty có nhiều cửa hàng. Các cửa hàng nhận hàng hóa trực tiếp từ nhà cung cấp, rồi bán trực tiếp cho khách hàng. Công ty có một số trung tâm bảo hàng; nhân viên bảo hành chịu trách nhiệm bảo hành cho một số lượng khách hàng. Nhóm nào sau đây liệt kê đầy đủ các thực thể của bài toán quản lý trên?",
+        "options": [
+            "Cửa hàng; hàng hóa; bán hàng; trung tâm; trách nhiệm bảo hành.",
+            "Nhà cung cấp; khách hàng; hàng hóa; nhân viên.",
+            "Nhà cung cấp; khách hàng; nhân viên.",
+            "Cửa hàng; hàng hóa; nhà cung cấp; khách hàng; trung tâm bảo hành; nhân viên."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mục tiêu của phép tách lược đồ quan hệ là:",
+        "options": [
+            "Nhằm tối ưu hoá truy vấn",
+            "Nhằm thực hiện các phép lưu trữ dễ dàng",
+            "Nhằm loại bỏ các dị thường thông tin khi thực hiện các phép lưu trữ",
+            "Nhằm thực hiện các phép tìm kiếm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quá trình tách không làm tổn thất thông tin theo nghĩa:",
+        "options": [
+            "Quan hệ gốc được khôi phục từ các quan hệ chiếu bằng phép kết nối",
+            "Quan hệ gốc được khôi phục từ các quan hệ chiếu bằng phép chiếu và chọn",
+            "Quan hệ gốc được khôi phục chính xác từ các quan hệ chiếu",
+            "Quan hệ gốc được khôi phục từ các quan hệ chiếu bằng phép kết nối tự nhiên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho bài toán: Một công ty có nhiều cửa hàng. Các cửa hàng nhận hàng hóa trực tiếp từ nhà cung cấp, rồi bán trực tiếp cho khách hàng. Công ty có một số trung tâm bảo hàng; nhân viên bảo hành chịu trách nhiệm bảo hành cho một số lượng khách hàng. Có bao nhiêu thực thể trong bài toán quản lý trên?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Có quan hệ sau: NHANVIEN(Mã NV, Họ tên, Ngày Sinh, Mã Đơn vị). Mã NV đóng vai trò gì trong quan hệ NHANVIEN?",
+        "options": [
+            "Khóa chính",
+            "Thực thể",
+            "Khóa ngoại",
+            "Bảng dữ liệu"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Có 2 quan hệ sau: NHANVIEN(Mã NV, Họ tên, Ngày Sinh, Mã Đơn vị). DONVI(Mã đơn vị, Tên đơn vị). Mã Đơn vị đóng vai trò gì trong quan hệ NHANVIEN?",
+        "options": [
+            "Kiểm tra dữ liệu nhập",
+            "Khóa ngoại",
+            "Kiểm tra dữ liệu xuất",
+            "Khóa chính"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dị thường thông tin là nguyên nhân:",
+        "options": [
+            "Gây cản trở cho việc tách kết nối tổn thất thông tin",
+            "Gây cản trở cho việc thực hiện các phép lưu trữ",
+            "Gây cản trở cho việc tìm kiếm, hỏi đáp thông tin.",
+            "Gây cản trở cho việc cập nhật, bổ sung thông tin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu lệnh sau đây thực hiện nhiệm vụ gì? Select TENHANG From HANGHOA",
+        "options": [
+            "Đưa ra HANGHOA và loại bỏ các tên bị trùng lặp từ bảng TENHANG",
+            "Đưa ra TENHANG và loại bỏ các tên bị trùng lặp từ bảng HANGHOA",
+            "Đưa ra HANGHOA từ bảng TENHANG",
+            "Đưa ra TENHANG từ bảng HANGHOA"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho bảng SV (MaSV char(4), MaMon char(3), Diem Float, HocBong Float). Câu lệnh SQL sau đây thực hiện công việc gì? Update SV set HocBong = 5000000 Where Diem>=8;",
+        "options": [
+            "Cập nhật trường HocBong bằng 5 triệu cho tất cả các sinh viên ở mọi nơi có Diem >= 8.",
+            "Cập nhật trường HocBong bằng 5 triệu cho tất cả các sinh viên trong bảng SV có Điểm từ 8 trở lên.",
+            "Cập nhật trường Diem >= 8 cho mọi sinh viên có HocBong = 5000000",
+            "Loại bỏ HocBong = 5000000 với điều kiện Diem>=8"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kết quả của câu lệnh SQL sau đây là gì? SELECT MASV, MAMON AS THILAI FROM DIEM WHERE DIEMTHI <5",
+        "options": [
+            "Đưa ra Tên sinh viên (TENSV) và Mã môn học (MAMON) từ bảng điểm (DIEM), trong đó cột MAMON được đổi tên thành cột THILAI",
+            "Đưa ra Mã sinh viên (MASV) phải thi lại (có DIEMTHI nhỏ hơn 5) và Mã môn học (MAMON) từ bảng điểm (DIEM)",
+            "Đưa ra Mã sinh viên (MASV) phải thi lại (có DIEMTHI nhỏ hơn 5) và Mã môn học (MAMON) từ bảng điểm (DIEM), trong đó cột MAMON được đổi tên thành cột THILAI",
+            "Đưa ra Tên sinh viên (TENSV) phải thi lại (có DIEMTHI nhỏ hơn 5) và Mã môn học (MAMON) từ bảng điểm (DIEM)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu lệnh nào sau đây đưa ra tất cả các SOHD, MAHANG trong bảng HANGBAN của các mặt hàng có DONGIA từ 1000000 trở lên.",
+        "options": [
+            "SELECT SOHD, MAHANG FROM HANGBAN where dongia >= 1000000",
+            "SELECT SOHD, MAHANG, DONGIA >= 1000000 FROM HANGBAN",
+            "SELECT FROM HANGBAN To SOHD, MAHANG, DONGIA >= 1000000",
+            "SELECT SOHD, MAHANG And DONGIA >= 1000000 FROM HANGBAN"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu lệnh SQL nào sau đây có cú pháp đúng?",
+        "options": [
+            "Việc xác định khóa phụ thuộc vào quan hệ logic của các dữ liệu chứ không phụ thuộc vào giá trị các dữ liệu",
+            "SELECT CustomerName, COUNT(CustomerName) FROM Orders GROUP BY CustomerName",
+            "SELECT CustomerName, COUNT(CustomerName) FROM Orders",
+            "SELECT CustomerName, COUNT(CustomerName) FROM Orders ORDER BY CustomerName"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giả sử có Table Sinhvien(Masv, Hosv, Tensv, Ngaysinh). Trong đó Ngaysinh (Short date). Câu lệnh SQL dưới đây thực hiện công việc gì? SELECT * FROM Sinhvien WHERE Year(Ngaysinh) BETWEEN 1996 AND 1999;",
+        "options": [
+            "Hiện lên các trường dữ liệu Masv, Hosv, Tensv của các sinh viên từ bảng sinhvien có năm sinh từ 1996 đến 1999",
+            "Hiện lên tất cả các trường dữ liệu của các sinh viên từ bảng Sinhvien có năm sinh nhỏ hơn 1999",
+            "Hiện lên tất cả các trường dữ liệu của các sinh viên từ bảng Sinhvien có năm sinh từ 1996 đến 1999",
+            "Hiện lên tất cả các trường dữ liệu từ bảng Sinhvien gồm các sinh viên có năm sinh lớn hơn 1996"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "LIKE được sử dụng cùng với lệnh nào?",
+        "options": [
+            "Mệnh đề WHERE",
+            "Mệnh đề ORDER BY",
+            "Mệnh đề GROUP BY",
+            "Mệnh đề JOIN"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho bảng HANGBAN gồm các trường: SOHD, MAHANG, NGAYBAN, SOLUONG, DONGICâu lệnh nào sau đây KHÔNG thực hiện được nhiệm vụ đưa ra SoHD, MaHang, ThanhTien từ bảng HANGBAN",
+        "options": [
+            "SELECT SOHD, MAHANG, SOLUONG*DONGIA AS THANHTIEN FROM HANGBAN;",
+            "SELECT SOHD, MAHANG, NGAYBAN, SOLUONG*DONGIA FROM HANGBAN",
+            "SELECT SOHD, MAHANG, SOLUONG*DONGIA FROM HANGBAN;",
+            "SELECT SOHD, MAHANG, THANHTIEN FROM HANGBAN;"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Kết quả của câu lệnh SQL sau đây là gì? SELECT AVG(SOTIET) FROM MON WHERE NHOM=’Tự chọn’",
+        "options": [
+            "Đưa ra số tiết (SOTIET) trung bình của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng NHOM",
+            "Đưa ra tổng số tiết (SOTIET) của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng MON",
+            "Đưa ra tổng số tiết (SOTIET) của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng NHOM",
+            "Đưa ra số tiết (SOTIET) trung bình của các môn học nằm trong nhóm ‘Tự chọn’ từ bảng MON"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hàm ABS trong SQL được sử dụng để làm gì?",
+        "options": [
+            "Trả về giá trị tối thiểu của biểu thức số.",
+            "Trả về giá trị trung bình của một biểu thức số.",
+            "Trả về giá trị tuyệt đối của biểu thức số.",
+            "Trả về giá trị tối đa của một biểu thức số."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "SQL là viết tắt của:",
+        "options": [
+            "Structured Query Language",
+            "Structured Quantity Language",
+            "Strike Quantity Language",
+            "Strike Query Language"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho bảng MatHang gồm các trường MaHang (Varchar 3), TenHang (Varchar 25), DonVi (Varchar 5), LuongTon (Interger), MaHangCC (Varchar 2). Câu lệnh SQL dưới đây thực hiện công việc gì? SELECT * FROM MatHang WHERE Luongton NOT BETWEEN 30 AND 100",
+        "options": [
+            "Hiện lên tất cả các trường dữ liệu của các mặt hàng có Luongton lớn hơn 30 trong bảng Mahang.",
+            "Hiện lên tất cả các trường dữ liệu các mặt hàng có Luongton không nằm trong khoảng từ 30 đến 100 trong bảng Mathang.",
+            "Hiện lên tất cả các trường dữ liệu các mặt hàng có Luongton nằm trong khoảng từ 30 đến 100",
+            "Hiện lên các trường dữ liệu Mahang, Tenhang, Donvi mặt hàng có Luongton không nằm trong khoảng từ 30 đến 100 trong bảng Mathang"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giả sử có Table Sinhvien(Masv, Hosv, Tensv, Ngaysinh, Phai). Trong đó Ngaysinh(Short date) và PHAI(Yes/no). Để hiển thị danh sách sinh viên gồm các cột : Masv; Hosv; Tensv; Namsinh; Tuoi (Tuoi = Năm hiện tại - năm sinh) từ bảng Sinhvien ta thực hiện câu truy vấn SQL sau:",
+        "options": [
+            "Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi : Year(GetDate())-Year([Namsinh])",
+            "Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi",
+            "Select Masv, Hosv, Tensv, Namsinh, Tuoi As Year(GetDate())- Year([Namsinh]) AS From Sinhvien",
+            "Select Masv, Hosv, Tensv, year(ngaysinh) AS Namsinh, Year(GetDate())- Year(Ngaysinh) As Tuoi From Sinhvien"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Để có kết quả sắp xếp và đưa ra theo thứ tự mã phòng ban (MaPB) tăng và mã cán bộ (Macb) giảm trong bảng Hoso gồm các trường Macb (Varchar 8), MaPB (Varchar 6), Hoten, Gioitinh (Yes/No) ta viết câu lệnh truy vấn nào?",
+        "options": [
+            "Select * from Hoso Order by Macb DESC, MaPB ASC",
+            "Select * from Hoso Order by MaPB, Macb",
+            "Select * from Hoso Order by MaPB, Macb Desc",
+            "Select * from Hoso Order by: Macb, MaPB Desc"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select * From HANGHOA, HOADON",
+        "options": [
+            "Đưa ra tất cả các cột của bảng HOADON",
+            "Đưa ra tất cả các cột giống nhau của hai bảng HANGHOA và bảng HOADON",
+            "Đưa ra tất cả các cột của bảng HANGHOA",
+            "Đưa ra tất cả các cột của bảng HANGHOA và bảng HOADON"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mệnh đề GROUP BY ... HAVING",
+        "options": [
+            "Áp dụng các phép toán gộp nhóm.",
+            "Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt",
+            "Phân hoạch các bộ của một quan hệ thành các nhóm riêng biệt và áp dụng các phép toán gộp cho các nhóm.",
+            "Tách các quan hệ thành các quan hệ con, không tổn thất thông tin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Phép xoá là phép toán",
+        "options": [
+            "Xoá một bộ hay xoá một nhóm các bộ.",
+            "Xoá một quan hệ hay xoá một nhóm các quan hệ",
+            "Xoá một hệ CSDL",
+            "Xoá một thuộc tính hay xoá một nhóm các thuộc tính."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho bảng MatHang gồm các trường MaHang (Varchar 3), TenHang (Varchar 25), DonVi (Varchar 5), LuongTon (Interger), MaHangCC (Varchar 2). Câu lệnh SQL dưới đây thực hiện chức năng gì? SELECT COUNT(Mahang) FROM MatHang WHERE Luongton >100",
+        "options": [
+            "Hiển thị số các măt hàng có Luongton < 100 trong bảng Mathang",
+            "Hiển thị số các măt hàng có Luongton lớn hơn 100 trong bảng Mathang",
+            "Hiển thị tổng sô lượng tồn của các mặt hàng",
+            "Hiện lên tất cả các trường dữ liệu các mặt hàng có Luongton không nằm trong khoảng từ 30 đến 100 trong bảng Mahang"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "ALTER TABLE DSSV ALTER COLUMN NgaySinh DateTime",
+        "options": [
+            "Thay đổi kiểu dữ liệu của trường NgaySinh thành dạng Date/Time",
+            "Thay đổi kiểu dữ liệu của trường NgaySinh thành dạng Date",
+            "Xóa trường NgaySinh có kiểu dữ liệu là Date",
+            "Xóa trường NgaySinh có kiểu dữ liệu là Date/Time"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Lựa chọn phương án trả lời đúng: “Lệnh SQL được sử dụng để thêm và đưa dữ liệu vào bảng với các giá trị tương ứng với các cột là lệnh…”",
+        "options": [
+            "INSERT",
+            "DELETE",
+            "SELECT",
+            "UPDATE"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Các dòng trong một bảng của cơ sở dữ liệu",
+        "options": [
+            "Phải được nạp theo thứ tự tăng dần của chỉ số do hệ quản trị cơ sở dữ liệu tự động tạo ra cho khóa chính",
+            "Có thể được nạp vào theo thứ tự tùy ý",
+            "Phải được nạp theo thứ tự tăng dần của khóa chính",
+            "Không được nạp vào khi chưa đặt khóa chính cho bảng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho bảng HANGBAN gồm các trường: SOHD, MAHANG, NGAYBAN, SOLUONG, DONGIA. Câu lệnh nào sau đây KHÔNG thực hiện được nhiệm vụ đưa ra tất cả các truờng từ bảng",
+        "options": [
+            "Select SOHD, MAHANG, NGAYBAN, SOLUONG, DONGIA From HANGBAN",
+            "SELECT * FROM HANGBAN",
+            "Select Distinct SOHD, MAHANG, NGAYBAN, SOLUONG, DONGIA From HANGBAN",
+            "Select SOHD, MAHANG, NGAYBAN, SOLUONG AND DONGIA From HANGBAN"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hàm nào không dùng được trong câu lệnh SQL?",
+        "options": [
+            "Max",
+            "Mean",
+            "Count",
+            "Min"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chọn phương án đúng điền vào chỗ trống “Mỗi \"thuộc tính\" của một thực thể được ghi nhận bởi một ......... của một bảng trong CSDL”",
+        "options": [
+            "Dòng",
+            "Bản ghi",
+            "Cột",
+            "Khóa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select * from r1 where (A, B, C) not in (select * from r2)” thực hiện biểu thức đại số quan hệ nào:",
+        "options": [
+            "r1 + r2",
+            "r1 u r2",
+            "r1 Ո r2",
+            "r1 - r2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho các lược đồ quan hệ sau: R=(A, B, C) và S = (D, E, F). Xét quan hệ r(R); s(S) cùng r1, r2 là hai quan hệ trên R. Câu lệnh SQL “select distinct * from r, s” thực hiện biểu thức đại số quan hệ nào:",
+        "options": [
+            "r + s",
+            "r U s",
+            "r – s",
+            "r x s"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Kết quả của câu lệnh SQL sau đây là gì? SELECT * FROM DSSV WHERE HoTen LIKE ‘T*’",
+        "options": [
+            "Đưa ra danh sách tất cả các cột trong bảng SV thỏa mãn điều kiện Họ và tên sinh viên bắt đầu bởi chữ T",
+            "Đưa ra danh sách tất cả các cột trong bảng DSSV thỏa mãn điều kiện Họ và tên sinh viên kết thúc bởi chữ T",
+            "Đưa ra danh sách tất cả các cột trong bảng DSSV thỏa mãn điều kiện Họ và tên sinh viên có chứa chữ T",
+            "Đưa ra danh sách tất cả các cột trong bảng DSSV thỏa mãn điều kiện Họ và tên sinh viên bắt đầu bởi chữ T"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giả sử có Table Sinhvien(Masv, Hosv, Tensv, Ngaysinh, Phai). Trong đó Ngaysinh(Short date) và PHAI(Yes/no). Để hiển thị danh sách sinh viên gồm các cột : Masv; Hosv; Tensv; Namsinh; Tuoi (Tuoi = Năm hiện tại - năm sinh) từ bảng Sinhvien ta thực hiện câu truy vấn SQL sau:",
+        "options": [
+            "Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi=Year(Date())-Year([Namsinh]);",
+            "Select Masv, Hosv, Tensv, Namsinh, Tuoi As Year(Date())- Year([Namsinh]) AS From Sinhvien;",
+            "Select Masv, Hosv, Tensv, Namsinh, Tuoi From Sinhvien Where Tuoi:Year(Date())-Year([Namsinh]);",
+            "Select Masv, Hosv, Tensv, year(ngaysinh) AS Namsinh, Year(Date())- Year(Ngaysinh) As Tuoi From Sinhvien;"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giả sử có 2 quan hệ như sau: S (S#, SNAME, STATUS, CITY): hãng cung ứng. SP(S#, P#, QTY): cung ứng sản phẩm. Trong đó: S# - mã hãng cung ứng, SNAME – tên hãng cung ứng, STATUS – trạng thái, CITY – thành phố, P# - Mã hàng, QTY-số lượng. Hãy cho biết kết quả của câu lệnh sau: SELECT SNAME FROM S WHERE S# IN (SELECT S# FROM SP WHERE P#=’P2’)",
+        "options": [
+            "Đưa ra mã của sản phẩm ‘P2’",
+            "Đưa ra tên của các hãng cung ứng sản phẩm ‘P#’",
+            "Đưa ra tên của các hãng cung ứng sản phẩm ‘P2’",
+            "Đưa ra mã của các hãng cung ứng sản phẩm ‘P2’"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu lệnh SQL sau đây thực hiện công việc gì? DELETE FROM MON WHERE SOTC>4",
+        "options": [
+            "Sửa dữ liệu trong bảng MON các môn có số tín chỉ (SOTC) > 4",
+            "Xóa bảng MON trong cơ sở dữ liệu khi số tín chỉ (SOTC) > 4",
+            "Xóa khỏi bảng MON các môn học có số tín chỉ (SOTC) trên 4",
+            "Sửa bảng MON trong cơ sở dữ liệu khi số tín chỉ (SOTC) trên 4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho bảng SV (MaSV char(4), MaMon char(3), Diem Float, HocBong Float). Cho biết câu lệnh SQL thực hiện cập nhật trường HocBong = 5000000 cho tất cả các sinh viên trong bảng SV có Diem >=8.",
+        "options": [
+            "Update HocBong = 5000000 Where Diem>=8;",
+            "Update From SV Where HocBong = 5000000 and Diem>=8;",
+            "Update SV set HocBong = 5000000 Where Diem>=8;",
+            "Update HocBong = 5000000 Where Diem>=8 From SV;"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho bảng NHANVIEN(MANV char(4) primary key, HOTEN varchar(40), VITRI varchar(50), SODT varchar(20)). Câu lệnh SQL sau đây thực hiện công việc gì? Update NhanVien Set ViTri = ‘Phó Giám đốc’ Where Hoten = ‘Nguyễn Nam’ ;",
+        "options": [
+            "Cập nhật lại trường HoTen là Nguyễn Nam cho người có ViTri Phó Giám đốc trong bảng NHANVIEN.",
+            "Cập nhật lại trường ViTri của người có tên là Nguyễn Nam trong bảng NhanVien thành Phó Giám đốc.",
+            "Xóa ViTri Phó Giám đốc của Nguyễn Nam để trở thành Nhân viên.",
+            "Tìm ViTri Phó Giám đốc của ông Nguyễn Nam."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho bảng SV (MaSV char(4), MaMon char(3), Diem Float, HocBong Float). Cho biết câu lệnh SQL nào sau đây thực hiện việc xóa trường HocBong?",
+        "options": [
+            "Alter Table SV Delete Column HocBong ;",
+            "Drop Column HocBong From SV ;",
+            "Delete Column HocBong From SV ;",
+            "Alter Table SV Drop Column HocBong ;"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Kết quả của câu lệnh SQL sau đây là gì? SELECT MaSV, DiemThi FROM Diem WHERE MaMon = ‘THUD’",
+        "options": [
+            "Đưa ra danh sách gồm Mã sinh viên và điểm thi của các sinh viên học môn THUD từ bảng Diem.",
+            "Đưa ra danh sách gồm Tên sinh viên và điểm thi của các sinh viên học môn THUD từ bảng Diem.",
+            "Đưa ra danh sách gồm Họ tên sinh viên và điểm thi của các sinh viên học môn THUD từ bảng Diem",
+            "Đưa ra danh sách gồm Mã sinh viên và điểm thi của các sinh viên học môn THDC từ bảng Diem."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Để đưa ra một bảng có một cột Họ tên các sinh viên được trích ra từ bảng DSSV và loại bỏ các giá trị Họ tên bị trùng lặp thì dùng lệnh nào sau đây?",
+        "options": [
+            "SELECT HoTen FROM DSSV",
+            "SELECT HoTen FROM SV",
+            "SELECT Ten FROM DSSV",
+            "SELECT DISTINCT HoTen FROM DSSV"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giả sử có 2 quan hệ Hãng cung ứng (S) và Cung ứng sản phẩm (SP) như sau: S (S#, SNAME, STATUS, CITY) và SP(S#, P#, QTY). Trong đó: S# là mã hãng cung ứng, SNAME là tên hãng cung ứng, STATUS là trạng thái, CITY là thành phố, P# là Mã hàng, QTY là số lượng. Hãy cho biết kết quả của câu lệnh sau: SELECT SNAME FROM S WHERE STATUS >= ALL(SELECT STATUS FROM S).",
+        "options": [
+            "Đưa ra tên của tất cả các hãng cung ứng",
+            "Đưa ra mã của tất cả các hãng cung ứng",
+            "Đưa ra tên của hãng có trạng thái lớn nhất",
+            "Đưa ra mã của hãng có trạng thái lớn nhất"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Kết quả của câu lệnh SQL sau đây là gì? SELECT MaSV, DiemHP FROM Diem WHERE DiemHP <5",
+        "options": [
+            "Đưa ra danh sách từ bảng Diem bao gồm Mã sinh viên và Điểm học phần của các sinh viên có DiemHP nhỏ hơn 5.",
+            "Đưa ra danh sách từ bảng Diem bao gồm Mã sinh viên và điểm học phần của các sinh viên có DiemHP từ 5 trở lên.",
+            "Đưa ra danh sách từ bảng DiemHP bao gồm Mã sinh viên và điểm học phần của các sinh viên có Diem từ 5 trở lên.",
+            "Đưa ra danh sách từ bảng DiemHP bao gồm Mã sinh viên và điểm học phần của các sinh viên có Diem nhỏ hơn 5"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Từ khóa SQL nào được sử dụng để chỉ truy xuất các giá trị duy nhất?",
+        "options": [
+            "UNIQUE",
+            "DISTINCT",
+            "DIFFERENT",
+            "DISTINCTIVE"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho quan hệ HangNhap(MaHang, NgayNhap, SLNhap). Câu lệnh SQL sau thực hiện nhiệm vụ gì? Select MaHang, Count(*) As SoLanNhap, Sum(SLNhap) As TongSoNhap From HangNhap Group By MaHang ;",
+        "options": [
+            "Cho biết tổng số hàng nhập theo ngày nhập.",
+            "Cho biết tất cả các hàng nhập theo ngày nhập hàng.",
+            "Cho biết mỗi Mã hàng (MaHang) nhập bao nhiêu lần (SoLanNhap) và tổng số hàng đã nhập (TongSoNhap) của mỗi mã là bao nhiêu.",
+            "Cho biết tổng số hàng đã nhập trong năm."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu lệnh SQL sau đây thực hiện công việc gì? SELECT Khachhang, COUNT(Dondathang) FROM Sales GROUP BY Khachhang HAVING COUNT(Dondathang) >5",
+        "options": [
+            "Chọn tất cả khách hàng từ bảng Sales.",
+            "Chọn tất cả những đơn hàng &gt; 5 từ bảng Khachhang.",
+            "Chọn tất cả khách hàng từ bảng Sales đã thực hiện hơn 5 đơn hàng.",
+            "Chọn tổng số đơn đặt hàng từ bảng Sales, nếu số này lớn hơn 5"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho bảng customer(cat_id, customer_name). Câu lệnh nào sau đây sẽ thực thi thành công?",
+        "options": [
+            "SELECT customer_name FROM customers WHERE cat_id = 12 ORDER BY cat_id;",
+            "SELECT customer FROM customer_name;",
+            "SELECT FROM customers customer name;",
+            "SELECT customer_name FROM customers ORDER BY zone WHERE cat_id = 12;"
+        ],
+        "answer": 0
+    }
+]

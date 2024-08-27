@@ -1,0 +1,2212 @@
+[
+    {
+        "question": "Khi nghiên cứu sản xuất ngắn hạn (SR) chúng ta sẽ giả định rằng:",
+        "options": [
+            "Chỉ có lượng sản xuất là biến thiên, các yếu tố khác không đổi",
+            "Chỉ có lượng đầu vào lao động là thay đổi, lượng tư bản sử dụng cố định",
+            "Chỉ có lượng đầu vào lao động là thay đổi, các yếu tố khác centeris paribus",
+            "Chỉ có lượng sản xuất là biến thiên, lượng tư bản sử dụng cố định"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khi nghiên cứu sản xuất ngắn hạn (SR), mệnh đề nào sau đây đúng:",
+        "options": [
+            "Giả định rằng lượng sản xuất là thay đổi, lượng tư bản sử dụng cố định",
+            "Sản lượng Q phụ thuộc vào các yếu tố biến đổi như công nghệ, vốn, ...",
+            "Hàm số theo L được biểu thị là: Q = f(L)",
+            "Các đáp án trên đều đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Năng suất bình quân là:",
+        "options": [
+            "Số sản phẩm trung bình mà một đơn vị đầu vào nào đó tạo ra.",
+            "Số sản phẩm trung bình mà một đơn vị đầu vào nào đó tạo ra trong một khoảng thời gian nhất định",
+            "Tổng sản phẩm chia đầu người tham gia sản xuất của một đơn vị đầu vào",
+            "Tổng sản phẩm chia đầu người tham gia sản xuất của một đơn vị đầu vào trong một khoảng thời gian nhất định"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Công thức tính sản phẩm bình quân là:",
+        "options": [
+            "Sản phẩm bình quân = Tổng sản lượng / Số lượng lao động tham gia sản xuất",
+            "Sản phẩm bình quân = Tổng sản lượng / Số lượng đầu vào",
+            "Sản phẩm bình quân = Tổng sản lượng / Thời gian sản xuất",
+            "Sản phẩm bình quân = Tổng sản lượng / Tổng cơ sở vật chất đầu vào"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kí hiệu của năng suất bình quân/sản phẩm bình quân của lao động là:",
+        "options": [
+            "ADL",
+            "ADP",
+            "ADE",
+            "APL"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Công thức tính sản phẩm bình quân của lao động là:",
+        "options": [
+            "Sản phẩm bình quân của lao động = Tổng sản lượng / Số lượng lao động sử dụng",
+            "Sản phẩm bình quân của lao động = Tổng sản lượng / Số lượng đầu vào",
+            "Sản phẩm bình quân của lao động = Tổng sản lượng / Thời gian sản xuất",
+            "Sản phẩm bình quân của lao động = Tổng sản lượng / Tổng cơ sở vật chất đầu vào"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Công thức tổng quát để tính sản phẩm bình quân của lao động là:",
+        "options": [
+            "APL = Q / L",
+            "APL = Q / K",
+            "APL = Q / f(L)",
+            "APL = Q / P"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Công thức tổng quát để tính sản phẩm bình quân của tư bản là:",
+        "options": [
+            "APK = Q / L",
+            "APK = Q / K",
+            "APK = Q / f(L)",
+            "APK = Q / P"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Để nghiên cứu năng suất cận biên chẳng hạn của lao động, chúng ta hãy:",
+        "options": [
+            "Bỏ qua các yếu tố sản xuất khác mà giả định chỉ để ý đến các yếu tố đầu vào và lao động tham gia sản xuất",
+            "Bỏ qua các yếu tố sản xuất khác mà giả định chỉ xem xét mối quan hệ giữa lao động tăng thêm và số lượng sản phẩm sản xuất ra.",
+            "Chỉ xét các yếu tố sản xuất khác mà bỏ qua các yếu tố đầu vào và lao động tham gia sản xuất",
+            "Chỉ xét các yếu tố sản xuất khác mà bỏ qua mối quan hệ giữa lao động tăng thêm và số lượng sản phẩm sản xuất ra."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sản phẩm cận biên/Năng suất cận biên (MP) phản ánh:",
+        "options": [
+            "Số sản phẩm giảm đi do một đơn vào bổ sung mang lại",
+            "Số sản phẩm giảm đi khi một nhân tố bất kì của sản xuất đầu vào bị ảnh hưởng, các nhân tố khác không đổi",
+            "Số sản phẩm tăng lên do một đơn vị vào bổ sung mang lại",
+            "Số sản phẩm tăng lên khi một nhân tố bất kì của sản xuất đầu vào bị ảnh hưởng, các nhân tố khác không đổi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Công thức tính sản phẩm cận biên (MP) là:",
+        "options": [
+            "MP = Thay đổi của tổng sản lượng / Thay đổi của lượng cầu thị trường",
+            "MP = Thay đổi của tổng sản lượng / Thay đổi giá thị trường",
+            "MP = Thay đổi của tổng sản lượng / Thay đổi của các yếu tố sản xuất",
+            "MP = Thay đổi của tổng sản lượng / Thay đổi của lượng đầu vào"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Công thức tính sản phẩm cận biên của lao động (MPL) là :",
+        "options": [
+            "MPL = ∆Q / ∆S",
+            "MPL = ∆Q / ∆K",
+            "MPL = ∆Q / ∆P",
+            "MPL = ∆Q / ∆L"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Công thức tính năng suất cận biên/sản phẩm cận biên của tư bản (MPK) là:",
+        "options": [
+            "MPK = ∆Q / ∆S",
+            "MPK = ∆Q / ∆K",
+            "MPK = ∆Q / ∆P",
+            "MPK = ∆Q / ∆L"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đối với hầu hết các quá trình sản xuất, sản phẩm cận biên của lao động:",
+        "options": [
+            "Tăng dần ở một thời điểm nhất định",
+            "Tăng dần khi một yếu tố thay đổi, các yếu tố khác centeris paribus",
+            "Giảm dần ở một thời điểm nhất định",
+            "Giảm dần khi một yếu tố thay đổi, các yếu tố khác centeris paribus"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đối với hầu hết các quá trình sản xuất, sản phẩm cận biên của lao động giảm dần ở một thời điểm nhất định. Điều này có đúng với sản phẩm cận biên của các đầu vào khác không ? Vì sao ?",
+        "options": [
+            "Không. Do với các đầu vào khác nhau thì năng suất cận biên của lao động khác nhau. Do đó sản phẩm cận biên của lao động khác nhau.",
+            "Có. Do điều này là cố định với mọi đầu vào sản xuất",
+            "Không. Do sự tỉ lệ của các đầu vào, nên khi một đầu vào có sản phẩm cận biên của lao động giảm thì sẽ tồn tại một đầu vào khác có sản phẩm cận biên của lao động tăng",
+            "Có. Do điều này được tính dựa trên vào các công thức cố định, nên nó không biến thiên trong suốt quá trình sản xuất"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quy luật năng suất cận biên giảm dần phát biểu rằng:",
+        "options": [
+            "Năng suất cận biên của một đầu vào biến đổi sẽ giảm dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)",
+            "Năng suất cận biên của một đầu vào cố định sẽ giảm dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)",
+            "Năng suất cận biên của một đầu vào biến đổi sẽ tăng dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)",
+            "Năng suất cận biên của một đầu vào cố định sẽ tăng dần khi sử dụng ngày càng nhiều hơn đầu vào đó trong quá trình sản xuất (Với điều kiện giữ nguyên lượng sử dụng các đầu vào cố định khác)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tại sao tồn tại quy luật năng suất cận biên giảm dần?",
+        "options": [
+            "Vì khi các đơn vị đầu vào biến đổi thì số lượng yếu tố cố định bị lép vế",
+            "Vì khi cố định một số yếu tố mà không tận dụng được các yếu tố khác vào sản xuất thì năng suất giảm dần",
+            "Vì khi càng nhiều đơn vị đầu vào biến đổi được sử dụng thì các yếu tố cố định không còn nữa",
+            "Vì khi các đơn vị đầu vào biến đổi thì các yếu tố cố định không thể đáp ứng được"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quy luật năng suất cận biên giảm dần cho biết điều gì?",
+        "options": [
+            "Mỗi một đơn vị đầu vào biến đổi tăng thêm được sử dụng trong quá trình sản xuất sẽ đem lại lượng sản phẩm bổ sung (MP) nhiều hơn đơn vị đầu vào trước đó",
+            "Sản phẩm cận biên của đầu vào biến đổi bắt đầu giảm tại một mức đầu vào biến đổi nhất định và có thể bằng không hoặc âm.",
+            "Khi một yếu tố đầu vào sản xuất thay đổi thì các yếu tố cố định không đủ đáp ứng được nhu cầu sản xuất",
+            "Cả A và B"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quy luật \"Năng suất cận biên giảm dần\" chỉ áp dụng được khi:",
+        "options": [
+            "Tất cả các đầu vào khác giữ nguyên.",
+            "Các yếu tố cố định giữ nguyên",
+            "Các yếu tố đầu vào thay đổi",
+            "Một trong các yếu tố sản xuất như con người, công nghệ, đất đai... thay đổi, các yếu tố khác centeris paribus"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Quy luật \"Năng suất cận biên giảm dần\" chỉ có thể áp dụng trong:",
+        "options": [
+            "Dài hạn",
+            "Ngắt quãng",
+            "Ngắn hạn",
+            "Khi các yếu tố đầu vào thay đổi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đường tổng sản lượng mô tả:",
+        "options": [
+            "Sự thay đổi của đầu ra khi lao động được sử dụng trong quá trình sản xuất tăng lên có dạng hình chuông tăng, đạt giá trị lớn nhất và giảm xuống",
+            "Sự thay đổi của đầu ra khi lượng đầu vào biến đổi được sử dụng trong quá trình sản xuất giảm xuống có dạng hình chuông giảm, đạt giá trị nhỏ nhất và tăng lên",
+            "Sự thay đổi của đầu ra khi lao động được sử dụng trong quá trình sản xuất tăng lên có dạng hình chuông tăng",
+            "Sự thay đổi của đầu ra khi lượng đầu vào biến đổi được sử dụng trong quá trình sản xuất giảm xuống có dạng hình chuông giảm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Khi có sự thay đổi (như cải tiến công nghệ) thì đường tổng sản lượng:",
+        "options": [
+            "Dịch chuyển xuống dưới",
+            "Dịch chuyển lên trên",
+            "Dịch chuyển sang trái",
+            "Dịch chuyển sang phải"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Độ dốc của đường tổng sản lượng giảm đến 0 khi:",
+        "options": [
+            "P là lớn nhất",
+            "L là lớn nhất",
+            "Q là lớn nhất",
+            "K là lớn nhất"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu mỗi lao động tăng thêm làm ra được nhiều sản phẩm hơn những đơn vị lao động trước thì:",
+        "options": [
+            "Năng suất bình quân của lao động tăng lên",
+            "Năng suất bình quân của lao động giảm xuống",
+            "Năng suất bình quân tăng lên",
+            "Năng suất bình quân giảm xuống"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu năng suất cận biên tăng thì:",
+        "options": [
+            "Năng suất bình quân của lao động tăng lên",
+            "Năng suất bình quân của lao động giảm xuống",
+            "Năng suất bình quân tăng lên",
+            "Năng suất bình quân giảm xuống"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trên đường sản phẩm bình quân, khi năng suất cận biên lớn hơn năng suất bình quân thì:",
+        "options": [
+            "Đẩy năng suất bình quân lên",
+            "Đẩy năng suất bình quân xuống",
+            "Đẩy năng suất cận biên lên",
+            "Đẩy năng suất cận biên xuống"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trên đường sản phẩm bình quân, khi năng suất cận biên nhỏ hơn năng suất bình quân thì:",
+        "options": [
+            "Đẩy năng suất bình quân lên",
+            "Đẩy năng suất bình quân xuống",
+            "Đẩy năng suất cận biên lên",
+            "Đẩy năng suất cận biên xuống"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trên đường sản phẩm bình quân, khi năng suất cận biên bằng năng suất bình quân thì:",
+        "options": [
+            "Đẩy năng suất bình quân lên",
+            "Đẩy năng suất bình quân xuống",
+            "Đẩy năng suất cận biên lên",
+            "Năng suất bình quân không đổi (Ở điểm lớn nhất)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hàm sản xuất biểu hiện:",
+        "options": [
+            "Mối quan hệ kỹ thuật giữa các yếu tố sản xuất - đầu vào của quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này",
+            "Mối quan hệ giữa các yếu tố sản xuất - đầu vào của quá trình sản xuất, quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này",
+            "Mối quan hệ giữa các chủ thể kinh tế trong đó nhà sản xuất là người đóng vai trò quyết định, dựa trên đầu vào sản xuất, quá trình sản xuất và sản lượng đầu ra được tạo ra từ quá trình này",
+            "Không đáp án nào đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cụ thể, hàm sản xuất cho biết điều gì ?",
+        "options": [
+            "Sản lượng hàng hóa có thể tạo ra",
+            "Năng suất trung bình của lao động",
+            "Sản lượng hàng hóa tối đa có thể tạo ra",
+            "Năng suất trung bình của tư bản"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong các yếu tố của hàm sản xuất, yếu tố không đổi là:",
+        "options": [
+            "Lao động",
+            "Vốn",
+            "Đất đai",
+            "Công nghệ"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Để nghiên cứu lý thuyết hành vi người sản xuất, cần có giả định gì để đơn giản hóa?",
+        "options": [
+            "Tất cả những người lao động đều cung cấp những dịch vụ lao động giống nhau",
+            "Các hãng có hành vi là tối đa hóa lợi nhuận trong kinh tế thị trường",
+            "A và B",
+            "Không có đáp án nào đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hàm sản xuất tuyến tính có dạng:",
+        "options": [
+            "Q = aK + bL",
+            "Q / L = a.(K.L) + b",
+            "Q = a(K + L)",
+            "Q / K = a.(K.L) + b"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hàm sản xuất Leontief có dạng:",
+        "options": [
+            "Q = max(aK, bL)",
+            "Q = min(aK, bL)",
+            "Q = max(a(K + L), b(K / L))",
+            "Q = min(a(K + L), b(K / L))"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hàm sản xuất Cobb-Douglass có dạng:",
+        "options": [
+            "Q = A.(K^a).(L^b)\n A > 0;  0 < a, b < 1",
+            "Q = A.(K^a) + B.(L^b)\n A > 0;  0 < a, b < 1",
+            "Q = A.(K.L)^a\n A > 0;  0 < a, b < 1",
+            "Q = A.(K.L)^b\n A > 0;  0 < a, b < 1"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Dạng tuyến tính của hàm sản xuất Cobb-Douglass là:",
+        "options": [
+            "ln(Q) = (ln(A) / a.ln(K)) + (ln(A) / b.ln(L))",
+            "ln(Q) = ln(A) + a.(ln(K) + ln(L))",
+            "ln(Q) = ln(A) + a.ln(K) + b.ln(L)",
+            "ln(Q) = ln(A) / ln(K)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho hàm sản xuất Cobb-Douglass:\n Q = f(K, L) = A.(K^a).(L^b)\nGiả sử cố định K, năng suất cận biên của lao động được tính bằng công thức:",
+        "options": [
+            "MPL = A.(K^a)/(L^b)",
+            "MPL = A.(K.L)/a",
+            "MPL = A.(K^a).b.L^(b-1)",
+            "MPL = A.a.K^(a-1).L^b"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho hàm sản xuất Cobb-Douglass:\n Q = f(K, L) = A.(K^a).(L^b)\nĐể xét mối quan hệ giữa năng suất cận biên của lao động (MPL) và yếu tố biến đổi K, ta tính bằng công thức:",
+        "options": [
+            "MPL = A.(K^a)/(L^b)",
+            "MPL = A.(K.L)/a",
+            "MPL = A.(K^a).b.L^(b-1)",
+            "MPL = A.(K^a).b.(b-1).L^(b-2)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Khi xét mối quan hệ giữa năng suất cận biên của lao động và yếu tố biến đổi K. Quy luật năng suất cận biên giảm dần được thể hiện qua yếu tố nào?",
+        "options": [
+            "MPL nghịch biến theo L",
+            "MPL nghịch biến theo a, b",
+            "MPL đồng biến tăng dần theo L",
+            "MPL đồng biến tăng dần theo a, b"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Công cụ để phân tích sản xuất dài hạn là:",
+        "options": [
+            "Đường giới hạn khả năng sản xuất (PPF)",
+            "Đường cung cầu thị trường",
+            "Đường đồng sản lượng (Isoquant)",
+            "Đường chi phí cơ hội gia tăng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nhận xét nào sau đây đúng về đường đồng sản lượng (Isoquant) ?",
+        "options": [
+            "Cho thấy mối liên hệ giữa các yếu tố sản xuất đầu vào với sản lượng đầu ra của một đầu vào sản xuất",
+            "Biểu thị tất cả những kết hợp yếu tố đầu vào khác nhau để hãng có thể sản xuất ra cùng một mức sản lượng Q",
+            "Biểu diễn mối quan hệ giữa các nhân tố cố định và các nhân tố có thể thay đổi trong đầu vào sản xuất, quá trình sản xuất và sản lượng của đầu vào đó",
+            "A và B"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đường đồng lượng có dạng:",
+        "options": [
+            "Dốc xuống về phía bên phải",
+            "Dốc xuống về phía bên trái",
+            "Thẳng đứng",
+            "Nằm ngang"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong một họ các đồng đồng lượng, khi thực hiện dịch chuyển từ đường đồng lượng này đến đường đồng lượng khác thì yếu tố không đổi là:",
+        "options": [
+            "Các yếu tố đầu vào",
+            "Sản lượng sản phẩm sản xuất ra",
+            "Năng suất trung bình",
+            "Công nghệ"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Khi vận động dọc theo đường sản lượng, nhận xét nào sau đây đúng?",
+        "options": [
+            "Mức sản lượng giữ nguyên nhưng lượng tư bản và lao động cần thiết để sản xuất ra mức sản lượng đó sẽ thay đổi",
+            "Mức sản lượng thay đổi nhưng lượng tư bản và lao động cần thiết để sản xuất ra mức sản lượng đó sẽ giữ nguyên",
+            "Mức sản lượng giữ nguyên nhưng lượng yếu tố đầu vào để sản xuất ra mức sản lượng đó sẽ thay đổi",
+            "Mức sản lượng thay đổi nhưng lượng yếu tố đầu vào để sản xuất ra mức sản lượng đó sẽ giữ nguyên"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Với một mức đầu ra cho trước, nếu sử dụng ngày càng nhiều hơn đầu vào này thì đầu vào kia sẽ:",
+        "options": [
+            "Được sử dụng nhiều hơn và ngược lại",
+            "Được sử dụng ít hơn và ngược lại",
+            "Số lượng sử dụng cố định (không đổi)",
+            "Tăng giảm tùy thuộc vào mức độ sử dụng và năng suất lao động"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tỉ lệ thay thế kĩ thuật cận biên (MRTS) là:",
+        "options": [
+            "Tỷ lệ chênh lệch giữa các yếu tố sản xuất và sản lượng đầu ra sao cho khi cố định các yếu tố sản xuất thì sản lượng đầu ra không đổi",
+            "Tỷ lệ phần trăm chênh lệch giữa các yếu tố sản xuất và sản lượng đầu ra sao cho khi cố định các yếu tố sản xuất thì sản lượng đầu ra không đổi",
+            "Tỷ lệ thay thế giữa các yếu tố sản xuất nhưng vẫn đảm bảo tạo ra một mức sản lượng không đổi",
+            "Tỷ lệ thay thế phần trăm giữa các yếu tố sản xuất nhưng vẫn đảm bảo tạo ra một mức sản lượng không đổi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ý nghĩa cụ thể của tỷ lệ thay thế kĩ thuật cận biên MRTS là:",
+        "options": [
+            "Lượng tư bản phải giảm đi bao nhiêu khi sử dụng thêm một đơn vị lao động để vẫn tạo ra được mức sản lượng như cũ",
+            "Lượng tư bản phải tăng thêm bao nhiêu khi sử dụng thêm một đơn vị lao động để vẫn tạo ra được mức sản lượng như cũ",
+            "Để tăng thêm 1 đơn vị sản lượng đầu ra thì lượng tư bản phải tăng thêm bao nhiêu khi sử dụng thêm một đơn vị lao động",
+            "Để tăng thêm 1 đơn vị sản lượng đầu ra thì lượng tư bản phải giảm thêm bao nhiêu khi sử dụng thêm một đơn vị lao động"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trên đường đồng sản lượng, tỉ lệ thay thế kĩ thuật (MRTS) được biểu diễn bởi:",
+        "options": [
+            "Các điểm trên đường đồng sản lượng",
+            "Độ dốc",
+            "Độ dài",
+            "Số giao điểm của đường này với đường khác"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Công thức tính MRTS là:",
+        "options": [
+            "MRTS = ∆K/∆L",
+            "MRTS = -∆K/∆L",
+            "MRTS = ∆K.∆L",
+            "A và B"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Để biết rằng khi vận động dọc theo đường đồng sản lượng thì việc thay thế lao động cho tư bản thay đổi thế nào để giữ nguyên sản lượng, ta dựa vào biểu thức nào:",
+        "options": [
+            "MPL / MPK = ∆L / ∆K",
+            "MPL.∆L + MPK.∆K = 0",
+            "MPL.∆L / MPK.∆K = 1",
+            "MPL.∆K - MPK.∆L = 0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khi đầu vào là thay thế hoàn hảo, điều nào sau đây SAI?",
+        "options": [
+            "Các đường đồng lượng là các đường thẳng",
+            "MRTS là một hằng số",
+            "Các đường đồng lượng có độ dốc lớn",
+            "Các đường Q1, Q2, ... Qn song song với nhau"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khi đầu vào là bổ sung hoàn hảo, điều nào sau đây đúng?",
+        "options": [
+            "Các đường đồng sản lượng có dạng đường tuyến tính",
+            "Chỉ có một kết hợp lao động và tư bản có thể được sử dụng để sản xuất một sản lượng nhất định",
+            "MRTS là một hằng số",
+            "Các đường Q1, Q2, ... Qn song song với nhau"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi đó ta có:",
+        "options": [
+            "𝝀Q = f(hK, hL)",
+            "𝝀Q = f(K, L)",
+            "𝝀Q = f(hK / hL)",
+            "𝝀Q = f(hL / hK)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất tăng theo quy mô?",
+        "options": [
+            "𝝀/h > 1",
+            "𝝀/h < 1",
+            "𝝀/h = 1",
+            "𝝀/h = 0"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất giảm theo quy mô?",
+        "options": [
+            "𝝀/h > 1",
+            "𝝀/h < 1",
+            "𝝀/h = 1",
+            "𝝀/h = 0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giả sử rằng hãng tăng cả 2 đầu vào K, L lên h lần và gọi 𝝀 là mức tăng tương ứng của sản phẩm đầu rKhi nào thì hiệu suất không đổi theo quy mô?",
+        "options": [
+            "𝝀/h > 1",
+            "𝝀/h < 1",
+            "𝝀/h = 1",
+            "𝝀/h = 0"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đối với hàm sản xuất Cobb-Douglass, hiệu suất giảm theo quy mô khi:",
+        "options": [
+            "α + β < 1",
+            "α + β > 1",
+            "α + β = 1",
+            "α + β = 0"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đối với hàm sản xuất Cobb-Douglass, hiệu suất tăng theo quy mô khi:",
+        "options": [
+            "α + β < 1",
+            "α + β > 1",
+            "α + β = 1",
+            "α + β = 0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đối với hàm sản xuất Cobb-Douglass, hiệu suất không đổi theo quy mô khi:",
+        "options": [
+            "α + β < 1",
+            "α + β > 1",
+            "α + β = 1",
+            "α + β = 0"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ngắn hạn là gì?",
+        "options": [
+            "Là khoảng thời gian trong đó có nhiều nhất một đầu vào của doanh nghiệp là cố định",
+            "Là khoảng thời gian được dự tính trước sao cho các yếu tố đầu vào sản xuất của doanh nghiệp có thể sản xuất ra được một sản lượng Q cố định",
+            "Là khoảng thời gian được chưa biết trước sao cho các yếu tố đầu vào sản xuất của doanh nghiệp có thể sản xuất ra được một sản lượng Q cố định",
+            "Là khoảng thời gian trong đó có ít nhất một đầu vào của doanh nghiệp là cố định"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Dài hạn là gì?",
+        "options": [
+            "Là khoảng thời gian trong đó doanh nghiệp dự trù trước lượng yếu tố sản xuất đầu vào để thay đổi năng suất lao động cho phù hợp",
+            "Là khoảng thời gian trong đó doanh nghiệp có thể thay đổi tất cả các đầu vào sử dụng trong quá trình sản xuất",
+            "Là khoảng thời gian mà khi cố định ít nhất một yếu tố đầu vào thì sản lượng đầu ra của doanh nghiệp không đổi",
+            "A và B"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hàm sản xuất trong ngắn hạn giả sử rằng:",
+        "options": [
+            "Số lượng vốn là không đổi",
+            "Các yếu tố công nghệ đầu vào là không đổi",
+            "Số lượng lao động đầu vào là không đổi",
+            "Vốn, con người, và đất đai không đổi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chi phí tài nguyên là gì?",
+        "options": [
+            "Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm",
+            "Là chi phí các nguồn nhân lực mà nhà sản xuất sẵn có để sản xuất ra sản phẩm",
+            "Là tổng chi phí mà nhà sản xuất phải trả để có được các nguyên liệu và yếu tố đầu vào để sản xuất ra sản phẩm",
+            "Là tổng chi phí mà nhà sản xuất phải trả cho các nguồn nhân lực có sẵn để tạo ra sản phẩm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu là cơ sở khoa học của việc nghiên cứu và xác định chi phí bằng tiền ?",
+        "options": [
+            "Nghiên cứu hàm sản xuất chi",
+            "Nghiên cứu chi phí về tài nguyên",
+            "Nghiên cứu sự biến đổi của các yếu tố đầu vào",
+            "A và B"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chi phí kinh tế là gì ?",
+        "options": [
+            "Là giá trị toàn bộ các nguồn tài nguyên sử dụng để sản xuất ra hàng hóa dịch vụ",
+            "Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm",
+            "Là chi phí bằng tiền mà hãng đã thực sự bỏ ra để sản xuất các hàng hóa dịch vụ",
+            "Là chi phí mà nhà sản xuất cần trả cho các yếu tố đầu vào để tạo ra một sản lượng Q cố định"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chi phí tính toán/kế toán là gì ?",
+        "options": [
+            "Là giá trị toàn bộ các nguồn tài nguyên sử dụng để sản xuất ra hàng hóa dịch vụ",
+            "Là chi phí các nguồn nhân lực tính bằng hiện vật để sản xuất ra sản phẩm",
+            "Là chi phí bằng tiền mà hãng đã thực sự bỏ ra để sản xuất các hàng hóa dịch vụ",
+            "Là chi phí mà nhà sản xuất cần trả cho các yếu tố đầu vào để tạo ra một sản lượng Q cố định"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mệnh đề nào sau đây đúng?",
+        "options": [
+            "Chi phí kinh tế là chi phí không cần thiết đối với thị trường cạnh tranh hoàn hảo",
+            "Chi phí kinh tế lớn hơn chi phí kế toán",
+            "Chi phi kinh tế là cơ sở cho các nhà sản xuất độc quyền xác định giá trị Q và P cho sản phẩm sao cho đạt được doanh thu lớn nhất",
+            "Chi phi kinh tế là cơ sở cho các nhà sản xuất độc quyền xác định giá trị Q và P cho sản phẩm sao cho đạt được lợi nhuận lớn nhất"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Vấn đề nào sau đây có ý nghĩa kinh tế quan trọng?",
+        "options": [
+            "Bao nhiêu nguồn tài nguyên đã được sử dụng làm yếu tố đầu vào để sản xuất ra một sản lượng Q cố định",
+            "Bao nhiêu nguồn tài nguyên đã được sử dụng làm yếu tố đầu vào để sản xuất ra hàng hóa",
+            "Bao nhiêu nguồn tài nguyên xã hội đã được sử dụng trong sản xuất ra hàng hóa và dịch vụ",
+            "Bao nhiêu nguồn tài nguyên xã hội đã được sử dụng làm yếu tố đầu vào để sản xuất ra một sản lượng Q cố định"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chi phí chìm là:",
+        "options": [
+            "Chi phí cơ hội mà nhà sản xuất không lường trước được",
+            "Khoản tiền mà nhà sản xuất bỏ ra để tiến hành cải thiện các yếu tố đầu vào",
+            "Những khoản chi tiêu đã được thực hiện và không thể thu hồi được",
+            "Chi phí của những cơ hội tốt nhất đã bị bỏ qua trong quá trình cải thiện các yếu tố đầu vào"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chi phí cố định (FC) là:",
+        "options": [
+            "Những chi phí không thay đổi khi sản lượng thay đổi",
+            "Những chi phí phụ thuộc vào các mức sản lượng, tăng giảm cùng việc tăng giảm của sản lượng",
+            "Chi phí mà nhà sản xuất chi trả cho các yếu tố đầu vào để sản xuất ra một sản lượng Q cố định",
+            "Không có đáp án nào đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chi phí biến đổi (VC) là:",
+        "options": [
+            "Những chi phí không thay đổi khi sản lượng thay đổi",
+            "Những chi phí phụ thuộc vào các mức sản lượng, tăng giảm cùng việc tăng giảm của sản lượng",
+            "Chi phí mà nhà sản xuất chi trả cho các yếu tố đầu vào để sản xuất ra một sản lượng Q cố định",
+            "Không có đáp án nào đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu là công thức chính xác để tính tổng chi phí (TC) ?",
+        "options": [
+            "TC = TR - TB",
+            "TC = FC + VC",
+            "TC = TR - P*Q",
+            "TC = P*Q - FC"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chi phí cố định bình quân (AFC) là:",
+        "options": [
+            "Là tổng chỉ phí cố định trên 1 sản phẩm",
+            "Là tổng chi phí cố định của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng",
+            "Là tỉ lệ chỉ phí cố định trên 1 sản phẩm",
+            "Là tỉ lệ chi phí cố định của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chi phí biến đổi bình quân (AVC) là:",
+        "options": [
+            "Là tổng chi phí biến đổi tính trên một đơn vị sản phẩm",
+            "Là tổng chi phí biến đổi của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng",
+            "Là tỉ lệ chỉ phí biến đổi trên 1 sản phẩm",
+            "Là tỉ lệ chi phí biến đổi của yếu tố sản xuất đầu vào trên 1 đơn vị sản lượng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tổng chi phí bình quân (ATC) có công thức tính là:",
+        "options": [
+            "ATC = (AFC + AVC) / 2",
+            "ATC = (AFC + AVC) / (FC + VC)",
+            "ATC = AFC + AVC",
+            "ATC = AFC.AVC"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đẳng thức nào sau đây là phương trình của đường đồng chi phí (Isocost) ?",
+        "options": [
+            "TC = r.K + w.L",
+            "TC = P(K).K + P(L).L",
+            "TC = (PL / L) + (PK / K)",
+            "Cả A và B"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giả sử hãng muốn tối thiểu hóa chi phí với mức sản lượng nhất định thì yếu tố nào sau đây KHÔNG phải là điều kiện để kết hợp tối ưu giữa vốn và lao động:",
+        "options": [
+            "Nó phải nằm trên đường đòng sản lượng Q",
+            "Nằm ở đường đồng chi phí thấp nhất có thể",
+            "Độ dốc của đường đồng chi phí phải là nhỏ nhất",
+            "Nằm ở tiếp điểm giữa đường đồng sản lượng và đường chi phí thấp nhất có thể"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Điều kiện để lựa chọn đầu vào tối ưu của hãng đạt được xác định bằng biểu thức nào sau đây:",
+        "options": [
+            "w.MPL = MPL.r",
+            "MPL / L = MPK / K",
+            "MPL / K = MPK / L",
+            "r.MPL = MPK.w"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Công thức tính chi phí bình quân dài hạn (LAC) là:",
+        "options": [
+            "MPL/Q",
+            "LTC/Q",
+            "LMC/Q",
+            "MPK/Q"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nhận xét nào sau đây KHÔNG đúng về lợi nhuận?",
+        "options": [
+            "Là mục tiêu kinh tế quan trọng nhất",
+            "Là điều kiện tồn tại và phát triển của hãng",
+            "Là mục tiêu duy nhất đối với hành vi của hãng",
+            "Là động lực thúc đẩy các hãng phát triển sản xuất kinh doanh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu là công thức cơ bản để tính lợi nhuận?",
+        "options": [
+            "Pi = TR - TC",
+            "Pi = MR - MC",
+            "Pi = P*Q",
+            "Cả A và C"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Biểu thức toán học để tính lợi nhuận π là:",
+        "options": [
+            "π = TB - TC",
+            "π = Q.(P - ATC)",
+            "π = TR - VC",
+            "π = PS - VC"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Biểu thức toán học để tính lợi nhuận π dựa trên thặng dư PS là:",
+        "options": [
+            "π = PS - TC",
+            "π = PS - FC",
+            "π = PS - VC",
+            "π = PS - MC"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lợi nhuận kinh tế là:",
+        "options": [
+            "Phần chênh lệch giữa tổng doanh thu và tổng chi phí kinh tế",
+            "Phần chênh lệch giữa tổng doanh thu và tổng chi phí tính toán",
+            "Phần chênh lệnh giữa tổng chi phí của lượng sản phẩm bán ra với tổng chi phí dùng cho các yếu tố sản xuất đầu vào để tạo ra sản phẩm đó",
+            "Không có đáp án đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Lợi nhuận tính toán là:",
+        "options": [
+            "Phần chênh lệch giữa tổng doanh thu và tổng chi phí kinh tế",
+            "Phần chênh lệch giữa tổng doanh thu và tổng chi phí tính toán",
+            "Phần chênh lệnh giữa tổng chi phí của lượng sản phẩm bán ra với tổng chi phí dùng cho các yếu tố sản xuất đầu vào để tạo ra sản phẩm đó",
+            "Không có đáp án đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đâu KHÔNG phải là một nhân tố tác động đến lợi nhuận",
+        "options": [
+            "Quy mô sản xuất hàng hóa, dịch vụ",
+            "Giá và chất lượng của các đầu vào",
+            "Quá trình tiêu thụ và thu hồi tư bản",
+            "Giá bán hàng hóa dịch vụ cùng các hoạt động như marketing, công tác tài chính."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Biểu thức nào sau đây KHÔNG phải biểu thức để tối đa hóa lợi nhuận:",
+        "options": [
+            "π' = 0",
+            "MR = MC",
+            "TR' - TC' = 0",
+            "MPL = MPK"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thuế sản lượng là gì?",
+        "options": [
+            "Là tiền thuế phải nộp được tính trên sản lượng sản phẩm bán ra",
+            "Là tiền thuế phải nộp cố định với mỗi doanh nghiệp, không phụ thuộc sản phẩm bán ra",
+            "Là tiền thuế phải nộp tỉ lệ với số lượng các yếu tố đầu vào để sản xuất một lượng đầu ra Q cố định",
+            "A và C"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thuế khoán là gì?",
+        "options": [
+            "Là tiền thuế phải nộp được tính trên sản lượng sản phẩm bán ra",
+            "Là tiền thuế phải nộp cố định với mỗi doanh nghiệp, không phụ thuộc sản phẩm bán ra",
+            "Là tiền thuế phải nộp tỉ lệ với số lượng các yếu tố đầu vào để sản xuất một lượng đầu ra Q cố định",
+            "A và C"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hiệu suất không đổi theo quy mô có nghĩa là:",
+        "options": [
+            "Tăng 𝝀 lần các đầu vào sẽ làm giảm 𝝀 lần sản lượng",
+            "Tăng 𝝀 lần các đầu vào sẽ làm tăng 𝝀 lần sản lượng",
+            "Sản lượng đầu ra không đổi khi tăng 𝝀 lần các yếu tố đầu vào",
+            "Sản lượng đầu ra không đổi khi giảm 𝝀 lần các yếu tố đầu vào"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hiệu suất tăng theo quy mô xảy ra khi nào?",
+        "options": [
+            "Sản lượng tăng hơn gấp 𝝀 lần khi các đầu vào tăng 𝝀 lần",
+            "Sản lượng tăng lên chưa đến 𝝀 lần khi các đầu vào tăng 𝝀 lần",
+            "Quy mô tăng lên 𝝀 lần khiến hiệu suất tăng lên 𝝀%",
+            "Các yếu tố đầu vào được tăng lên 𝝀 lần"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hiệu suất giảm theo quy mô khi nào?",
+        "options": [
+            "Sản lượng tăng hơn gấp 𝝀 lần khi các đầu vào tăng 𝝀 lần",
+            "Sản lượng tăng lên chưa đến 𝝀 lần khi các đầu vào tăng 𝝀 lần",
+            "Quy mô tăng lên 𝝀 lần khiến hiệu suất tăng lên 𝝀%",
+            "Các yếu tố đầu vào được tăng lên 𝝀 lần"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ngoài phát sinh từ mối quan hệ sản xuất kĩ thuật, nguồn gốc tính kinh tế của quy mô KHÔNG phát sinh từ:",
+        "options": [
+            "Sự tồn tại của khả năng không chia được của các đầu vào",
+            "Chuyên môn hóa và phân công lao động",
+            "Sự hiện đại và kịp thời của các lao động",
+            "Ảnh hưởng rút kinh nghiệm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu KHÔNG phải một phương pháp ước lượng tính kinh tế của quy mô?",
+        "options": [
+            "Ước lượng thống kê",
+            "Phương pháp kĩ thuật, công nghệ",
+            "Kĩ thuật điều tra các doanh nghiệp sống sót",
+            "Không có đáp án đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Sản phẩm cận biên của vốn là",
+        "options": [
+            "Sự thay đổi trong tổng sản phẩm do sử dụng thêm một đơn vị lao động, với lượng vốn không đổi",
+            "Sự thay đổi trong tổng sản phẩm do sản phẩm do sử dụng thêm một đơn vị vốn, với lượng lao động không đổi",
+            "Tổng sản phẩm chia cho tổng số vốn sử dụng, với lao động không đổi",
+            "Tổng sản phẩm chia cho tổng số lao động, với số vốn không đổi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khi sản phẩm cận biên của lao động lớn hơn sản phẩm trung bình của lao động",
+        "options": [
+            "Sản phẩm trung bình của lao động đang tăng",
+            "Sản phẩm cận biên của lao động đang giảm",
+            "Đường tổng sản phẩm có độ dốc âm",
+            "Hãng đang có năng suất cận biên giảm dần"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đường tổng sản phẩm là đồ thị của",
+        "options": [
+            "Chi phí tối thiểu để sản xuất một số lượng nhất định đầu ra sử dụng những công nghệ khác nhau",
+            "Lợi nhuận tối đa đạt được từ mỗi đơn vị sản phẩm bán ra",
+            "Sản lượng tối đa đạt được từ mỗi số lượng đầu vào biến đổi được sử dụng",
+            "Sản lượng tối thiểu đạt được từ mỗi số lượng đầu vào được biến đổi được sử dụng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đường tổng sán phẩm càng dốc",
+        "options": [
+            "Mức sản lượng càng cao",
+            "Đường sản phẩm cận biên càng thấp",
+            "Đường tổng chi phí càng cao",
+            "Đường sán phẩm cận biên càng cao"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giả định công ty Xuân Thu có một lượng tài sản cố định dưới hình thức máy dệt. Công ty chỉ có thay đổi sản lượng bằng cách thay đổi lượng lao động. Đây là ví dụ về:",
+        "options": [
+            "Các ràng buộc thị trường",
+            "B.Hiệu quả kinh tế",
+            "Sản xuất ngắn hạn",
+            "D.Sản xuất dài hạn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Một hãng sử dụng phương pháp sản xuất tối thiểu hóa chi phí; sản phẩm cận biện của vốn là 10, giá của một đơn vị vốn là 40 và giá của một đơn vị lao động là 16. Sản phẩm cận biện của lao động là bao nhiêu",
+        "options": [
+            "8",
+            "2",
+            "10",
+            "4"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hàm sản xuất nào dưới đây cho biết hiệu suất tăng dần theo quy mô",
+        "options": [
+            "Q= 2K+3L",
+            "Q= 0,5KL",
+            "Q= 0,5(K^0,5)(l^0,5)",
+            "Q= 0,5(K^0,4)(l^0,4)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khi hãng tăng lượng đầu vào từ (2L,2K) lên (3L,6K) thì sản lượng đầu ra tăng từ 25 lên 35 . Hàm sản xuất của hãng cho biết",
+        "options": [
+            "Hiệu suất tăng theo quy mô",
+            "Hiệu suất giảm theo quy mô",
+            "Hiệu suất không đổi theo quy mô",
+            "Không câu nào đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hàm sản xuất nào dưới đây cho biết hiệu suất giảm dần theo quy mô",
+        "options": [
+            "Q= 2K+3L",
+            "Q= 0,5KL",
+            "Q= 0,5(K^0,5)(l^0,5)",
+            "Q= 0,5(K^0,4)(l^0,4)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nếu chi phí lao động là 50$ một ngày và chi phí thuê máy là 100$ một ngày, kết hợp vốn và lao động nào hãng có thể thuê với 900$?",
+        "options": [
+            "10 máy móc và 4 lao động",
+            "9 máy móc và 7 lao động",
+            "8 máy móc và 8lao động",
+            "4 máy móc và 10 lao động"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tỷ lệ lãi suất là 10% / năm. Bạn đầu tư 150 triệu đồng tiền riêng của mình vào một công việc kinh doanh và kiếm được lợi nhuận tính toán 40 triệu đồng sau một năm. Giả định các yếu tố khác không đổi thì lợi nhuận kinh tế bạn thu được là",
+        "options": [
+            "20 triệu đồng",
+            "25 triệu đồng",
+            "5 triệu đồng",
+            "2 triệu đồng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khi hãng tăng lượng đầu vào từ (2L,2K) lên (4L,4K) thì sản lượng đầu ra tăng từ 20 lên 45 . Hàm sản xuất của hãng cho biết",
+        "options": [
+            "Hiệu suất tăng theo quy mô",
+            "Hiệu suất giảm theo gia mô",
+            "Hiệu suất không đổi theo quy mô",
+            "Không câu nào đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Giả sử tăng thêm 1 đơn vị lao động, từ 2 lên 3 công nhân , sản lượng tăng từ 10 đến 18 áo len. Sản  phẩm cận biên của người công nhân thứ 3 là:",
+        "options": [
+            "1",
+            "3",
+            "4",
+            "8"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hàm sản xuất nào dưới đây cho biết hiệu suất không đổi theo quy mô",
+        "options": [
+            "Q= 2K+3L",
+            "Q= 0,5KL",
+            "Q= 0,5(K^0,5)(l^0,5)",
+            "Cả A và C"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong những tuyên bố đề cập đến chi phí ngắn hạn dưới đây, tuyên bố nào là sai?",
+        "options": [
+            "Tổng chi phí trung bình và chi phí biến đổi trung bình có dạng chữ U",
+            "Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần là chi phí cận biên",
+            "Khoảng cách giữa tổng chi phí trung bình và chi phí biến đổi trung bình thu hẹp dần khi sản lượng tăng",
+            "Đường chi phí cận biên cắt đường chi phí biến đổi trung bình ở điểm cực tểu của chi phí biến đổi trung bình"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nếu đường MC nằm phía trên đường AVC thì khi sản lượng tăng lên điều nào dưới đây là đúng:",
+        "options": [
+            "ATC không đổi",
+            "AFC tăng lên",
+            "AVC giảm xuống",
+            "AVC tăng lên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Khoảng cách theo chiều thẳng đứng giữa TC và VC là:",
+        "options": [
+            "Giảm xuống khi sản lượng tăng lên",
+            "AFC",
+            "FC",
+            "MC"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chi phí cận biên MC cắt",
+        "options": [
+            "ATC, AVC và AFC tại điểm cực tiểu của chúng",
+            "ATC, AFC tại điểm cực tiểu của chúng",
+            "AVC và AFC tại điểm cực tiểu của chúng",
+            "ATC và AVC tại điểm cực tiểu của chúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Phát biểu nào sau đây không phải là một đặc điểm của thị trường cạnh tranh hoàn hảo?",
+        "options": [
+            "Có vô số người mua và người bán trên thị trường",
+            "Sản phẩm đồng nhất và người mua có đầy thông tin về sản phẩm",
+            "Thông tin trên thị trường là hoàn hảo",
+            "Việc xâm nhập và rút khỏi thị trường phải được thị trường xác nhận"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đâu là đặc trưng của hành vi cạnh tranh hoàn hảo ?",
+        "options": [
+            "Hãng cạnh tranh hoàn hảo là người chấp nhận giá thị trường",
+            "Hãng cạnh tranh hoàn hảo có thể bán tất cả sản lượng của mình ở mức giá thị trường",
+            "Hãng cạnh tranh hoàn hảo đặt ra một mức giá ban đầu và để thị trường tự cân bằng mức giá đó",
+            "Hãng cạnh tranh hoàn hảo không có sức mạnh thị trường"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mục đích ngắn hạn của một nhà sản xuất là:",
+        "options": [
+            "Xác định được sản lượng mang lại lợi nhuận tối đa",
+            "Tối đa hoá doanh thu sao cho tổng chi phí là thấp nhất",
+            "Tối đa hoá doanh thu bằng việc cải thiện và đầu tư cho các yếu tố đầu vào để sản lượng sản xuất được giữ ở một mức Q cố định",
+            "Cả 3 đáp án trên"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mọi hãng sản xuất đều tìm kiếm mức sản lượng mà tại đó",
+        "options": [
+            "TR max",
+            "MR – MC = 0",
+            "MR max",
+            "TC min"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quy tắc lựa chọn sản phẩm mang lại lợi nhuận tối đa với hãng cạnh tranh hoàn hảo là",
+        "options": [
+            "MC = P",
+            "MC = MR",
+            "MC = 0",
+            "MR = 0"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hãng cạnh tranh hoàn hảo đối mặt với đường cầu",
+        "options": [
+            "Dốc về bên phải",
+            "Dốc về bên trái",
+            "Nằm ngang",
+            "Thẳng đứng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Lợi nhuận đơn vị được tính bằng công thức:",
+        "options": [
+            "P – ATC",
+            "P – AFC",
+            "P – AVC",
+            "P*Q – ATC"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Điểm hoà vốn (break-even) là điểm mà tại đó:",
+        "options": [
+            "P = ATC min",
+            "TR = TC",
+            "TR max, TC min",
+            "A và B"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Điểm đóng cửa là điểm mà tại đó:",
+        "options": [
+            "P < AVC min",
+            "P < ATC min",
+            "P <= ATC min",
+            "P <= AVC min"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hãng nên đóng cửa sản xuất trong trường hợp nào sau đây",
+        "options": [
+            "TR <= VC",
+            "TR <= FC",
+            "TR <= AVC",
+            "TC <= ATC"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đường cung của hãng cạnh tranh hoàn hảo là:",
+        "options": [
+            "Đường chi phí cận biên",
+            "Đường chi phí cận biên, phần nằm bên trên điểm đóng cửa",
+            "Đường chi phí cận biên, phần nằm bên dưới điểm đóng cửa",
+            "Đường chi phí cận biên, đi qua điểm đóng cửa"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đường cung trong thị trường cạnh tranh hoàn hảo là",
+        "options": [
+            "Tổng hợp các đường cung của hãng theo chiều dọc",
+            "Tổng hợp các đường cung của hãng theo đường chéo",
+            "Tổng hợp các đường cung của hãng theo chiều ngang",
+            "Tổng hợp trung bình của các đường cung thị trường đang có trên đồ thị sao cho đường ấy đi qua điểm cân bằng thị trường"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đường cung ngắn hạn của các hãng cạnh tranh hoàn hảo dốc lên do quy luật nào sau đây:",
+        "options": [
+            "Quy luật chi phí cơ hội tăng dần",
+            "Quy luật chi phí cận biên giảm dần",
+            "Quy luật năng suất cận biên giảm dần",
+            "B và C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Công thức nào sau đây dùng để tính thặng dư sản xuất?",
+        "options": [
+            "PS = TR – VC",
+            "PS = MR – MC",
+            "PS = Lợi nhuận – ATC",
+            "PS = Lợi nhuận – AVC"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Lợi nhuận kinh tế càng cao khi",
+        "options": [
+            "Doanh thu càng cao",
+            "Thặng dư sản xuất càng cao",
+            "Chi phí dành cho lao động càng thấp",
+            "Các yếu tố đầu vào đáp ứng vừa đủ hoặc hơn để sản xuất một lượng Q cố định"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Điều kiện cân bằng dài hạn của hãng là:",
+        "options": [
+            "MC = ATC = P",
+            "MR = ATC = P",
+            "MC = AVC = P",
+            "MR = AVC = P"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hiệu quả sản xuất đạt được khi nào",
+        "options": [
+            "ATC min",
+            "AVC min",
+            "TR max",
+            "Lợi nhuận max"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Giá thị trường của sản phẩm bị ảnh hưởng thế nào nếu thuế chỉ đánh vào sản lượng của một hãng ?",
+        "options": [
+            "Giá thị trường giảm xuống",
+            "Giá thị trường tăng lên",
+            "Giá thị trường không đổi",
+            "Giá thị trường thay đổi lên xuống tuỳ thuộc vào mức độ co giãn của sản phẩm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giả sử đánh một lượng thuế t vào sản lượng của một hãng thì đường chi phí cận biên của hãng dịch chuyển thế nào?",
+        "options": [
+            "Dịch chuyển lên trên một khoảng t / 2",
+            "Dịch chuyển lên trên một khoảng t",
+            "Dịch chuyển xuống dưới một khoảng t / 2",
+            "Dịch chuyển xuống dưới một khoảng t"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giá thị trường bị ảnh hưởng thế nào nếu đánh một lượng thuế t vào tất cả các hãng trong thị trường",
+        "options": [
+            "Giá tăng một khoảng t",
+            "Giá tăng một khoảng nhỏ hơn t",
+            "Giá tăng một khoảng lớn hơn t",
+            "Giá tăng một khoảng t/2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hãng thị trường cạnh tranh lựa chọn sản lượng trong điều kiện giả định là:",
+        "options": [
+            "Cầu hoàn toàn co giãn và đường cầu trùng đường MR",
+            "Cầu ít co giãn và đường cầu trùng đường MR",
+            "Cầu hoàn toàn không co giãn và đường cầu trùng đường MR",
+            "Cầu co giãn đơn vị và đường cầu trùng đường MR"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Điều nào sau đây SAI về sự can thiệp của chính phủ vào thị trường cạnh tranh hoàn hảo?",
+        "options": [
+            "Các chính sách của chính phủ có thể được phân tích bằng các mô hình đơn giản về cung cầu",
+            "Chính phủ áp đặt thuế sẽ khiến giá thị trường thường không tăng hay giảm bằng lượng thuế",
+            "Sự can thiệp của chính phủ thường làm lợi ích ròng của xã hội bị mất đi",
+            "Chính phủ có thể dùng thặng dư tiêu dùng và thặng dư sản xuất để phân tích quá trình biến đổi của thị trường, từ đó áp đặt các chính sách sao cho hiệu quả"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một nhà độc quyền sẽ tăng mức giá tối đa hóa lợi nhuận khi",
+        "options": [
+            "Chi phí cố định tăng",
+            "Chi phí cận biên tăng",
+            "Chi phí cố định trung bình giảm",
+            "Chi phí biến đổi giảm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khi nhà độc quyền nâng lượng bán từ 7 đến 8 sản phẩm thì giá của sản phẩm bị tụt từ 7 triệu đồng xuống 6 triệu đồng. Doanh thu cận biên của sản phẩm cuối là bao nhiêu",
+        "options": [
+            "48 triệu đồng",
+            "6 triệu đồng",
+            "1 triệu đồng",
+            "-1 triệu đồng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giả sử rằng chi phí cố định của nhà độc quyền tăng gấp đôi. Điều này dẫn đến",
+        "options": [
+            "Tăng gấp đôi mức giá tối đa hóa lợi nhuận do nhà độc quyền đặt ra",
+            "Lợi nhuận giảm đi một nửa so với mức nhà độc quyền thu được trước khi chi phí tăng",
+            "Đóng cửa sản xuất nếu giá không thay đổi tương ứng",
+            "Không có sự thay đổi trong mức giá tối đa hóa lợi nhuận do nhà độc quyền đặt ra nếu nó không đóng cửa sản xuất"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nhà độc quyền đối diện với đường cầu dốc xuống, doanh thu cận biên không bao giờ lớn hơn giá vì",
+        "options": [
+            "Người sản xuất sản phẩm thay thế duy trì giá thấp",
+            "Nhà độc quyền phải giảm giá để bán thêm sản phẩm trong bất kì giai đoạn nào",
+            "Nhà độc quyền sẽ là một tập đoàn lớn hơn với chi phí cố định cao hơn",
+            "Nhà độc quyền phải chấp nhận doanh thu cận biên vì nó được suy ra từ đường cầu thị trường"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Để một nhà độc quyền có thể thực hiện phân biệt giá",
+        "options": [
+            "Nhà độc quyền phải có khả năng phân đoạn thị trường theo những mức giá khác nhau mà người tiêu dùng sẵn sàng trả",
+            "Nhà độc quyền phải là người chấp nhận giá",
+            "Nhà độc quyền phải có chi phí cận biên khác nhau cho những mức sản lượng khác nhau",
+            "Nhà độc quyền phải giảm chi phí biến đổi trung bình"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Một nhà độc quyền sẽ đóng cửa trong ngắn hạn khi",
+        "options": [
+            "Giá không đủ bù đắp doanh thu cận biên",
+            "Giá không đủ bù đắp tổng chi phí trung bình",
+            "Lợi nhuận nhỏ hơn lợi nhuận thông thường",
+            "Giá không đủ bù đắp được chi phí biến đổi trung bình"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một hãng độc quyền hiện đang ở vị trí tối đa hóa lợi nhuận. Giả định chi phí đầu vào biến đổi giảm, sẽ dẫn đến hãng độc quyền",
+        "options": [
+            "Bán hàng hóa của mình ở mức giá thấp hơn, bán số lượng lớn hơn, và thu lợi nhuận lớn hơn trước đây",
+            "Bán hàng hóa của mình ở mức giá thấp hơn, bán số lượng lớn hơn, và thu lợi nhuận nhỏ hơn trước đây",
+            "Bán hàng hóa của mình ở mức giá như cũ, bán số lượng lớn hơn, và thu lợi nhuận lớn hơn trước đây",
+            "Bán hàng hóa của mình ở mức giá cao hơn, bán số lượng thấp hơn, và thu lợi nhuận lớn hơn trước đây"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nhà độc quyền thường thu lợi nhuận kinh tế dương vì",
+        "options": [
+            "Họ nhận được trợ cấp chính phủ",
+            "Khả năng định giá đảm bảo lợi nhuận kinh tế dương",
+            "Các rào cản gia nhập ngăn chặn sự giảm giá",
+            "Việc nắm giữ rủi ro độc quyền đảm bảo lợi nhuận kinh tế"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khi doanh thu cận biên tại mức sản lượng nào đó là số âm thì",
+        "options": [
+            "Nhà độc quyền phải tăng sản lượng",
+            "Cầu tại mức sản lượng đó là không co giãn",
+            "Cầu tại mức sản lượng đó là co giãn",
+            "Nhà độc quyền phải đóng cửa sản xuất"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một nhà độc quyền sẽ giảm mức giá tối đa hóa lợi nhuận khi",
+        "options": [
+            "Chi phí cố định giảm xuống",
+            "Chi phí cận biên giảm",
+            "Tổng chi phí trung bình giảm",
+            "Chi phí cố định trung bình giảm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đối với một nhà độc quyền sự thay đổi tổng doanh thu do bán thêm một đơn vị sản phẩm",
+        "options": [
+            "Bằng giá sản phẩm",
+            "Lớn hơn giá sản phẩm",
+            "Lớn hơn chi phí cận biên",
+            "Nhỏ hơn giá sản phẩm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đường cung của độc quyền bán",
+        "options": [
+            "Là đường chi phí cận biên",
+            "Là đường chi phí cận biên phía trên chi phí biến đổi trung bình",
+            "Là đường doanh thu cận biên",
+            "Trong độc quyền không có đường cung"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Phân biệt giá hoàn hảo là có lợi vì",
+        "options": [
+            "Giá có thể đặt ra thấp hơn cho những người mua có cầu không co giãn",
+            "Giá có thể đặt ra thấp hơn cho những người mua có cầu co giãn",
+            "Cầu là co giãn hoàn toàn",
+            "Người bán có thể đặt giá cao hơn cho những người mua có cầu co giãn"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đối với một hãng độc quyền tự nhiên, đường tổng chi phí trung bình",
+        "options": [
+            "Luôn giảm khi hãng tăng sản lượng",
+            "Không đổi khi hãng tăng sản lượng",
+            "Luôn tăng khi hãng tăng sản lượng",
+            "Có thể giảm hoặc tăng khi hãng tăng sản lượng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Với một nhà độc quyền bán, điều nào dưới đây sai",
+        "options": [
+            "Không có mối quan hệ một - một duy nhất giữa giá và lượng bán",
+            "Với bất kì mức sản lượng nào lơn hơn 0, MR = AR",
+            "Đường cầu của ngành là đường cầu của nhà độc quyền",
+            "Tổng doanh thu cực đại khi MR = 0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hãng độc quyền bán không bao giờ hoạt động",
+        "options": [
+            "Ở phần co giãn của đường cầu",
+            "Ở phần đường cầu co giãn đơn vị",
+            "Ở phần không co giãn của đường cầu",
+            "Không câu nào đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu doanh thu cận biên dương ở mức sản lượng nhất định, khi đó",
+        "options": [
+            "Một hãng độc quyền tối đa hóa lợi nhuận sẽ giảm sản lượng",
+            "Cầu co giãn ở mức sản lượng đó",
+            "Cầu không co giãn ở mức sản lượng đó",
+            "Một hãng tối đa hóa lợi nhuận sẽ tăng sản lượng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một hãng độc quyền tối đa hóa lợi nhuận sẽ không bao giờ sản xuất ở mức sản lượng",
+        "options": [
+            "Mà hãng sẽ bị thua lỗ",
+            "Mà doanh thu cận biên nhỏ hơn giá",
+            "Mà chi phí trung bình lớn hơn chi phí cận biên",
+            "Trong miền không co giãn của đường cầu"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Doanh thu cận biên của một hãng độc quyền bán là",
+        "options": [
+            "Sự thay đổi tổng doanh thu khi bán thêm một đơn vị sản phẩm",
+            "Giá mà nhà độc quyền đặt cho sản phẩm",
+            "Lợi nhuận nhà độc quyền thu được vượt hơn so với lợi nhuận của một hãng trong ngành cạnh tranh",
+            "Thường lớn hơn giá"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nhà độc quyền tối đa hóa lợi nhuận bằng cách",
+        "options": [
+            "Sản xuất số lượng sản phẩm tại mức doanh thu cận biên bằng chi phí cận biên",
+            "Sản xuất mức sản lượng tại chi phí cận biên bằng giá",
+            "Đặt giá bằng chi phí cận biên",
+            "Đặt mức giá cao nhất mà thị trường có thể chấp nhận"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong các nguyên nhân dưới đây, đâu không phải nguyên nhân hình thành thị trường độc quyền?",
+        "options": [
+            "Sở hữu về phát minh sáng chế, giấy phép kinh doanh, luật bản quyền,...",
+            "Kiểm soát toàn bộ các yếu tố đầu vào",
+            "Tính kinh tế của quy mô: Độc quyền tự nhiên: ATC tăng khi Q tăng",
+            "Quy định của chính phủ"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong các giả định dưới đây, đâu không phải giả định của thị trường độc quyền?",
+        "options": [
+            "Chỉ có một hãng duy nhất cung cấp trên thị trường",
+            "Sản phẩm không có hàng hóa thay thế gần gũi",
+            "Hoàn toàn không có sự gia nhập thị trường",
+            "Có sự gia nhập thị trường"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong các ý dưới đây, đâu là đặc điểm của hãng độc quyền?",
+        "options": [
+            "Hãng độc quyền là người chấp nhận giá, giá do cung - cầu quyết định",
+            "Đường cầu của hãng độc quyền chính là đường cầu thị trường, và cũng chính là đường doanh thu bình quân, có dạng là đường dốc xuống",
+            "Doanh thu cận biên của hãng độc quyền luôn lớn hơn giá bán hàng hóa",
+            "Đường MR luôn nằm dưới đường cầu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lợi nhuận tối đa của hãng độc quyền được tính theo công thức nào?",
+        "options": [
+            "π = Q * (P - ATC)",
+            "π = Q * (ATC - P)",
+            "π = Q * (ATC + P)",
+            "π = Q * P - ATC"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Sự khác nhau cơ bản giữa doanh nghiệp cạnh tranh hoàn hảo và doanh nghiệp độc quyền bán nằm ở",
+        "options": [
+            "Quy mô thị trường",
+            "Lợi nhuận kinh tế",
+            "Sức mạnh thị trường",
+            "Lượng cầu tiêu dùng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sức mạnh của hãng độc quyền càng lớn khi",
+        "options": [
+            "Chênh lệch giữa giá và chi phí cận biên càng nhỏ",
+            "Chênh lệch giữa giá và chi phí cận biên càng lớn",
+            "Giá và chi phí cận biên không có sự chênh lệch",
+            "Không có đáp án đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "So với thị trường cạnh tranh hoàn hảo, thị trường độc quyền",
+        "options": [
+            "có mức sản lượng và mức giá thấp hơn",
+            "có mức sản lượng cao hơn và mức giá thấp hơn",
+            "có mức sản lượng và mức giá cao hơn",
+            "có mức sản lượng thấp hơn và mức giá cao hơn"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nếu đường cầu có dạng P = a - b * Q thì MR của hãng độc quyền có dạng",
+        "options": [
+            "MR = a - 2b * Q",
+            "MR = a + 2b * Q",
+            "MR = a - b * Q",
+            "MR = a + b * Q"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Để đo sức mạnh thị trường của thị trường độc quyền, ta dùng chỉ số Lerner. Trong những công thức dưới đây, đâu là công thức của chỉ số Lerner?",
+        "options": [
+            "L = (P + MC)/P với 0 < L < 1",
+            "L = 1 - MC/P với 0 < L < 1",
+            "L = (P - MC)/P với 0 < L < 1",
+            "Cả B và C đều đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong công thức chỉ số Lerner, sức mạnh của nhà độc quyền càng lớn",
+        "options": [
+            "Khi L càng gần 0",
+            "Khi L càng gần 1",
+            "Khi L càng lớn hơn 1",
+            "Khi L càng nhỏ hơn 0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một nhà độc quyền có hàm chi phí TC = Q^2 + 2Q + 100 và đối diện với hàm cầu là P = 122 - Q. Trong đó Q là số lượng sản phẩm, giá và chi phí tính bằng $. Để tối đa hóa lợi nhuận, nhà độc quyền quyết định như thế nào?",
+        "options": [
+            "Sản xuất 50 sản phẩm và bán với mức giá $72/đvsp",
+            "Sản xuất 30 sản phẩm và bán với mức giá $92/đvsp",
+            "Sản xuất 40 sản phẩm và bán với mức giá $84/đvsp",
+            "Sản xuất 30 sản phẩm và bán với mức giá $62/đvsp"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một nhà độc quyền gặp đường cầu P = 55 - 2Q. Hàm tổng chi phí là ($) TC = Q^2 - 5Q + 100. Thặng dư tiêu dùng (CS) và thặng dư sản xuất (PS) do nhà độc quyền gây ra lần lượt là",
+        "options": [
+            "PS = CS = 225 (đvt)",
+            "CS = 225 và PS = 218,75 (đvt)",
+            "CS = 218,75 và PS = 225 (đvt)",
+            "CS = 450 và PS = 6,25 (đvt)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độc quyền này có chi phí bình quân không đổi và bằng $14. Giá và sản lượng tối đa hóa lợi nhuận của nhà độc quyền lần lượt là",
+        "options": [
+            "Giá $22/đvsp, sản lượng 16 sản phẩm",
+            "Giá $16/đvsp, sản lượng 22 sản phẩm",
+            "Giá $128/đvsp, sản lượng 16 sản phẩm",
+            "Giá $128/đvsp, sản lượng 22 sản phẩm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "* Một nhà độc quyền gặp phải đường cầu P = 30 - 0,5Q. Nhà độc quyền này có chi phí bình quân không đổi và bằng 14$. Tính phần mất không của xã hội nếu nhà độc quyền này chỉ bán 24 sản phẩm",
+        "options": [
+            "8",
+            "16",
+            "24",
+            "32"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một nhà độc quyền sản xuất với chi phí TC = 100 - 5Q + Q^2 và hàm cầu P = 55 - 2Q. Tính phần mất không của xã hội (DWL)",
+        "options": [
+            "DWL = 50",
+            "DWL = 0",
+            "DWL = 312,5",
+            "DWL = 84,375"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Có 70 người tiêu dùng 1 loại sản phẩm trên thị trường. Hàm cầu của mỗi người tiêu dùng giống nhau và được cho bởi: ($)P = 280 - 70Q/4. Sản phẩm này do 1 hãng sản xuất với hàm chi phí sản xuất VC = Q^2/6 + 30Q và FC = 15000. Xác định mức sản lượng và lợi nhuận thu được khi chính phủ đánh thuế 20$/đơn vị sản phẩm",
+        "options": [
+            "276 sản phẩm, lợi nhuận tối đa $16740",
+            "300 sản phẩm, lợi nhuận tối đa $16500",
+            "200 sản phẩm, lợi nhuận tối đa $16500",
+            "376 sản phẩm, lợi nhuận tối đa $16740"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Một nhà độc quyền có đường cầu P = 60 - Q (Trong đó Q tính bằng nghìn sản phẩm, P tính bằng nghìn đồng/sản phẩm) và chi phí cố định là 300 nghìn đồng, chi phí cận biên không đổi là 10 nghìn đồng/sản phẩm. Tính chỉ số Lerner và EDP tại mức giá đó của nhà độc quyền?",
+        "options": [
+            "L = 5/7 và EDP = 7/5",
+            "L = -5/7 và EDP = 7/5",
+            "L = 5/7 và EDP = -7/5",
+            "L = -5/7 và EDP = -7/5"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Doanh nghiệp toàn quyền hành động trên thị trường, hàm cầu thị trường của sản phẩm có dạng Q = -3P + 14400, hàm chi phí: TC = 1/3Q^2 + 200Q + 5000. Tính sức mạnh của thị trường",
+        "options": [
+            "L = 25/73",
+            "L = 23/75",
+            "L = 73/23",
+            "L = 23/73"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một doanh nghiệp độc quyền bán có hàm tổng doanh thu và chi phí biến đổi như sau: TR = 32Q - 0,6Q^2 và VC = 4Q + 0,4Q^2. Viết phương trình đường cầu và đường doanh thu biên của doanh nghiệp",
+        "options": [
+            "P = 32 - (3/5)*Q và MR = (-6/5)*Q + 32",
+            "P = -32 - (3/5)*Q và MR = (-6/5)*Q - 32",
+            "P = -35 - (3/2)*Q và MR = (-2/5)*Q + 32",
+            "P = 32 - (5/3)*Q và MR = (-5/6)*Q + 32"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Một doanh nghiệp độc quyền bán có hàm tổng doanh thu và chi phí biến đổi như sau: TR = 32Q - 0,6Q^2 và VC = 4Q + 0,4Q^2. Với mức thuế t = 4/đơn vị sản phẩm, sản lượng và lợi nhuận của doanh nghiệp thay đổi như thế nào?",
+        "options": [
+            "Q tăng 2,5 và P tăng 1,5",
+            "Q giảm 2,5 và P tăng 1,5",
+            "Q giảm 2,5 và P giảm 1,5",
+            "Q tăng 2,5 và P giảm 1,5"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một nhà độc quyền gặp đường cầu P = 30- 0,5Q; chi phí bình quân ATC = $14. Tính thặng dư tiêu dùng (CS) và thặng dư sản xuất (PS) trong điều kiện doanh nghiệp là người chấp nhận giá thị trường",
+        "options": [
+            "CS = 0 và PS = 256 (đvt)",
+            "CS = 265 và PS = 35 (đvt)",
+            "CS = 256 và PS = 0 (đvt)",
+            "CS = 265 và PS = 0 (đvt)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Theo hãng nghiên cứu thị trường iSupply, trong năm 2009, chi phí cận biên của Apple cho một chiếc iPod Shuffle (1) là $21,77, cho một chiếc iPhone 4 16GB (2) là $187,51 và một chiếc iPad Wifi (3) là $229,35. Giá bán lẻ của các sản phẩm trên lần lượt là $79, $600 và $499. Tính hệ số Lerner trên mỗi thị trường (1),(2),(3)",
+        "options": [
+            "L1 = 0,79 ; L2 = 0,82 ; L3 = 0,64",
+            "L1 = 0,72 ; L2 = 0,54 ; L3 = 0,69",
+            "L1 = 0,82 ; L2 = 0,79 ; L3 = 0,64",
+            "L1 = 0,72 ; L2 = 0,69 ; L3 = 0,54"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một nhà độc quyền có đường cầu P = 15 - 5Q, hàm tổng chi phí TC = 2,5Q^2 + 3Q + 1. Tính lợi ích ròng của xã hội (NSB) gây ra bởi nhà độc quyền",
+        "options": [
+            "NSB = 6,4",
+            "NSB = 1,6",
+            "NSB = 4,8",
+            "NSB = 0,8"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cạnh tranh độc quyền là",
+        "options": [
+            "Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền thuần tuý",
+            "Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền duy nhất",
+            "Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh hoàn hảo và thị trường độc quyền duy nhất",
+            "Một cấu trúc thị trường trung gian giữa thị trường cạnh tranh không hoàn hảo và thị trường độc quyền thuần tuý"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ngành là một tập hợp các doanh nghiệp sản xuất các sản phẩm được coi là",
+        "options": [
+            "Thay thế gần gũi cho nhau",
+            "Bổ sung gần gũi cho nhau",
+            "Gần như thay thế cho nhau",
+            "Gần như bổ sung cho nhau"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đường cầu của kem đánh răng PS",
+        "options": [
+            "Dốc xuống nhưng tương đối không co giãn",
+            "Dốc xuống nhưng tương đối co giãn",
+            "Thoải xuống và tương đối co giãn",
+            "Là đường nằm ngang"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong thị trường cạnh tranh độc quyền, mỗi doanh nghiệp tìm cách làm cho sản phẩm của mình phân biệt sản phẩm của mình với sản phẩm của doanh nghiệp khác thì đường cầu về sản phẩm của nó càng",
+        "options": [
+            "Ít co dãn",
+            "Co dãn",
+            "Không co dãn",
+            "Không thay đổi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cấu trúc ngành cạnh tranh độc quyền bao gồm các yếu tố",
+        "options": [
+            "Cạnh tranh,thay thế",
+            "Cạnh tranh,duy nhất",
+            "Cạnh tranh, độc quyền",
+            "Cạnh tranh, độc quyền, thay thế"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong mô hình chi tiết về nghành cạnh tranh độc quyền, nhiều vấn đề phụ thuộc vào",
+        "options": [
+            "Số lượng doanh nghiệp kinh doanh các mặt hàng thay thế",
+            "Giá thành của sản phẩm, nhu cầu của người tiêu dùng, mức độ cạnh tranh của thị trường",
+            "Các chi tiết của sản phẩm và công nghệ,bản chất của sự lựa chọn công nghệ của doanh nghiệp",
+            "Cả ba ý trên"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chúng ta có thể mô tả trạng thái cân bằng của ngành theo cách nào",
+        "options": [
+            "Mỗi doanh nghiệp đang bán sản phẩm với kết hợp giá và sản lượng trên đường cầu của mình",
+            "Mỗi doanh nghiệp đang tối đa hoá lợi nhuận của mình với đường cầu nhất định mà nó đối mặt",
+            "Sự gia nhập ngành của các doanh nghiệp mới buộc lợi nhuận của ngành giảm xuống bằng 0",
+            "Cả ba ý trên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thị trường cạnh tranh độc quyền có một đặc trưng then chốt",
+        "options": [
+            "Các hãng cạnh tranh với nhau bằng cách bản những sản phẩm giống nhau, không thể thay thế cho nhau",
+            "Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm giống nhau, có thể thay thế nhau",
+            "Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt, không thể thay thế được cho nhau",
+            "Các hãng cạnh tranh với nhau bằng cách bán những sản phẩm khác biệt,có thể thay thế được cho nhau ở mức độ cao"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thị trường cạnh tranh độc quyền có một đặc trưng",
+        "options": [
+            "Tự do gia nhập ngành và rút lui khỏi ngành",
+            "Tự do gia nhập ngành nhưng không được rút lui ra khỏi ngành",
+            "Gia nhập ngành và rút lui ra khỏi ngành cần sự cho phép",
+            "Không có các đặc trưng trên"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thị trường ô tô là",
+        "options": [
+            "Thị trường cạnh tranh độc quyền",
+            "Thị trường độc quyền tập đoàn",
+            "Thị trường cạnh tranh tập đoàn",
+            "Cả ba ý trên sai"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Xà phòng thơm, dầu gội đầu,nước xịt thơm, kem cạo râu,…..,mặt hàng trong các hiệu thuốc, xe đạp và các hàng hoá thể thao khác và các doanh nghiệp bán lẻ là các ví dụ về thị trường cạnh tranh độc quyền là đúnh hay sai",
+        "options": [
+            "Đúng",
+            "Sai",
+            "Cả đúng cả sai",
+            "Không đúng không sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phần lớn các doanh nghiệp bán lẻ giống như cạnh tranh độc quyền vì hàng hoá ở các cửa hàng bán lẻ khác nhau sẽ cạnh tranh với nhau bằng sự khác biệt về",
+        "options": [
+            "Phục vụ phù hợp với địa điểm",
+            "Sự sẵn có về tín dụng",
+            "Nghiệp vụ của người bán",
+            "Cả ba ý trên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong thị trường cạnh tranh độc quyền, nếu lợi nhuận cao ở lân cận vì có một cửa hàng thì các cửa hàng khác sẽ",
+        "options": [
+            "Rút khỏi thị trường",
+            "Gia nhập thị trường",
+            "Ở lại thị trường",
+            "Thay đổi quy mô"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thị trường nhà hàng của bất kì thành phố nào có đặc tính của",
+        "options": [
+            "Thị trường cạnh tranh độc quyền",
+            "Thị trường độc quyền tập đoàn",
+            "Thị trường cạnh tranh tập đoàn",
+            "Cả ba í trên sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tại sao việc gia nhập thị trường kinh doanh nhà hàng lại tương đối dễ dàng",
+        "options": [
+            "Mỗi nhà hàng bán các món ăn khác nhau, có các quảng cáo khác nhau",
+            "Mỗi nhà hàng có địa điểm, thực đơn khác nhau",
+            "Mỗi nhà hàng lại phù hợp cho nhiều tầng lớp khác nhau",
+            "Cả ba ý trên đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu chỉ có một người bán kem trên lối đi bộ thì anh ta sẽ chọn địa điểm nào",
+        "options": [
+            "Tại 1/3 quãng đường đi bộ",
+            "Tại 1/2 quãng đường đi bộ",
+            "Tại 3/4  quãng đường đi bộ",
+            "Tại đầu hoặc cuối quãng đường đi  bộ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Nếu có 2 người bán kem trên lỗi đi bộ thì trạng thái cân bằng duy nhất của 2 người này là ở đâu",
+        "options": [
+            "Tại 1/3 quãng đường đi bộ",
+            "Tại 1/2 quãng đường đi bộ",
+            "Tại 3/4  quãng đường đi bộ",
+            "Tại đầu hoặc cuối quãng đường đi  bộ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ở thành phố Hotlelis, Hoa Kì có một lối đi bộ trải dài dọc trên bãi biển. Một số người bán kem bằng xe đẩy muốn bán kem trên lối đi bộ. Giả sử có 2 người bán kem trên lối đi bộ đang đứng tại điểm cân bằng duy nhất và bạn là người bán kem bên trái.Nếu bạn chuyển địa điểm một chút xang bên phải thì",
+        "options": [
+            "Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên phải",
+            "Thị phần bán kem của bạn sẽ giảm xuống do bị mất khách hàng từ phía bên trái",
+            "Thị phần bán kem của bạn sẽ tăng lên do ăn cắp được thêm khách hàng từ phía bên phải",
+            "Thị phần bán kem của bạn sẽ tănh lên do ăn cắp được thêm khách hàng từ phía bên trái"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tại một kênh chúng ta có nhạc cổ điển và kênh còn lại là nhạc rốc cực mạnh. Nếu kênh nhạc cổ điển phát nhạc gần trung tâm hơn và kênh nhạc rốc cũng làm như vậy thì số lượng thính giả mỗi kênh sẽ tăng lên. Như vậy trong trạng thái cân bằng, cả hai đài sẽ phát chương trình giống nhau và người có thị hiếu cực đoan sẽ",
+        "options": [
+            "Chọn 1 trong hai kênh để nghe",
+            "Cảm thấy bất hạnh khi nghe bất cứ chương trình ca nhạc nào",
+            "Không nghe kênh nào cả",
+            "Cả ba ý trên sai"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cạnh tranh độc quyền giống cạnh tranh hoàn hảo ở chỗ",
+        "options": [
+            "Không có sự tự do gia nhập",
+            "Có sự tự do gia nhập",
+            "Không được dùng chiến dịch quảng cáo",
+            "Khó khăn gia nhập"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu là 1 quyết định sản xuất của hãng cạnh tranh độc quyền",
+        "options": [
+            "Cân bằng trung bình",
+            "Cân bằng dài hạn",
+            "Cân bằng trạng thái",
+            "Cân bằng độc quyền"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đường cầu theo giá và sản lượng cân bằng của doanh nghiệp cạnh tranh độc quyền trong ngắn hạn như thế nào so với thị dài hạn",
+        "options": [
+            "Thoải hơn",
+            "Dốc hơn",
+            "Như nhau",
+            "Không xác định được"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong ngắn hạn,doanh nghiệp cạnh tranh độc quyền thực hiện tối đa hoá lợi nhuận.Khi đó doanh nghiệp có lợi nhuận kinh tế",
+        "options": [
+            "Âm",
+            "Dương",
+            "Bằng 0",
+            "Bằng vô cùng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong dài hạn, lợi nhuận dương sẽ",
+        "options": [
+            "Kích thích doanh nghiệp mở rộng quy mô",
+            "Làm hạn chế thu nhập các ngành cạnh tranh",
+            "Kích thích các doanh nghiệp mới gia nhập thị trường",
+            "Tất cả đáp án trên"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khi các doanh nghiệp mới gia nhập vào thị trường cạnh tranh độc quyền thì các doanh nghiệp đang ở trong ngành sẽ",
+        "options": [
+            "Mất đi một phần thị trường và doanh thu sẽ giảm,đường cầu vẫn dốc xuống",
+            "Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu dốc lên",
+            "Mất đi một phần thị trường và doanh thu sẽ giảm, đường cầu nằm ngang",
+            "Không bị ảnh hưởng gì cả"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong dài hạn, khi các doanh nghiệp mới gia nhập, các đường chi phí trung bình và đường chi phí cận biên của doanh nghiệp đang ở trong nhành được giả định là không đổi và đường cầu dài hạn sẽ tiếp xúc với đường nào và doanh thu doanh nghiệp là bao nhiêu",
+        "options": [
+            "Đường chi phí trung bình và bằng 0",
+            "Đường chi phí cận biên và bằng vô cùng",
+            "Cả hai đường trên và bằng 0",
+            "Không đường nào cả và bằng vô cùng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Vì sao các thị trường cạnh tranh độc quyền là mong muốn",
+        "options": [
+            "Có quy mô lớn và có mặt hàng sản xuất lad duy nhất",
+            "Có lợi nhuận cao khi càng nhiều doanh nghiệp gia nhập thị trường",
+            "Có hiệu quả kinh tế khi mà không có ngoại ứng và không có gì ngăn cản hoạt động của thị trường khiến tổng thặng dư của người tiêu dùng và người sản xuất là lớn nhất",
+            "Cả ba í trên"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong thị trường cạnh tranh độc quyền, lợi ích cận biên như thế nào so với chi phí cận biên để sản xuất chúng",
+        "options": [
+            "Cao hơn",
+            "Thấp hơn",
+            "Bằng nhau",
+            "Không thể so sánh"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phần mất không (DWL) đối với xã hội của thị trường độc quyền",
+        "options": [
+            "Bằng thị trường cạnh tranh hoàn hảo",
+            "Ít hơn thị trường cạnh trạnh hoàn hảo",
+            "Bằng thị trường độc quyền",
+            "Ít hơn thị trường độc quyền"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Các hãng cạnh tranh độc quyền",
+        "options": [
+            "Hoạt động với mức công suất dư thừa nhưng sản lượng lại thấp hơn sản lượng ở mức chi phí trung bình tối thiểu",
+            "Hoạt động với mức công suấy thiếu hụt nên sản lượng thấp hơn sản lượng ở mức trung bình tối thiểu",
+            "Hoạt động ở mức công suất dư thừa nên sản lượng nhiều hơn sản lượng ở mức chi phí trung bình tối thiểu",
+            "Hoạt động ở mức công suất thiếu hụt nhưng sản lượng lại nhiều hơn sản lượng ở mức cân bằng tối thiểu"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong thị trường cạnh tranh độc quyền, điểm lợi nhuận bằng 0 nằm ở",
+        "options": [
+            "Bên phải điểm chi phí cân bằng tối thiểu",
+            "Bên trái điểm chi phí cân bằng tối thiểu",
+            "Trùng điểm chi phí cân bằng tối thiểu",
+            "Không xác định được"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thặng dư tiêu dùng trong thị trường cạnh tranh độc quyền thấp hơn trong thị trường cạnh tranh hoàn hảo vì",
+        "options": [
+            "Mức sản lượng thấp hơn",
+            "Giá bán ra thấp hơn",
+            "Giá bán ra cao hơn",
+            "Cả A và C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tại sao các hãng cạnh tranh độc quyền lại bị sản xuất với công xuất dư thừa",
+        "options": [
+            "Vì chi phí sản xuất thấp nên mở rộng quy mô sản xuất là điều dễ hiểu",
+            "Vì nhu cầu của khách hàng lớn( do trung thành với cac thương hiệu)",
+            "Vì trong ngành có nhiều sản phẩm dễ thay thế cho nhau nên đối với 1 sản phẩm cụ thể của hãng, cầu sẽ giảm dần và sản phẩm không được tiêu thụ trên thị trường",
+            "Cả ba í trên"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong hầu hết thị trường cạnh tranh độc quyền, sức mạnh độc quyền là",
+        "options": [
+            "Tương đối lớn",
+            "Tương đối nhỏ",
+            "Là tuyệt đối",
+            "Là hằng số"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thị trường cạnh tranh độc quyền có",
+        "options": [
+            "Đường cầu tương đối co dãn, công suất dư thừa lớn",
+            "Đường cầu tương đối không co giãn, công suất dư thừa nhỏ",
+            "Đường cầu tương đối co giãn, công suất dư thừa nhỏ",
+            "Đường cầu tương đôi không co giãn, công suất dư thừa lớn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu là một lợi ích rất quan trọng của khách hàng trong thị trường cạnh tranh độc quyền",
+        "options": [
+            "Giá thành sản phẩm thấp",
+            "Số lượng sản phẩm nhiều",
+            "Chất lượng sản phẩm cao",
+            "Sự đa dạng hoá sản phẩm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Điển hình của thị trường cạnh tranh độc quyền",
+        "options": [
+            "Mức độ co giãn của đường cầu lớn",
+            "Mức độ trung thành của khách hàng không cao",
+            "Các thương hiệu có mức độ độc quyền nhỏ",
+            "Cả ba ý trên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Các đặc điểm của thị trường cạnh tranh độc quyền",
+        "options": [
+            "Các hãng cạnh tranh với nhau bằng việc bán các sản phẩm khác biệt và có độ thay thế nhau cao",
+            "Các hãng mới có thể gia nhạp hoặc rút lui thị trường một cách dễ dàng",
+            "Sức mạnh độc quyền của các hãng là nhỏ",
+            "Cả ba ý trên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q + Q^2, đường chi phí bình quân dài hạn LAC = 5Q - Q2. Tìm giá, sản lượng cho hãng trong ngắn hạn",
+        "options": [
+            "Q = 1,75; P = 7,75",
+            "Q = 1,5 ; P = 7,75",
+            "Q = 1,75 ; P = 7,5",
+            "Q = 1,5 ; P = 7,5"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q + Q^2, đường chi phí bình quân dài hạn LAC = 5Q - Q2. Tìm giá, sản lượng cho hãng trong dài hạn",
+        "options": [
+            "Q = 3,5; P = 6,5",
+            "Q = 3 ; P = 6",
+            "Q = 3,75 ; P = 6",
+            "Q = 3,5 ; P = 6"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2.Tìm lợi nhuận cho hãng trong ngắn hạn",
+        "options": [
+            "2,5",
+            "2,75",
+            "3,5",
+            "3,75"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Một hãng cạnh tranh độc quyền gặp đường cầu về sản phẩm của mình là P = 9 – Q. Tổng chi phí ngắn hạn STC = 2 + 3Q +Q2, đường chi phí bình quân dài hạn LAC = 5Q -Q2. Tìm lợi nhuận cho hãng trong dài hạn",
+        "options": [
+            "4",
+            "7",
+            "0",
+            "5"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hàm cầu của một dịch vụ sửa xe máy là Q = 240 -20P có mức sản lượng tối ưu là 80 xe máy được sửa và  ATC = 10$ , AVC = 6$.Hãng sẽ lỗ(lãi) bao nhiêu",
+        "options": [
+            "Lãi 160$",
+            "Lãi 200$",
+            "Lỗ 160$",
+            "Lỗ 200$"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ở Thái Nguyên thị trường chè là thị trường cạnh tranh độc quyền. Hàm cầu cho lượng người mua hàng ngày và chi phí trung bình dài hạn là : P = 9 – 0.9Q  ; AC = 10 – 0.06Q + 0.0001Q2. Tính mức giá doanh nghiệp chè sẽ đặt trong dài hạn",
+        "options": [
+            "5",
+            "4",
+            "5,5",
+            "4,5"
+        ],
+        "answer": 0
+    }
+]

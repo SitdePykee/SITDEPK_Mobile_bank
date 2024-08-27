@@ -1,0 +1,292 @@
+[
+    {
+        "question": "Thất bại của thị trường là gì?",
+        "options": [
+            "Là các tình huống trong đó điểm cân bằng trên các thị trường tự do cạnh tranh không đạt được sự phân bổ hiệu quả",
+            "Là các tình huống trong đó các yếu tố sản xuất đầu vào không được tận dụng để tạo ra lượng sản phẩm tối ưu",
+            "Là các tình huống trong đó giá bán thị trường thấp hơn nhiều so với điểm cân bằng thị trường hoặc thấp hơn tổng chi phí trung bình (ATC)",
+            "Là các tình huống trong đó nhà sản xuất không thể đưa ra được một mức giá phù hợp với nhu cầu thị trường"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hiệu quả Patero chỉ đạt được trong thị trường:",
+        "options": [
+            "Thị trường độc quyền bán",
+            "Thị trường cạnh tranh hoàn hảo",
+            "Thị trường độc quyền mua",
+            "A và C"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nội dung của hiệu quả Patero được phát biểu là:",
+        "options": [
+            "Chi phí cận biên của sản xuất của mọi loại hàng hoá nhỏ hơn lợi ích cận biên của chúng đối với người tiêu dùng",
+            "Chi phí cận biên của sản xuất của mọi loại hàng hoá lớn hơn lợi ích cận biên của chúng đối với người tiêu dùng",
+            "Chi phí cận biên của sản xuất của mọi loại hàng hoá bằng với lợi ích cận biên của chúng đối với người tiêu dùng",
+            "Không đáp án nào đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khi thị trường không đạt được trạng thái cân bằng mang tính hiệu quả Pareto, thì thị trường",
+        "options": [
+            "Kém hiệu quả",
+            "Không hiệu quả",
+            "Chưa tận dụng tối ưu các nguồn lực",
+            "Thất bại"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Độc quyền có sức mạnh thị trường vì thế họ luôn muốn bán với giá cao để",
+        "options": [
+            "Tối đa hóa lợi nhuận",
+            "Giảm thiểu tối đa chi phí",
+            "Tối đa hóa doanh thu",
+            "Tận dụng tối ưu và hiệu quả các yếu tố sản xuất đầu vào"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Độc quyền có sức mạnh thị trường vì thế họ luôn muốn bán với giá cao để tối đa hoá lợi nhuận gây ra:",
+        "options": [
+            "Thất bại thị trường",
+            "Phần mất không của xã hội",
+            "Chênh lệch giá nghiêm trọng giữa giá bán và giá cân bằng thị trường",
+            "Sự tự điều chỉnh giá cân bằng của thị trường"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đâu KHÔNG phải là một cách khắc phục độc quyền và sức mạnh thị trường?",
+        "options": [
+            "Điều tiết giá",
+            "Điều tiết sản lượng",
+            "Điều tiết yếu tố đầu vào sản xuất",
+            "Điều tiết độc quyền tự nhiên"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chính phủ có thể kiểm soát giá bằng các phương pháp nào để khắc phục độc quyền và sức mạnh thị trường?",
+        "options": [
+            "Giá trần",
+            "Giá sàn",
+            "Thuế khoán",
+            "Thuế xuất nhập khẩu"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chính phủ điều tiết sản lượng như thế nào để khắc phục độc quyền và sức mạnh thị trường",
+        "options": [
+            "MC = D",
+            "MR = D",
+            "MB = D",
+            "P = D"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phương pháp điều tiết độc quyền tự nhiên bản chất là:",
+        "options": [
+            "Độc quyền tự nhiên = Độc quyền + Tính kinh tế của vĩ mô",
+            "Độc quyền tự nhiên = Độc quyền + Tính kinh tế của vi mô",
+            "Độc quyền tự nhiên = Độc quyền + Tính kinh tế của tư bản",
+            "Độc quyền tự nhiên = Độc quyền + Tính kinh tế của lao động"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ngoại ứng là gì?",
+        "options": [
+            "Là hiện tượng khi hoạt động sản xuất hoặc tiêu dùng của một chủ thể kinh tế gây ra ảnh hưởng đến quyền lợi của người khác",
+            "Là hiện tượng khi hoạt động sản xuất của một chủ thể kinh tế gây ra ảnh hưởng đến lợi ích của người khác",
+            "Là hiện tượng khi hoạt động sản xuất hoặc tiêu dùng của một chủ thể kinh tế gây ra ảnh hưởng đến lợi ích của người khác",
+            "Là hiện tượng khi hoạt động tiêu dùng của một chủ thể kinh tế gây ra ảnh hưởng đến lợi ích của người khác"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hiện tại ngoại ứng xảy ra khi nào?",
+        "options": [
+            "Khi các doanh nghiệp hay các cá nhân áp đặt chi phí cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp.",
+            "Khi các doanh nghiệp hay các cá nhân áp đặt lợi ích cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp.",
+            "Khi các doanh nghiệp và chính phủ áp đặt chi phí hay lợi ích cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp.",
+            "Khi các doanh nghiệp hay các cá nhân áp đặt chi phí hay lợi ích cho những người khác mà những người này không nhận được sự thanh toán hay phải trả chi phí thích hợp."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hiện tượng ngoại ứng tiêu cực xảy ra khi nào?",
+        "options": [
+            "MSC > MPC",
+            "MSC < MPC",
+            "MSC = MPC",
+            "Không đáp án nào đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Giải pháp cho hiện tượng ngoại ứng tiêu cực là:",
+        "options": [
+            "Ra các điều luật",
+            "Đánh thuế",
+            "Đặt ra hạn ngạch",
+            "Điều tiết thị trường"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tại sao khi xảy ra hiện tượng ngoại ứng tiêu cực, người ta lại đánh thuế?\nBiết MSC = Chi phí xã hội cận biên; MPC = Chi phí cá nhân/hãng cận biên\nMEC = Chi phí ngoại ứng cận biên",
+        "options": [
+            "Vì MSC = MPC - MEC",
+            "Vì MSC = (MPC.MEC)/D",
+            "Vì MSC = MPC + MEC",
+            "Vì MSC = MPC/MEC"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hiện tượng ngoại ứng tích cực xảy ra khi nào?",
+        "options": [
+            "Khi hoạt động sản xuất của một bên làm lợi cho bên khác mà chi phí này không được phản ánh trong giá cả thị trường",
+            "Khi hoạt động tiêu dùng của một bên làm lợi cho bên khác mà chi phí này không được phản ánh trong giá cả thị trường",
+            "Khi hoạt động sản xuất hay tiêu dùng của một bên làm lợi cho bên khác",
+            "Khi hoạt động sản xuất hay tiêu dùng của một bên làm lợi cho bên khác mà chi phí này không được phản ánh trong giá cả thị trường"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giải pháp cho hiện tượng ngoại ứng tích cực là gì?",
+        "options": [
+            "Trợ cấp",
+            "Đánh thuế",
+            "Đặt ra hạn ngạch",
+            "Điều tiết thị trường"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tại sao khi xảy ra hiện tượng ngoại ứng tích cực, chính phủ cần phải trợ cấp?",
+        "options": [
+            "Vì MSB = MPB - MFB",
+            "Vì MSB = MPB + MFB",
+            "Vì MSB = MPB.MFB",
+            "Vì MSB = MPB / MFB"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hàng hóa công cộng là:",
+        "options": [
+            "Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì hầu như mọi người đều có khả năng tiêu dùng",
+            "Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì mọi người đều có khả năng chi trả",
+            "Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì mọi người đều có khả năng tiêu dùng",
+            "Là những hàng hoá và dịch vụ mà khi chúng được sản xuất ra thì hầu như mọi người đều có khả năng chi trả"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hàng hóa công cộng có đặc tính chủ yếu là:",
+        "options": [
+            "Tính không cạnh tranh",
+            "Tính không loại trừ",
+            "Không đáp án nào đúng",
+            "Cả A và B"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tính không cạnh tranh của hàng hóa công cộng được phát biểu:",
+        "options": [
+            "Một người sử dụng hàng hoá không ảnh hưởng đến việc người khác sử dụng hàng hoá đó",
+            "Một người sử dụng hàng hoá có ảnh hưởng đến việc người khác sử dụng hàng hoá đó",
+            "Giữa các nhà sản xuất ra hàng hóa đó không có tính cạnh tranh, nghĩa là không có khác biệt về giá, yếu tố đầu vào, ...",
+            "A và C"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tính không loại trừ của hàng hóa công cộng được phát biểu",
+        "options": [
+            "Hàng hóa tiếp cận được đến rộng rãi người tiêu dùng trong thị trường đó",
+            "Khi những hàng hoá như vậy được sản xuất ra thì không có cách gì ngăn cản được những người tiêu dùng nhất định tiêu dùng chúng",
+            "Hàng hóa được sản xuất ra mà không có bất kì vấn đề gì từ yếu tố đầu vào đến khi ra được thành phẩm",
+            "Hàng hóa được áp đặt các mức thuế, nhận trợ cấp, chịu ảnh hưởng của các chính sách, ... như các hàng hóa thông thường"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nếu một hàng hóa có cả 2 đặc tính : Tính không cạnh tranh và tính không loại trừ, thì đó gọi là",
+        "options": [
+            "Hàng hóa công cộng cận biên",
+            "Hàng hóa công cộng hoàn hảo",
+            "Hàng hóa công cộng thuần túy",
+            "Hàng hóa công cộng không thuần túy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu một hàng hóa có 1 trong 2 đặc tính : Tính không cạnh tranh hoặc tính không loại trừ, thì đó gọi là",
+        "options": [
+            "Hàng hóa công cộng cận biên",
+            "Hàng hóa công cộng hoàn hảo",
+            "Hàng hóa công cộng thuần túy",
+            "Hàng hóa công cộng không thuần túy"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hàng hóa nào sau đây là hàng hóa công cộng thuần túy?",
+        "options": [
+            "Đèn giao thông",
+            "Đường giao thông vào giờ cao điểm",
+            "Sóng vô tuyến",
+            "Điện"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hàng hóa nào sau đây là hàng hóa công cộng không thuần túy?",
+        "options": [
+            "Đèn hải đăng",
+            "Điện",
+            "An ninh quốc phòng",
+            "Đèn giao thông"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tại sao có thể nói rằng : Sự cung cấp hàng hoá công cộng bởi tư nhân thông qua thị trường rất khó xảy ra?",
+        "options": [
+            "Vì lợi ích của những hàng hóa này đem lại không hiệu quả bằng các hàng hóa thông thường",
+            "Vì lợi nhuận của những hàng hóa này đem lại không hiệu quả bằng các hàng hóa thông thường",
+            "Vì lợi ích của những hàng hoá này bị phân tán rộng rãi đến mức không một hãng nào muốn cung cấp chúng",
+            "Vì chính phủ là người cung cấp chính hàng hóa công cộng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Điều nào sau đây là vai trò của chính phủ?",
+        "options": [
+            "Điều tiết thị trường hàng hóa công cộng",
+            "Sản xuất hàng hóa công cộng hoàn hảo",
+            "Đặt ra các chính sách để khuyến khích tư nhân sản xuất hàng hóa công cộng",
+            "Cung cấp hàng hóa công cộng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Điều nào sau đây KHÔNG phải là một thất bại thị trường",
+        "options": [
+            "Sự sản xuất kém hiệu quả của hàng hóa công cộng",
+            "Phân phối thu nhập không công bằng",
+            "Vấn đề thông tin không hoàn hảo",
+            "Các thất bại vĩ mô như: lạm phát, thất nghiệp,..."
+        ],
+        "answer": 0
+    }
+]

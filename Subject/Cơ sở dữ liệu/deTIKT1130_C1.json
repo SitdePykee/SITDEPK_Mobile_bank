@@ -1,0 +1,402 @@
+[
+    {
+        "question": "CSDL là:",
+        "options": [
+            "Một tập hợp có cấu trúc của những dữ liệu có liên quan với nhau được lưu trữ trong máy tính",
+            "Một tập hợp không có cấu trúc của những dữ liệu có liên quan với nhau được lưu trữ trong máy tính",
+            "Một tập hợp có nhiều cấu trúc của những dữ liệu có liên quan với nhau được lưu trữ trong máy tính",
+            "Một tập hợp của những dữ liệu có liên quan với nhau được lưu trữ trong máy tính"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hệ cơ sở dữ liệu là gì một hệ thống gồm … thành phần",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một hệ cơ sở dữ liệu cung cấp bao nhiêu kiểu ngôn ngữ khác nhau",
+        "options": [
+            "1",
+            "2",
+            "Cả 2 đều đúng",
+            "Cả 2 đều sai"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Một số đặc tính của cơ sở dữ liệu",
+        "options": [
+            "Tính tự mô tả, tính độc lập giữa chương trình và dữ liệu, tính trừu tượng dữ liệu, tính đặc trưng, các cách nhìn dữ liệu",
+            "Tính tự mô tả, tính độc lập giữa chương trình và dữ liệu, tính nhất quán, các cách nhìn dữ liệu",
+            "Tính tự mô tả, tính độc lập giữa chương trình và dữ liệu, tính trừu tượng dữ liệu, tính nhất quán, các cách nhìn dữ liệu",
+            "Tính mô tả, tính độc lập giữa chương trình và dữ liệu, tính trừu tượng dữ liệu, tính nhất quán, các cách nhìn dữ liệu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Có bao nhiêu nhóm người sử dụng cơ sở dữ liệu",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mô hình dữ liệu gồm",
+        "options": [
+            "Các khái niệm biểu diễn dữ liệu và các phép toán xử lý dữ liệu",
+            "Các khái niệm biểu diễn dữ liệu",
+            "Các phép toán xử lý dữ liệu",
+            "Tất cả đều sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Các loại mô hình dữ liệu",
+        "options": [
+            "cài đặt và mức thấp",
+            "mức cao, cài đặt, mức thấp và mức trung bình",
+            "mức cao và mức thấp",
+            "mức cao, cài đặt và mức thấp"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mô hình cài đặt là:",
+        "options": [
+            "Đưa ra các khái niệm thiết kế viên có thể hiểu được nhưng không quá xa với cách dữ liệu được tổ chức thật sự trên máy tính",
+            "Đưa ra các khái niệm thiết kế viên có thể hiểu được nhưng không quá xa với cách dữ liệu được tổ chức không thật sự trên máy tính",
+            "Đưa ra các khái niệm thiết kế viên có thể hiểu được nhưng quá xa với cách dữ liệu được tổ chức thật sự trên máy tính",
+            "Đưa ra các khái niệm người dùng có thể hiểu được nhưng không quá xa với cách dữ liệu được tổ chức thật sự trên máy tính"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Các yêu cầu thao tác dữ liệu",
+        "options": [
+            "Tìm kiếm thông tin được lưu trữ trong cơ sở dữ liệu",
+            "Thêm thông tin mới và xóa thông tin trong cơ sở dữ liệu",
+            "Thay đổi thông tin được lưu trữ trong cơ sở dữ liệu",
+            "Tất cả đều đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ưu điểm của cơ sở dữ liệu ",
+        "options": [
+            "Giảm sự trùng lặp thông tin xuống mức thấp nhất và do đó đảm bảo tính nhất quán và toàn vẹn dữ liệu",
+            "Đảm bảo dữ liệu có thể được truy xuất theo nhiều cách khác nhau",
+            "Khả năng chia sẻ thông tin cho nhiều người sử dụng và nhiều ứng dụng khác nhau",
+            "Tất cả đều đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Người thiết kế cơ sở dữ liệu là?",
+        "options": [
+            "Người xây dựng các ứng dụng kết nối cơ sở dữ liệu",
+            "Sử dụng những công cụ hỗ trợ để khai thác",
+            "Cả 2 đều đúng",
+            "Cả 2 đều sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Kiến trúc của hệ quản trị cơ sở dữ liệu có bao nhiêu mức",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Kiến trúc của hệ quản trị cơ sở dữ liệu có mức nào?",
+        "options": [
+            "Mức ngoài, mức trong",
+            "Mức quan niệm",
+            "Cả 2 đều đúng",
+            "Cả 2 đều sai"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mô hình mức cao:",
+        "options": [
+            "Cung cấp các khái niệm gần gũi với người dùng, mô hình phải tự nhiên và giàu ngữ nghĩa",
+            "Đưa ra các khái niệm người dùng có thể hiểu được nhưng không quá xa với cách dữ liệu được tổ chức thật sự trên máy tính",
+            "Cả 2 đều đúng",
+            "Cả 2 đều sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Những bất lợi chính của việc lưu trữ thông tin của các tổ chức trong các hệ thống tệp",
+        "options": [
+            "Dư thừa dữ liệu và tính không nhất quán; khó khăn trong truy cập dữ kiệu; cô lập và hạn chế chia sẻ dữ liệu; các vấn đề về toàn vẹn; các vấn dề về độ tin cậy; các dị thường truy nhập đồng thời; các vấn đề về an toàn; sự phụ thuộc dữ kiệu của các chương trình ứng dụng",
+            "Các vấn đề về toàn vẹn; các vấn dề về độ tin cậy; các dị thường truy nhập đồng thời; các vấn đề về an toàn; sự phụ thuộc dữ kiệu của các chương trình ứng dụng",
+            "Dư thừa dữ liệu và tính không nhất quán; khó khăn trong truy cập dữ kiệu; cô lập và hạn chế chia sẻ dữ liệu; các vấn đề về toàn vẹn; các vấn dề về độ tin cậy; các dị thường truy nhập đồng thời; các vấn đề về an toàn",
+            "Dư thừa dữ liệu và tính không nhất quán; khó khăn trong truy cập dữ kiệu; cô lập và hạn chế chia sẻ dữ liệu; các vấn đề về toàn vẹn; các vấn dề về độ tin cậy; sự phụ thuộc dữ kiệu của các chương trình ứng dụng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Người quản trị CSDL là:",
+        "options": [
+            "Xác định chiến lược lưu trữ, sao chép, phục hồi dữ liệu.",
+            "Cho phép người sử dụng những quyền truy nhập cơ sở dữ liệu",
+            "Một người hay một nhóm người có khả năng chuyên môn cao về tin học, có trách nhiệm quản lý và điều khiển toàn bộ hoạt động của các hệ CSDL",
+            "Quyết định cấu trúc lưu trữ & chiến lược truy nhập"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mô hình ngoài là?",
+        "options": [
+            "Nội dung thông tin của một phần cơ sở dữ liệu",
+            "Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng",
+            "Nội dung thông tin của toàn bộ CSDL",
+            "Nội dung thông tin của toàn bộ CSDL dưới cách nhìn của người sử dụng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thứ tự đúng các mức trong mô hình kiến trúc cơ sở dữ liệu:",
+        "options": [
+            "Mức ngoài, mức quan niệm và mức mô hình.",
+            "Mức ngoài, mức quan niệm và mức trong.",
+            "Mức trong, mức mô hình dữ liệu và mức ngoài.",
+            "Mức quan niệm, mức trong và mức ngoài."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khẳng định nào sau đây về CSDL quan hệ là đúng?",
+        "options": [
+            "Cơ sở dữ liệu được xây dựng trên mô hình dữ liệu quan hệ",
+            "Cơ sở dữ liệu mà giữa các dữ liệu có quan hệ với nhau",
+            "Tập hợp các bảng dữ liệu",
+            "Cơ sở dữ liệu được tạo ra từ hệ QTCSDL Access"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hệ quản trị CSDL - HQTCSDL (DataBase Management System - DBMS) là:",
+        "options": [
+            "Phần mềm điều khiển các chiến lược truy nhập CSDL.",
+            "Các phần mềm hệ thống.",
+            "Hệ điều hành",
+            "Các phần mềm ứng dụng."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mô hình quan niệm là:",
+        "options": [
+            "Cách nhìn dữ liệu một cách tổng quát của người sử dụng.",
+            "Cách nhìn dữ liệu ở mức ngoài.",
+            "Nội dung thông tin của một phần dữ liệu dưới cách nhìn của người sử dụng.",
+            "Nội dung thông tin của một phần dữ liệu."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ngôn ngữ thao tác dữ liệu là?",
+        "options": [
+            "Một tập các quy tắc biểu diễn dữ liệu",
+            "Một tập các phép toán dùng để cập nhật, bổ sung trên các hệ cơ sở dữ liệu",
+            "Một tập các ký hiệu biểu diễn dữ liệu",
+            "Một tập các phép toán dùng để thao tác trên các hệ cơ sở dữ liệu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Các khái niệm cơ sở:",
+        "options": [
+            "Các tập thực thể, các thuộc tính và khóa, các liên kết",
+            "Các tập thực thể và các liên kết",
+            "Các tập thực thể, các thuộc tính và khóa",
+            "Các liên kết, các thuộc tính và khóa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hệ quản trị cơ sở dữ liệu là gì?",
+        "options": [
+            "Là một hệ thống phần mềm cho phép tạo lập cơ sở dữ liệu nhưng lại không thể điều khiển mọi truy nhập đối với cơ sở dữ liệu đó",
+            "Là một hệ thống phần mềm cho phép điều khiển mọi truy nhập đối với cơ sở dữ liệu",
+            "Là một hệ thống phần mềm cho phép tạo lập cơ sở dữ liệu và điều khiển mọi truy nhập đối với cơ sở dữ liệu đó",
+            "Là một hệ thống phần mềm cho phép tạo lập cơ sở dữ liệu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Độc lập dữ liệu mức logic là gì",
+        "options": [
+            "Là khả năng thay đổi sơ đồ logic mà không dẫn đến các chương trình ứng dụng phải viết lại",
+            "Là khả năng thay đổi sơ đồ vật lí mà không dẫn đến các chương trình ứng dụng phải viết lại",
+            "Là khả năng thay đổi sơ đồ logic và dẫn đến các chương trình ứng dụng phải viết lại",
+            "Là khả năng thay đổi sơ đồ logic mà không dẫn đến các chương trình ứng dụng không phải viết lại"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cơ sở dữ liệu là gì?",
+        "options": [
+            "Là một bộ sưu tầm các dữ liệu tác nghiệp không được lưu trữ lại và được các hệ ứng dụng của một xí nghiệp cụ thể nào đó sử dụng",
+            "Là một bộ sưu tầm các dữ liệu tác nghiệp được lưu trữ lại",
+            "Là một bộ sưu tầm các dữ liệu tác nghiệp được các hệ ứng dụng của một xí nghiệp cụ thể nào đó sử dụng",
+            "Là một bộ sưu tầm các dữ liệu tác nghiệp được lưu trữ lại và được các hệ ứng dụng của một xí nghiệp cụ thể nào đó sử dụng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Phần cứng của hệ cơ sở dữ liệu là gì?",
+        "options": [
+            "Bao gồm các thiết bị nhớ thứ cấp",
+            "Bao gồm các thiết bị nhớ được sử dụng để lưu trữ cơ sở dữ liệu",
+            "Bao gồm các thiết bị nhớ thứ cấp được sử dụng để lưu trữ cơ sở dữ liệu",
+            "Bao gồm các thiết bị nhớ sơ cấp được sử dụng để lưu trữ cơ sở dữ liệu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Các kiểu thao tác đối với hệ quản trị cơ sở dữ liệu",
+        "options": [
+            "Các truy vấn, các cập nhập dữ liệu, các thay đổi sơ đồ và các chương trình ứng dụng",
+            "Các truy vấn, các cập nhập dữ liệu, các thay đổi sơ đồ",
+            "các cập nhập dữ liệu và các thay đổi sơ đồ",
+            "Các truy vấn và các thay đổi sơ đồ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Các truy vấn là gì?",
+        "options": [
+            "Là thao tác cho phép tạo lập một cơ sở dữ liệu mới",
+            "Là thao tác hỏi đáp về dữ liệu được lưu trữ trong cơ sở dữ liệu",
+            "Là thao tácthay đổi dữ liệu",
+            "Là thao tác cho phép thay đổi sơ đồ của cơ sở dữ liệu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Những nhóm người sử dụng cơ sở dữ liệu",
+        "options": [
+            "Người lập trình ứng dụng, người phân tích dữ liệu",
+            "Người lập trình ứng dụng, người phân tích dữ liệu, người sử dụng cuối",
+            "Người lập trình ứng dụng, người sử dụng cuối",
+            "Người phân tích dữ liệu, người sử dụng cuối"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Phân loại các hệ cơ sở dữ liệu:",
+        "options": [
+            "Tập chung và phân tán",
+            "Tập chung và tan rã",
+            "Phân tán và tan rã",
+            "Không có đáp án đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hệ cơ sở dữ liệu khách/chủ là gì?",
+        "options": [
+            "Cơ sở dữ liệu được lưu trữ trên một máy tính trung tâm để những người sử dụng có thể truy cập thông qua các thiết bị đầu cuối và các móc nối truyền thông dữ liệu",
+            "Có nghĩa là công nghệ dữ liệu như nhau (ít nhất là có thể tương thích) tại mỗi vị trí địa lý và dữ liệu tại các vị trí địa lý khác nhau cũng có thể tương thích",
+            "Là một cơ sở dữ liệu logic đơn lẻ được trải ra về mặt vật lý trên nhiều máy tính ở những vị trí địa lí khác nhau",
+            "Sử dụng kiến trúc khách/chủ để cho phép các ứng dụng máy khách truy cập dữ liệu được quản lí bởi máy chủ. Giao diện người sử dụng và logic của ứng dụng được xử lý trên máy khách, trong khi xử lý cơ sở dữ liệu được thực hiện trên máy chủ cơ sở dữ liệu"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hệ cơ sở dữ liệu trung tâm nghĩa là gì?",
+        "options": [
+            "Cơ sở dữ liệu được lưu trữ trên một máy tính trung tâm để những người sử dụng có thể truy cập thông qua các thiết bị đầu cuối và các móc nối truyền thông dữ liệu. Các hệ cơ sở dữ liệu trung tâm thường lưu trữ các cơ sở dữ liệu tích hợp và được nhiều người sử dụng truy cập",
+            "Có nghĩa là công nghệ dữ liệu như nhau (ít nhất là có thể tương thích) tại mỗi vị trí địa lý và dữ liệu tại các vị trí địa lý khác nhau cũng có thể tương thích",
+            "Là một cơ sở dữ liệu logic đơn lẻ được trải ra về mặt vật lý trên nhiều máy tính ở những vị trí địa lí khác nhau",
+            "Sử dụng kiến trúc khách/chủ để cho phép các ứng dụng máy khách truy cập dữ liệu được quản lí bởi máy chủ. Giao diện người sử dụng và logic của ứng dụng được xử lý trên máy khách, trong khi xử lý cơ sở dữ liệu được thực hiện trên máy chủ cơ sở dữ liệu"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Hệ cơ sở dữ liệu phân tán thuần nhất nghĩa là gì?",
+        "options": [
+            "Cơ sở dữ liệu được lưu trữ trên một máy tính trung tâm để những người sử dụng có thể truy cập thông qua các thiết bị đầu cuối và các móc nối truyền thông dữ liệu. Các hệ cơ sở dữ liệu trung tâm thường lưu trữ các cơ sở dữ liệu tích hợp và được nhiều người sử dụng truy cập",
+            "Có nghĩa là công nghệ dữ liệu như nhau (ít nhất là có thể tương thích) tại mỗi vị trí địa lý và dữ liệu tại các vị trí địa lý khác nhau cũng có thể tương thích",
+            "Là một cơ sở dữ liệu logic đơn lẻ được trải ra về mặt vật lý trên nhiều máy tính ở những vị trí địa lí khác nhau",
+            "Sử dụng kiến trúc khách/chủ để cho phép các ứng dụng máy khách truy cập dữ liệu được quản lí bởi máy chủ. Giao diện người sử dụng và logic của ứng dụng được xử lý trên máy khách, trong khi xử lý cơ sở dữ liệu được thực hiện trên máy chủ cơ sở dữ liệu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hệ cơ sở dữ liệu tập chung có mấy loại?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Độc lập dữ liệu có mấy loại?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mức khung nhìn là gì?",
+        "options": [
+            "Mô tả cấu trúc lưu trữ vật lý CSDL",
+            "Mô tả cấu trúc của toàn thể CSDL cho một cộng đồng người sử dụng, gồm thực thể, kiểu dữ liệu, mối liên hệ và ràng buộc",
+            "Che bớt các chi tiết của cấu trúc lưu trữ vật lí",
+            "Mô tả một phần của CSDL mà một nhóm người dùng quan tâm đến và che dấu phần còn lại của CSDL đối với nhóm người dùng đó"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Các thành phần chính của một hệ quan trị CSDL:",
+        "options": [
+            "Bộ xử lý câu hỏi, bộ quản lý lưu trữ và bộ quản trị giao dịch",
+            "Bộ xử lý câu hỏi, bộ quản lý lưu trữ, bộ quản trị giao dịch và bộ quản lí thành phần",
+            "Bộ xử lý câu hỏi và bộ quản trị giao dịch",
+            "Bộ quản lý lưu trữ và bộ quản trị giao dịch"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Một số tính năng của HQT CSDL:",
+        "options": [
+            "Kiểm soát được tính dư thừa của dữ liệu, chia sẻ dữ liệu",
+            "Hạn chế những truy cập không cho phép, cung cấp nhiều giao diện",
+            "Đảm bảo các ràng buộc toàn vẹn, khả năng sao lưu dự phòng khi gặp sự cố",
+            "Tất cả các đáp án trên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chức năng của đảm bảo các ràng buộc toàn vẹn:",
+        "options": [
+            "Ràng buộc toàn vẹn là những quy định cần được thỏa mãn đẻ đảm bảo dữ liệu luôn phản ánh đúng nghĩa của thế giới thực",
+            "Một số ràng buộc có thể được khai báo với HQT và HQT sẽ tự động kiểm tra nhờ CTƯD",
+            "Cả 2 đều đúng",
+            "Cả 2 đều sai"
+        ],
+        "answer": 2
+    }
+]

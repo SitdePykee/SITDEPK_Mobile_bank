@@ -1,0 +1,502 @@
+[
+    {
+        "question": "﻿Phụ thuộc hàm có mấy tính chất?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Các bước chính để tạo CSDL:",
+        "options": [
+            "Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng; Tạo liên kết bảng",
+            "Tạo bảng; Chọn khóa chính cho bảng; Lưu cấu trúc bảng; Tạo liên kết bảng; cập nhật và khai thác CSDL",
+            "Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng; Tạo liên kết bảng",
+            "Tạo bảng; Chọn khóa chính cho bảng; Đặt tên bảng và lưu cấu trúc bảng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu A -> B và A -> C thì suy ra?",
+        "options": [
+            "A -> AB",
+            "AB -> AC",
+            "AC -> AB",
+            "A -> BC"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bao đóng của một tập phụ thuộc hàm là gì?",
+        "options": [
+            "Bao đóng của F là tập hợp nhỏ nhất chứa các phụ thuộc hàm có thể được suy ra từ các phụ thuộc hàm trong F",
+            "Bao đóng của F là tập hợp lớn nhất chứa các phụ thuộc hàm có thể được suy ra từ các phụ thuộc hàm trong F",
+            "Bao đóng của F là tập hợp lớn chứa các phụ thuộc hàm có thể được suy ra từ các phụ thuộc hàm trong D",
+            "Bao đóng của F là tập hợp lớn hoặc nhỏ nhất chứa các phụ thuộc hàm có thể được suy ra từ các phụ thuộc hàm trong F"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hệ tiên đề Armstrong cho các phụ thuộc hàm gồm các quy tắc:",
+        "options": [
+            "Phản xạ, tăng trưởng, bắc cầu",
+            "Phản xạ, hợp và tách",
+            "Phản xạ, tăng trưởng",
+            "Phản xạ, hợp và tách, bắc cầu"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho F = {A → B, C → X, BX → Z}, khi đó:",
+        "options": [
+            "CB → Z Thuộc F+",
+            "AB → C Thuộc F+",
+            "AC → Z Thuộc F+",
+            "A → Z Thuộc F+"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = U(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Nếu áp dụng một tính chất của hệ tiên đề cho phụ thuộc hàm thì được tập phụ thuộc hàm nào sau đây?",
+        "options": [
+            "F = {AB→CD, B→C, C→D}",
+            "F = {A→CD, B→CD, B→C, C→D}",
+            "F = {AB→C, AB→D, B→C, C→D}",
+            "F = {A→C, A→D, B→C, C→D}"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho F là tập các phụ thuộc hàm F = {A→B, B→C}. Phụ thuộc hàm A→C được suy diễn logic từ F là căn cứ vào luật nào sau đây của hệ tiên đề Amstrong?",
+        "options": [
+            "Phản xạ",
+            "Bắc cầu",
+            "Mở rộng trái",
+            "Thu hẹp phải"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho R = {A,B,C,D,E,G,H,I} và F= { AC → B, BI → ACD, ABC → D, H → I, ACE → BCG, CG → AE}. Tìm một khóa duy nhất của quan hệ?",
+        "options": [
+            "Khóa duy nhất là K={AGH}",
+            "Khóa duy nhất là K={CGH}",
+            "Khóa duy nhất là K={ACH}",
+            "Khóa duy nhất là K={ABC}"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cơ sở để chuẩn hoá dựa trên các khái niệm:",
+        "options": [
+            "Các thuộc tính, bao đóng các thuộc tính.",
+            "Bao đóng các phụ thuộc hàm",
+            "Phụ thuộc hàm",
+            "Khoá và siêu khoá."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khẳng định nào là phụ thuộc hàm",
+        "options": [
+            "Họ và tên -> Số chứng minh thư",
+            "Họ và tên -> Địa chỉ",
+            "Số chứng minh thư -> Họ và tên",
+            "Họ và tên -> Số điện thoại nhà riêng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Xét quan hệ R với tập thuộc tính (A, B, C, D, E), cùng với tập FD là A -> B, BC -> E, và ED -> A. Tất cả các khóa của R là:",
+        "options": [
+            "ABC, BCD, CDE",
+            "ACE, ABD, ABC",
+            "CDE, ACD, BCD",
+            "CDE, BCD, ABE"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "F = {X -> Z, XY -> WP, XY -> ZWQ, XZ -> R}.",
+        "options": [
+            "XY -> WP chứa thuộc tính Y dư thừa",
+            "XY -> WP chứa thuộc tính P dư thừa",
+            "XY -> WP chứa thuộc tính X dư thừa",
+            "XY -> WP không chứa thuộc tính dư thừa vế trái"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giả sử ta có quan hệ S có 3 thuộc tính ABC, gồm 3 bộ theo thứ tự là: (1, 2, 3); (4, 2, 3); và (5, 3, 3). Tập phụ thuộc hàm đúng trên mọi thể hiện của S là.",
+        "options": [
+            "Không thể có vì mỗi tập phụ thuộc hàm chỉ có thể đúng với 1 thể hiện của S",
+            "B -> C",
+            "A -> B",
+            "BC - A"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phụ thuộc nào sau đây là phụ thuộc đầy đủ:",
+        "options": [
+            "(Số hoá đơn, mã khách hàng) -> Họ tên khách hàng",
+            "(Số thứ tự, mã lớp) -> Họ tên sinh viên.",
+            "(Số chứng minh thư, mã nhân viên) -> Quá trình công tác",
+            "(Mã báo, mã khách hàng) -> Giá báo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ TAIKHOAN(SoTaiKhoan, TenTaiKhoan, NganHangPH, LoaiNgoaiTe). Các thuộc tính TenTaiKhoan, NganHangPH, LoaiNgoaiTe đều phụ thuộc hàm vào SoTaiKhoan. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "TenTaiKhoan → SoTaiKhoan, TenTaiKhoan → NganHangPH, TenTaiKhoan → LoaiNgoaiTe",
+            "SoTaiKhoan → TenTaiKhoan, TenTaiKhoan → NganHangPH, NganHangPH → LoaiNgoaiTe",
+            "SoTaiKhoan → TenTaiKhoan, TenTaiKhoan → NganHangPH, TenTaiKhoan → LoaiNgoaiTe",
+            "SoTaiKhoan → TenTaiKhoan, SoTaiKhoan → NganHangPH, SoTaiKhoan → LoaiNgoaiTe"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho lược đồ quan hệ THETINDUNG(SoThe, TenThe, NganHangPH, MenhGia). Các thuộc tính TenThe, NganHangPH, MenhGia đều phụ thuộc hàm vào SoThe. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "SoThe → TenThe, SoThe → NganHangPH, SoThe → MenhGia",
+            "SoThe → TenThe, TenThe → NganHangPH, NganHangPH → MenhGia",
+            "SoThe → TenThe, TenThe → NganHangPH, TenThe → MenhGia",
+            "TenThe → SoThe, TenThe → NganHangPH, TenThe → MenhGia"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ BAIHAT(MaTacPham, TenTacPham, TenTacGia, NamSangTac). Các thuộc tính TenTacPham, TenTacGia, NamSangTac đều phụ thuộc hàm vào MaTacPham. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "MaTacPham → TenTacPham, TenTacPham → TenTacGia, TenTacGia → NamSangTac",
+            "MaTacPham → TenTacPham, MaTacPham → TenTacGia, MaTacPham → NamSangTac",
+            "MaTacPham → TenTacPham, TenTacPham → TenTacGia, TenTacPham → NamSangTac",
+            "TenTacPham → MaTacPham, TenTacPham → TenTacGia, TenTacPham → NamSangTac"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = <U,F> với U = {A, B, C, D, E,H,G} và F= {AB -> C, B-> D, CD -> E, CE -> GH, G-> A}. Khẳng định nào sau đây là đúng?",
+        "options": [
+            "AB -> H thuộc F+",
+            "AB -> D thuộc F+",
+            "AB -> E thuộc F+",
+            "AB -> C thuộc F+"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = Q(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Xét phụ thuộc hàm AB→D thì thuộc tính A dư thừa. Tại sao thuộc tính A lại dư thừa?",
+        "options": [
+            "Vì: Tính B+ = {BCD} có chứa D nên A dư thừa",
+            "Vì: Tính A+ = {A} không chứa B nên A dư thừa",
+            "Vì: Tính A+ = {A} không chứa D nên A dư thừa",
+            "Vì: Tính B+ = {BCD} không chứa A nên A dư thừa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = <U,F> với U = {A, B, C, D, E,H,G} và F= {AB -> C, B-> D, CD -> E, CE -> GH, G-> A}. Khẳng định nào sau đây là đúng?",
+        "options": [
+            "AB -> G thuộc F+",
+            "AB -> C thuộc F+",
+            "AB -> G không thuộc F+",
+            "AB -> C không thuộc F+"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho F là tập các phụ thuộc hàm F = {A→B, B→C}. Phụ thuộc hàm nào sau đây được suy diễn logic từ F?",
+        "options": [
+            "C → A",
+            "C → B",
+            "A → C",
+            "B → C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = U(A, B, C) và F={AB→C, C→A, BC → AB, AB → ABC}. Phụ thuộc hàm BC → ABC được tạo ra từ luật nào sau đây?",
+        "options": [
+            "Luật bắc cầu (từ BC → AB và AB → ABC)",
+            "Luật tăng trưởng (từ BC → AB và AB → ABC)",
+            "Luật mở rộng (từ BC → AB và AB → ABC)",
+            "Luật cộng (từ BC → AB và AB → ABC)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = U(A, B, C) và F={AB→C, C→A}. Cho biết: U gọi là gì? F gọi là gì?",
+        "options": [
+            "U là tập các thuộc tính. F là tập các phụ thuộc hàm.",
+            "F là tập các thuộc tính. U là tập các phụ thuộc hàm.",
+            "U là miền giá trị. F là tập các phụ thuộc hàm.",
+            "U là tập các thuộc tính. F là tập các miền giá trị."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nếu A->BC thì suy ra:",
+        "options": [
+            "AC->B và A->CC",
+            "A ->B và A->C",
+            "A->B",
+            "A->C"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ R(U) với U=(ABCDE) và hai tập phụ thuộc hàm F và G. Với tập phụ thuộc hàm F={A→BC, A → D,CD → E}; hãy tìm tập phụ thuộc hàm G để F tương đương với G?",
+        "options": [
+            "G={A → ABD, CD → E}",
+            "G={E → BC, A → ABD, CD → E}",
+            "G={A → BCE, A → ABD, CD → E}",
+            "G ={A → BCDE}"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ MONHOC(MaMon, TenMon, SoTinChi, BMQuanLy). Các thuộc tính TenMon, SoTinChi, BMQuanLy đều phụ thuộc hàm vào MaMon. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "TenMon → MaMon, TenMon → SoTinChi, TenMon → BMQuanLy",
+            "MaMon → TenMon, MaMon → SoTinChi, MaMon → BMQuanLy",
+            "MaMon → TenMon, TenMon → SoTinChi, TenMon → BMQuanLy",
+            "MaMon → TenMon, TenMon → SoTinChi, SoTinChi → BMQuanLy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ NHACUNGCAP(MaNhaCC, TenNhaCC, DiaChi, SoDienThoai). Các thuộc tính TenNhaCC, DiaChi, SoDienThoai đều phụ thuộc hàm vào MaNhaCC. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "MaNhaCC → TenNhaCC, MaNhaCC → DiaChi, MaNhaCC → SoDienThoai",
+            "MaNhaCC → TenNhaCC, TenNhaCC → DiaChi, TenNhaCC → SoDienThoai",
+            "MaNhaCC → TenNhaCC, TenNhaCC → DiaChi, DiaChi → SoDienThoai",
+            "TenNhaCC → MaNhaCC, TenNhaCC → DiaChi, TenNhaCC → SoDienThoai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ ACCOUNT(AccountID, AccountName, Bank, CreditLimit). Các thuộc tính AccountName, Bank, CreditLimit đều phụ thuộc hàm vào AccountID. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "AccountID → AccountName, AccountID → Bank, AccountID → CreditLimit",
+            "AccountID → AccountName, AccountName → Bank, AccountName → CreditLimit",
+            "AccountName → AccountID, AccountName → Bank, AccountName → CreditLimit",
+            "AccountID → AccountName, AccountName → Bank, Bank → CreditLimit"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ TAISAN(MaTS, TenTS, NuocSX, NguyenGia). Các thuộc tính TenTS, NuocSX, NguyenGia đều phụ thuộc hàm vào MaTS. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "TenTS → MaTS, TenTS → NuocSX, TenTS → NguyenGia",
+            "MaTS → TenTS, TenTS → NuocSX, TenTS → NguyenGia",
+            "MaTS → TenTS, MaTS → NuocSX, MaTS → NguyenGia",
+            "MaTS → TenTS, TenTS → NuocSX, NuocSX → NguyenGia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = Q(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Xét phụ thuộc hàm AB→CD thì thuộc tính A dư thừa. Tại sao thuộc tính A lại dư thừa?",
+        "options": [
+            "Vì: Tính A+ = {A} không chứa B nên A dư thừa",
+            "Vì: Tính B+ = {BCD} có chứa CD nên A dư thừa",
+            "Vì: Tính A+ = {A} không chứa CD nên A dư thừa",
+            "Vì: Tính B+ = {BCD} không chứa A nên A dư thừa"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho tập các thuộc tính U=(A,B,C,D,E,G,H) và tập các phụ thuộc hàm F={B→A, DA→CE, D →H, GH→C, AC→D}. Tìm X+ với X={AC}?",
+        "options": [
+            "X+=(A,B,C,D,E,G)",
+            "X+=(A,B, C,D,E,G,H)",
+            "X+=(A,C,D,E,G,H)",
+            "X+=(A,B,D,E,G,H)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ HANG(MaHang, TenHang, DonVT, NuocSX). Các thuộc tính TenHang, DonVT, NuocSX đều phụ thuộc hàm vào MaHang. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "MaHang → TenHang, MaHang → DonVT, MaHang → NuocSX",
+            "TenHang → MaHang, TenHang → DonVT, TenHang → NuocSX",
+            "MaHang → TenHang, TenHang → DonVT, TenHang → NuocSX",
+            "MaHang → TenHang, TenHang → DonVT, DonVT → NuocSX"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho F là tập các phụ thuộc hàm trên lược đồ quan hệ R(U); F+ gọi là gì?",
+        "options": [
+            "F+ là thuộc tính của F",
+            "F+ là bao đóng của F",
+            "F+ là miền giá trị của F",
+            "F+ là phụ thuộc hàm của F"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = U(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Hãy cho biết bao đóng của B+?",
+        "options": [
+            "B+ = {BCD}",
+            "B+ = {B}",
+            "B+ = {ABCD}",
+            "B+ = {AB}"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = Q(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Nếu xét phụ thuộc hàm AB→C thì thuộc tính nào sau đây dư thừa?",
+        "options": [
+            "Thuộc tính A dư thừa",
+            "Thuộc tính C dư thừa",
+            "Không có thuộc tính nào dư thừa",
+            "Thuộc tính B dư thừa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = U(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Nếu xét phụ thuộc hàm AB→CD thì thuộc tính nào sau đây dư thừa?",
+        "options": [
+            "Thuộc tính A dư thừa",
+            "Thuộc tính B dư thừa",
+            "Thuộc tính C dư thừa",
+            "Thuộc tính D dư thừa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho lược đồ quan hệ R(U, F); Với U = {A,B,C,D,E} và F = { AB ->CD, E -> C, D -> CE, A ->E}. Tìm A+",
+        "options": [
+            "ADE",
+            "ABC",
+            "ACE",
+            "AD"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ NHANVIEN(MaNV, TenNV, NgaySinh, SoDT). Các thuộc tính TenNV, NgaySinh, SoDT đều phụ thuộc hàm vào MaNV. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "MaNV → TenNV, TenNV → NgaySinh, TenNV → SoDT",
+            "MaNV → TenNV, TenNV → NgaySinh, NgaySinh → SoDT",
+            "TenNV → MaNV, TenNV → NgaySinh, TenNV → SoDT",
+            "MaNV → TenNV, MaNV → NgaySinh, MaNV → SoDT"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho lược đồ quan hệ KHOA(MaKhoa, TenKhoa, DiaChi, SoDT). Các thuộc tính TenKhoa, DiaChi, SoDT đều phụ thuộc hàm vào MaKhoa. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "TenKhoa → MaKhoa, TenKhoa → DiaChi, TenKhoa → SoDT",
+            "MaKhoa → TenKhoa, TenKhoa → DiaChi, TenKhoa → SoDT",
+            "MaKhoa → TenKhoa, MaKhoa → DiaChi, MaKhoa → SoDT",
+            "MaKhoa → TenKhoa, TenKhoa → DiaChi, DiaChi → SoDT"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ SINHVIEN(MaSV, TenSV, NgaySinh, Lop). Các thuộc tính TenSV, NgaySinh, Lop đều phụ thuộc hàm vào MaSV. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "MaSV → TenSV, TenSV → NgaySinh, NgaySinh → Lop",
+            "MaSV → TenSV, MaSV → NgaySinh, MaSV → Lop",
+            "TenSV → MaSV, TenSV → NgaySinh, TenSV → Lop",
+            "MaSV → TenSV, TenSV → NgaySinh, TenSV → Lop"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ SUPPLIERS(SupplierID, SupplierName, SupplierAddress, SupplierPhoneNo). Các thuộc tính SupplierName, SupplierAddress, SupplierPhoneNo đều phụ thuộc hàm vào SupplierID. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "SupplierID → SupplierName, SupplierName → SupplierAddress, SupplierAddress → SupplierPhoneNo",
+            "SupplierID → SupplierName, SupplierID → SupplierAddress, SupplierID → SupplierPhoneNo",
+            "SupplierID → SupplierName, SupplierName → SupplierAddress, SupplierName → SupplierPhoneNo",
+            "SupplierName → SupplierID, SupplierName → SupplierAddress, SupplierName → SupplierPhoneNo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ ASSETS(AssetID, AssetName, ProducingCountry, Cost). Các thuộc tính AssetName, ProducingCountry, Cost đều phụ thuộc hàm vào AssetID. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "AssetID → AssetName, AssetName → ProducingCountry, ProducingCountry → Cost",
+            "AssetID → AssetName, AssetName → ProducingCountry, AssetName → Cost",
+            "AssetID → AssetName, AssetID → ProducingCountry, AssetID → Cost",
+            "AssetName → AssetID, AssetName → ProducingCountry, AssetName → Cost"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ CUSTOMERS(CustomerID, CustomerName, CustomerAddress, CustomerPhoneNo). Các thuộc tính CustomerName, CustomerAddress, CustomerPhoneNo đều phụ thuộc hàm vào CustomerID. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "CustomerID → CustomerName, CustomerName → CustomerAddress, CustomerName → CustomerPhoneNo",
+            "CustomerID → CustomerName, CustomerName → CustomerAddress, CustomerAddress → CustomerPhoneNo",
+            "CustomerID → CustomerName, CustomerID → CustomerAddress, CustomerID → CustomerPhoneNo",
+            "CustomerName → CustomerID, CustomerName → CustomerAddress, CustomerName → CustomerPhoneNo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ R = <U, F>: U = {A,B,C,D,E}, F = {A→B, B→C, B→DE, A→E, A→D}. Tìm một khóa tối thiểu của lược đồ?",
+        "options": [
+            "B",
+            "BC",
+            "A",
+            "AB"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ SACH(MaSach, TenSach, TenTacGia, NamXuatBan). Các thuộc tính TenSach, TenTacGia, NamXuatBan đều phụ thuộc hàm vào MaSach. Tập phụ thuộc hàm nào sau đây viết đúng?",
+        "options": [
+            "MaSach → TenSach, TenSach → TenTacGia, TenSach → NamXuatBan",
+            "TenSach → MaSach, TenSach → TenTacGia, TenSach → NamXuatBan",
+            "MaSach → TenSach, TenSach → TenTacGia, TenTacGia → NamXuatBan",
+            "MaSach → TenSach, MaSach → TenTacGia, MaSach → NamXuatBan"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = U(A, B, C) và F={AB→C, C→A}. Phụ thuộc hàm AB → ABC được tạo ra từ luật nào sau đây?",
+        "options": [
+            "Luật tăng trưởng (thêm AB vào phụ thuộc hàm C→ A)",
+            "Luật cộng (cộng 2 phụ thuộc hàm từ giả thiết AB→C, C→A)",
+            "Luật tăng trưởng (thêm AB vào phụ thuộc hàm AB→C)",
+            "Luật mở rộng phải (thêm AB vào phụ thuộc hàm AB→C)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = U(A, B, C) và F={AB→C, C→A}. Phụ thuộc hàm BC → AB được tạo ra từ luật nào sau đây?",
+        "options": [
+            "Luật cộng (cộng 2 phụ thuộc hàm từ giả thiết AB→C, C→A)",
+            "Luật tăng trưởng (thêm B vào phụ thuộc hàm C→ A)",
+            "Luật tăng trưởng (thêm B vào phụ thuộc hàm AB→C)",
+            "Luật mở rộng phải (thêm B vào phụ thuộc hàm AB→C)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho lược đồ quan hệ R = Q(ABCD) và tập phụ thuộc hàm F = {AB→CD, B→C, C→D}. Xét phụ thuộc hàm AB→C thì thuộc tính A dư thừa. Tại sao thuộc tính A lại dư thừa?",
+        "options": [
+            "Vì: Tính A+ = {A} không chứa B nên A dư thừa",
+            "Vì: Tính B+ = {BCD} không chứa A nên A dư thừa",
+            "Vì: Tính B+ = {BCD} có chứa C nên A dư thừa",
+            "Vì: Tính A+ = {A} không chứa C nên A dư thừa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu A -> B và B -> CD thì?",
+        "options": [
+            "B -> A",
+            "A -> D",
+            "A -> C",
+            "A -> CD"
+        ],
+        "answer": 3
+    }
+]
