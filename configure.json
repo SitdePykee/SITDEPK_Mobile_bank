@@ -2,7 +2,7 @@
   "CNTT1116": {
     "Chapters": {
       "1": {
-        "FileName": "deCNTT1116_C1.txt",
+        "FileName": "deCNTT1116_C1.json",
         "HasExplanation": false,
         "NQuestions": 50,
         "Name": "Tổng quan về Công nghệ thông tin ",
@@ -10,7 +10,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deCNTT1116_C2.txt",
+        "FileName": "deCNTT1116_C2.json",
         "HasExplanation": false,
         "NQuestions": 50,
         "Name": "Biểu diễn dữ liệu và tổ chức của hệ thống máy tính ",
@@ -18,7 +18,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deCNTT1116_C3.txt",
+        "FileName": "deCNTT1116_C3.json",
         "HasExplanation": true,
         "NQuestions": 50,
         "Name": "Phần mềm máy tính thông dụng",
@@ -26,7 +26,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deCNTT1116_C4.txt",
+        "FileName": "deCNTT1116_C4.json",
         "HasExplanation": true,
         "NQuestions": 50,
         "Name": "Lập trình cơ bản",
@@ -46,7 +46,7 @@
   "CNTT1128": {
     "Chapters": {
       "1": {
-        "FileName": "deCNTT1128_C1_3.txt",
+        "FileName": "deCNTT1128_C1_3.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Lập trình C cơ bản",
@@ -54,7 +54,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deCNTT1128_C4.txt",
+        "FileName": "deCNTT1128_C4.json",
         "HasExplanation": true,
         "NQuestions": 40,
         "Name": "Vào ra dữ liệu trong C",
@@ -62,7 +62,7 @@
         "Title": "Chương 4"
       },
       "3": {
-        "FileName": "deCNTT1128_C5.txt",
+        "FileName": "deCNTT1128_C5.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Các cấu trúc lập trình trong C",
@@ -70,7 +70,7 @@
         "Title": "Chương 5"
       },
       "4": {
-        "FileName": "deCNTT1128_C6.txt",
+        "FileName": "deCNTT1128_C6.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Hàm trong C",
@@ -78,7 +78,7 @@
         "Title": "Chương 6"
       },
       "5": {
-        "FileName": "deCNTT1128_C7.txt",
+        "FileName": "deCNTT1128_C7.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Con trỏ trong C",
@@ -86,7 +86,7 @@
         "Title": "Chương 7"
       },
       "6": {
-        "FileName": "deCNTT1128_C8.txt",
+        "FileName": "deCNTT1128_C8.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Cấu trúc trong C",
@@ -94,7 +94,7 @@
         "Title": "Chương 8"
       },
       "7": {
-        "FileName": "deCNTT1128_C9.txt",
+        "FileName": "deCNTT1128_C9.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Thao tác trên tệp tin",
@@ -114,7 +114,7 @@
   "CNTT1182": {
     "Chapters": {
       "1": {
-        "FileName": "deCNTT1182_C1.txt",
+        "FileName": "deCNTT1182_C1.json",
         "HasExplanation": false,
         "NQuestions": 10,
         "Name": "Một số khái niệm cơ bản",
@@ -122,7 +122,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deCNTT1182_C2.txt",
+        "FileName": "deCNTT1182_C2.json",
         "HasExplanation": false,
         "NQuestions": 10,
         "Name": "Nội suy hàm đa thức",
@@ -130,7 +130,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deCNTT1182_C3.txt",
+        "FileName": "deCNTT1182_C3.json",
         "HasExplanation": false,
         "NQuestions": 10,
         "Name": "Xấp xỉ hàm số bằng phương pháp bình phương tối thiểu",
@@ -138,7 +138,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deCNTT1182_C4.txt",
+        "FileName": "deCNTT1182_C4.json",
         "HasExplanation": false,
         "NQuestions": 10,
         "Name": "Tính gần đúng đạo hàm và tích phân xác định",
@@ -146,7 +146,7 @@
         "Title": "Chương 4"
       },
       "5": {
-        "FileName": "deCNTT1182_C5.txt",
+        "FileName": "deCNTT1182_C5.json",
         "HasExplanation": false,
         "NQuestions": 10,
         "Name": "Giải gần đúng phương trình",
@@ -154,7 +154,7 @@
         "Title": "Chương 5"
       },
       "6": {
-        "FileName": "deCNTT1182_C6.txt",
+        "FileName": "deCNTT1182_C6.json",
         "HasExplanation": false,
         "NQuestions": 10,
         "Name": "Tính gần đúng nghiệm của hệ tuyến tính",
@@ -162,7 +162,7 @@
         "Title": "Chương 6"
       },
       "7": {
-        "FileName": "deCNTT1182_C7.txt",
+        "FileName": "deCNTT1182_C7.json",
         "HasExplanation": false,
         "NQuestions": 10,
         "Name": "Giải gần đúng phương trình vi phân",
@@ -182,7 +182,7 @@
   "CNTT1191": {
     "Chapters": {
       "1": {
-        "FileName": "de_CNTT1191_1.txt",
+        "FileName": "de_CNTT1191_1.json",
         "HasExplanation": true,
         "NQuestions": 40,
         "Name": "Điện trường tĩnh",
@@ -190,7 +190,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "de_CNTT1191_3.txt",
+        "FileName": "de_CNTT1191_3.json",
         "HasExplanation": true,
         "NQuestions": 40,
         "Name": "Vật dẫn",
@@ -198,7 +198,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "de_CNTT1191_C3.txt",
+        "FileName": "de_CNTT1191_C3.json",
         "HasExplanation": true,
         "NQuestions": 40,
         "Name": "Điện môi",
@@ -206,7 +206,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "de_CNTT1191_C4.txt",
+        "FileName": "de_CNTT1191_C4.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Từ trường",
@@ -214,7 +214,7 @@
         "Title": "Chương 4"
       },
       "5": {
-        "FileName": "de_CNTT1191_C6.txt",
+        "FileName": "de_CNTT1191_C6.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Vật liệu từ",
@@ -222,7 +222,7 @@
         "Title": "Chương 6"
       },
       "6": {
-        "FileName": "de_CNTT1191_C7.txt",
+        "FileName": "de_CNTT1191_C7.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Trường điện từ",
@@ -230,7 +230,7 @@
         "Title": "Chương 7"
       },
       "7": {
-        "FileName": "de_CNTT1191_C8.txt",
+        "FileName": "de_CNTT1191_C8.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Dao động điện từ",
@@ -238,7 +238,7 @@
         "Title": "Chương 8"
       },
       "8": {
-        "FileName": "de_CNTT1191_C9.txt",
+        "FileName": "de_CNTT1191_C9.json",
         "HasExplanation": true,
         "NQuestions": 40,
         "Name": "Sóng điện từ",
@@ -258,7 +258,7 @@
   "KHMA1101": {
     "Chapters": {
       "1": {
-        "FileName": "deKHMA1101_C1.txt",
+        "FileName": "deKHMA1101_C1.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Tổng quan về Kinh tế học",
@@ -266,7 +266,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deKHMA1101_C2.txt",
+        "FileName": "deKHMA1101_C2.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Đo lường sản lượng và mức giá",
@@ -274,7 +274,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deKHMA1101_C3.txt",
+        "FileName": "deKHMA1101_C3.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Sản xuất và tăng trưởng kinh tế",
@@ -282,7 +282,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deKHMA1101_C4.txt",
+        "FileName": "deKHMA1101_C4.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Đầu tư, tiết kiệm và hệ thống tài chính",
@@ -290,7 +290,7 @@
         "Title": "Chương 4"
       },
       "5": {
-        "FileName": "deKHMA1101_C5.txt",
+        "FileName": "deKHMA1101_C5.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Thất nghiệp",
@@ -298,7 +298,7 @@
         "Title": "Chương 5"
       },
       "6": {
-        "FileName": "deKHMA1101_C6.txt",
+        "FileName": "deKHMA1101_C6.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Tiền tệ và chính sách tiền tệ",
@@ -306,7 +306,7 @@
         "Title": "Chương 6"
       },
       "7": {
-        "FileName": "deKHMA1101_C7.txt",
+        "FileName": "deKHMA1101_C7.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Tiền tệ và lạm phát",
@@ -314,7 +314,7 @@
         "Title": "Chương 7"
       },
       "8": {
-        "FileName": "deKHMA1101_C8.txt",
+        "FileName": "deKHMA1101_C8.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Kinh tế vĩ mô của nền kinh tế mở",
@@ -322,7 +322,7 @@
         "Title": "Chương 8"
       },
       "9": {
-        "FileName": "deKHMA1101_C9.txt",
+        "FileName": "deKHMA1101_C9.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Mô hình tổng cung, tổng cầu",
@@ -330,7 +330,7 @@
         "Title": "Chương 9"
       },
       "10": {
-        "FileName": "deKHMA1101_C10.txt",
+        "FileName": "deKHMA1101_C10.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Sự đánh đổi giữa lạm phát và thất nghiệp",
@@ -350,7 +350,7 @@
   "KHMI1101": {
     "Chapters": {
       "1": {
-        "FileName": "deKHMI1101_C1_4.txt",
+        "FileName": "deKHMI1101_C1_4.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Mô hình cung cầu",
@@ -358,7 +358,7 @@
         "Title": "Chương 1-4"
       },
       "2": {
-        "FileName": "deKHMI1101_C5.txt",
+        "FileName": "deKHMI1101_C5.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Sản xuất, chi phí, lợi nhuận",
@@ -366,7 +366,7 @@
         "Title": "Chương 5"
       },
       "3": {
-        "FileName": "deKHMI1101_C6.txt",
+        "FileName": "deKHMI1101_C6.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Cấu trúc thị trường",
@@ -374,7 +374,7 @@
         "Title": "Chương 6"
       },
       "4": {
-        "FileName": "deKHMI1101_C7.txt",
+        "FileName": "deKHMI1101_C7.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Thương mại quốc tế",
@@ -382,7 +382,7 @@
         "Title": "Chương 7"
       },
       "5": {
-        "FileName": "deKHMI1101_C8.txt",
+        "FileName": "deKHMI1101_C8.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Thất bại của thị trường",
@@ -390,7 +390,7 @@
         "Title": "Chương 8"
       },
       "6": {
-        "FileName": "deKHMI1101_bank.txt",
+        "FileName": "deKHMI1101_bank.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "NGÂN HÀNG 10.000 CÂU HỎI VI MÔ",
@@ -410,7 +410,7 @@
   "LLNL1105": {
     "Chapters": {
       "1": {
-        "FileName": "deLLNL1105_C1.txt",
+        "FileName": "deLLNL1105_C1.json",
         "HasExplanation": false,
         "NQuestions": 60,
         "Name": "Triết học và vai trò trong đời sống xã hội",
@@ -418,7 +418,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deLLNL1105_C2.txt",
+        "FileName": "deLLNL1105_C2.json",
         "HasExplanation": false,
         "NQuestions": 80,
         "Name": "Chủ nghĩa duy vật biện chứng",
@@ -438,7 +438,7 @@
   "LLNL1107": {
     "Chapters": {
       "2": {
-        "FileName": "deLLNL1107_C2.txt",
+        "FileName": "deLLNL1107_C2.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Sứ mệnh lịch sử của giai cấp công nhân",
@@ -457,7 +457,7 @@
   "LLTT1101": {
     "Chapters": {
       "1": {
-        "FileName": "deLLTT1101_C1.txt",
+        "FileName": "deLLTT1101_C1.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập",
@@ -465,7 +465,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deLLTT1101_C2.txt",
+        "FileName": "deLLTT1101_C2.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh",
@@ -473,7 +473,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deLLTT1101_C3.txt",
+        "FileName": "deLLTT1101_C3.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Tư tưởng Hồ Chí Minh về độc lập dân tộc và chủ nghĩa xã hội",
@@ -481,7 +481,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deLLTT1101_C4.txt",
+        "FileName": "deLLTT1101_C4.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Tư tưởng Hồ Chí Minh về Đảng Cộng sản Việt Nam và nhà nước của nhân dân, do nhân dân, vì nhân dân",
@@ -489,7 +489,7 @@
         "Title": "Chương 4"
       },
       "5": {
-        "FileName": "deLLTT1101_C5.txt",
+        "FileName": "deLLTT1101_C5.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế",
@@ -497,7 +497,7 @@
         "Title": "Chương 5"
       },
       "6": {
-        "FileName": "deLLTT1101_C6.txt",
+        "FileName": "deLLTT1101_C6.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Tư tưởng Hồ Chí Minh về văn hoá, đạo đức, con người",
@@ -517,7 +517,7 @@
   "LUCS1129": {
     "Chapters": {
       "1": {
-        "FileName": "deLUCS1129_C1.txt",
+        "FileName": "deLUCS1129_C1.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Đại cương về Nhà nước",
@@ -525,7 +525,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deLUCS1129_C2.txt",
+        "FileName": "deLUCS1129_C2.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Đại cương về Pháp luật",
@@ -533,7 +533,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deLUCS1129_C3.txt",
+        "FileName": "deLUCS1129_C3.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Hình thức pháp luật và hệ thống pháp luật Việt Nam",
@@ -541,7 +541,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deLUCS1129_C4.txt",
+        "FileName": "deLUCS1129_C4.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Các ngành luật trong hệ thống pháp luật Việt Nam",
@@ -561,7 +561,7 @@
   "TIKT1130": {
     "Chapters": {
       "1": {
-        "FileName": "deTIKT1130_C1.txt",
+        "FileName": "deTIKT1130_C1.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Tổng quan về cơ sở dữ liệu",
@@ -569,7 +569,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deTIKT1130_C2.txt",
+        "FileName": "deTIKT1130_C2.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Một số ngôn ngữ khai thác CSDL",
@@ -577,7 +577,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deTIKT1130_C3.txt",
+        "FileName": "deTIKT1130_C3.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Lý thuyết thiết kế CSDL & phụ thuộc hàm",
@@ -585,7 +585,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deTIKT1130_C4.txt",
+        "FileName": "deTIKT1130_C4.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Dạng chuẩn của lược đồ quan hệ",
@@ -605,7 +605,7 @@
   "TOCB1101": {
     "Chapters": {
       "1": {
-        "FileName": "deTOCB1101_C1.txt",
+        "FileName": "deTOCB1101_C1.json",
         "HasExplanation": true,
         "NQuestions": 20,
         "Name": "Hệ phương trình tuyến tính",
@@ -613,7 +613,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "Đại số.txt",
+        "FileName": "Đại số.json",
         "HasExplanation": false,
         "NQuestions": 20,
         "Name": "Ma trận, định thức, hệ phương trình tuyến tính",
@@ -621,7 +621,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deTOCB1101_C5.txt",
+        "FileName": "deTOCB1101_C5.json",
         "HasExplanation": true,
         "NQuestions": 20,
         "Name": "Không gian vectơ N chiều",
@@ -641,7 +641,7 @@
   "TOCB1107": {
     "Chapters": {
       "1": {
-        "FileName": "Toán rời rạc.txt",
+        "FileName": "Toán rời rạc.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Bài toán đếm",
@@ -649,7 +649,7 @@
         "Title": "Chương 1 - 3"
       },
       "2": {
-        "FileName": "deTOCB1107_C4.txt",
+        "FileName": "deTOCB1107_C4.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Lý thuyết đồ thị",
@@ -657,7 +657,7 @@
         "Title": "Chương 4"
       },
       "3": {
-        "FileName": "deTOCB1107_C5.txt",
+        "FileName": "deTOCB1107_C5.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Cây",
@@ -677,7 +677,7 @@
   "TIHT1101": {
     "Chapters": {
       "1": {
-        "FileName": "deTIHT1101_C1.txt",
+        "FileName": "deTIHT1101_C1.json",
         "HasExplanation": true,
         "NQuestions": 40,
         "Name": "Một số khái niệm cơ bản",
@@ -685,7 +685,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deTIHT1101_C2.txt",
+        "FileName": "deTIHT1101_C2.json",
         "HasExplanation": true,
         "NQuestions": 20,
         "Name": "Cấu trúc dữ liệu kiểu mảng",
@@ -693,7 +693,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deTIHT1101_C3.txt",
+        "FileName": "deTIHT1101_C3.json",
         "HasExplanation": true,
         "NQuestions": 30,
         "Name": "Ngăn xếp, hàng đợi và danh sách liên kết",
@@ -701,7 +701,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deTIHT1101_C4.txt",
+        "FileName": "deTIHT1101_C4.json",
         "HasExplanation": true,
         "NQuestions": 20,
         "Name": "Cấu trúc dữ liệu cây",
@@ -709,7 +709,7 @@
         "Title": "Chương 4"
       },
       "5": {
-        "FileName": "deTIHT1101_C5.txt",
+        "FileName": "deTIHT1101_C5.json",
         "HasExplanation": true,
         "NQuestions": 20,
         "Name": "Cấu trúc dữ liệu đồ thị",
@@ -717,7 +717,7 @@
         "Title": "Chương 5"
       },
       "67": {
-        "FileName": "deTIHT1101_C6_7.txt",
+        "FileName": "deTIHT1101_C6_7.json",
         "HasExplanation": true,
         "NQuestions": 20,
         "Name": "Sắp xếp và tìm kiếm",
@@ -737,7 +737,7 @@
   "TOKT1145": {
     "Chapters": {
       "1": {
-        "FileName": "deTOKT1145_C1.txt",
+        "FileName": "deTOKT1145_C1.json",
         "HasExplanation": true,
         "NQuestions": 30,
         "Name": "Thống kê mô tả",
@@ -745,7 +745,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deTOKT1145_C2.txt",
+        "FileName": "deTOKT1145_C2.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Biến cố và xác suất",
@@ -753,7 +753,7 @@
         "Title": "Chương 2"
       },
       "6": {
-        "FileName": "deTOKT1145_C6.txt",
+        "FileName": "deTOKT1145_C6.json",
         "HasExplanation": false,
         "NQuestions": 20,
         "Name": "Ước lượng tham số",
@@ -761,7 +761,7 @@
         "Title": "Chương 6"
       },
       "7": {
-        "FileName": "deTOKT1145_C7.txt",
+        "FileName": "deTOKT1145_C7.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Kiểm định tham số",
@@ -769,7 +769,7 @@
         "Title": "Chương 7"
       },
       "8": {
-        "FileName": "deTOKT1145_C8.txt",
+        "FileName": "deTOKT1145_C8.json",
         "HasExplanation": true,
         "NQuestions": 10,
         "Name": "Kiểm định phi tham số",
@@ -777,7 +777,7 @@
         "Title": "Chương 8"
       },
       "9": {
-        "FileName": "deTOKT1145_C9.txt",
+        "FileName": "deTOKT1145_C9.json",
         "HasExplanation": true,
         "NQuestions": 30,
         "Name": "Phân tích phương sai",
@@ -797,7 +797,7 @@
   "LLNL1106": {
     "Chapters": {
       "2": {
-        "FileName": "deLLNL1106_C2.txt",
+        "FileName": "deLLNL1106_C2.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Hàng hóa, thị trường và các chủ thể tham gia thị trường",
@@ -805,7 +805,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deLLNL1106_C3.txt",
+        "FileName": "deLLNL1106_C3.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Giá trị thặng dư trong nền kinh tế thị trường",
@@ -813,7 +813,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deLLNL1106_C4.txt",
+        "FileName": "deLLNL1106_C4.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Cạnh tranh và độc quyền trong nền kinh tế thị trường",
@@ -821,7 +821,7 @@
         "Title": "Chương 4"
       },
       "5": {
-        "FileName": "deLLNL1106_C5.txt",
+        "FileName": "deLLNL1106_C5.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Kinh tế thị trường định hướng xã hội chủ nghĩa và các quan hệ kinh tế trong nền kinh tế Việt Nam",
@@ -829,7 +829,7 @@
         "Title": "Chương 5"
       },
       "6": {
-        "FileName": "deLLNL1106_C6.txt",
+        "FileName": "deLLNL1106_C6.json",
         "HasExplanation": false,
         "NQuestions": 40,
         "Name": "Công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế của Việt Nam",
@@ -849,7 +849,7 @@
   "QLKT1101": {
     "Chapters": {
       "1": {
-        "FileName": "deQLKT1101_C1.txt",
+        "FileName": "deQLKT1101_C1.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Tổng quan về quản lý",
@@ -857,7 +857,7 @@
         "Title": "Chương 1"
       },
       "2": {
-        "FileName": "deQLKT1101_C2.txt",
+        "FileName": "deQLKT1101_C2.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Môi trường quản lý",
@@ -865,7 +865,7 @@
         "Title": "Chương 2"
       },
       "3": {
-        "FileName": "deQLKT1101_C3.txt",
+        "FileName": "deQLKT1101_C3.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Quyết định quản lý",
@@ -873,7 +873,7 @@
         "Title": "Chương 3"
       },
       "4": {
-        "FileName": "deQLKT1101_C4.txt",
+        "FileName": "deQLKT1101_C4.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Chức năng lập kế hoạch",
@@ -881,7 +881,7 @@
         "Title": "Chương 4"
       },
       "5": {
-        "FileName": "deQLKT1101_C5.txt",
+        "FileName": "deQLKT1101_C5.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Chức năng tổ chức",
@@ -889,7 +889,7 @@
         "Title": "Chương 5"
       },
       "6": {
-        "FileName": "deQLKT1101_C6.txt",
+        "FileName": "deQLKT1101_C6.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Chức năng lãnh đạo",
@@ -897,7 +897,7 @@
         "Title": "Chương 6"
       },
       "7": {
-        "FileName": "deQLKT1101_C7.txt",
+        "FileName": "deQLKT1101_C7.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Chức năng kiểm soát",
@@ -917,7 +917,7 @@
   "LLDL1102": {
     "Chapters": {
       "0": {
-        "FileName": "deLLDL1102_C0.txt",
+        "FileName": "deLLDL1102_C0.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Chương nhập môn",
@@ -925,7 +925,7 @@
         "Title": "Chương 0"
       },
       "1": {
-        "FileName": "deLLDL1102_C1.txt",
+        "FileName": "deLLDL1102_C1.json",
         "HasExplanation": false,
         "NQuestions": 30,
         "Name": "Đảng ra đời và lãnh đạo đấu tranh giành chính quyền",
