@@ -102,7 +102,7 @@
         "Title": "Chương 9"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Cơ sở lập trình",
     "Type": "Cơ sở ngành",
     "NCredits": "3",
@@ -170,7 +170,7 @@
         "Title": "Chương 7"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Phương pháp tính",
     "Type": "Cơ sở ngành",
     "NCredits": "3",
@@ -246,7 +246,7 @@
         "Title": "Chương 9"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Vật lý đại cương",
     "Type": "Đại cương",
     "NCredits": "3",
@@ -629,7 +629,7 @@
         "Title": "Chương 5"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Đại số",
     "Type": "Đại cương",
     "NCredits": "3",
@@ -665,7 +665,7 @@
         "Title": "Chương 5"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Toán rời rạc",
     "Type": "Cơ sở ngành",
     "NCredits": "3",
@@ -725,7 +725,7 @@
         "Title": "Chương 6 - 7"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Cấu trúc dữ liệu và giải thuật",
     "Type": "Cơ sở ngành",
     "NCredits": "3",
@@ -785,7 +785,7 @@
         "Title": "Chương 9"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Lý thuyết xác suất và thống kê Toán",
     "Type": "Đại cương",
     "NCredits": "3",
@@ -837,12 +837,12 @@
         "Title": "Chương 6"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Kinh tế chính trị Mác Lênin",
     "Type": "Đại cương",
     "NCredits": "3",
     "URL": {
-      "Thumbnail": "https://img.vietnamfinance.vn/webp-jpg/700x0/upload/news/thanhhang/2018/7/27/vnf-kinh-te-chinh-tri.webp",
+      "Thumbnail": "https://courses.funix.edu.vn/asset-v1:FUNiX+MLN122x_01-A_VN+2021_T1+type@asset+block@asset-v1_FUNiX_MLN101x_0101_VN_FX_2018_T11_type_asset_block_46506381_252789088729917_7747404335151054848_n.jpg",
       "ReviewProposal": "https://drive.google.com/drive/folders/1ziLaZyq-MgYh1UVX6nWJOCNdvppI1Z3d?usp=sharing"
     }
   },
@@ -933,7 +933,7 @@
         "Title": "Chương 1"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Lịch sử Đảng Cộng sản Việt Nam",
     "Type": "Đại cương",
     "NCredits": "2",
