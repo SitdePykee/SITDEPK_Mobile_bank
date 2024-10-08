@@ -338,7 +338,7 @@
         "Title": "Chương 10"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Kinh tế vĩ mô",
     "Type": "Đại cương",
     "NCredits": "3",
@@ -426,7 +426,7 @@
         "Title": "Chương 2"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Triết học Mác Lênin",
     "Type": "Đại cương",
     "NCredits": "3",
@@ -549,7 +549,7 @@
         "Title": "Chương 4, 5, 6"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Pháp luật đại cương",
     "Type": "Đại cương",
     "NCredits": "3",
@@ -905,7 +905,7 @@
         "Title": "Chương 7"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Quản lý học",
     "Type": "Cơ sở ngành",
     "NCredits": "3",
