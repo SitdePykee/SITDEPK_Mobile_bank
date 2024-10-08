@@ -34,7 +34,7 @@
         "Title": "Chương 4"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Nhập môn Công nghệ thông tin",
     "Type": "Đại cương",
     "NCredits": "3",
@@ -505,7 +505,7 @@
         "Title": "Chương 6"
       }
     },
-    "Enable": true,
+    "Enable": false,
     "Name": "Tư tưởng Hồ Chí Minh",
     "Type": "Đại cương",
     "NCredits": "2",
