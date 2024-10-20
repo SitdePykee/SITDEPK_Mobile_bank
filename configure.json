@@ -785,7 +785,7 @@
         "Title": "Chương 9"
       }
     },
-    "Enable": false,
+    "Enable": true,
     "Name": "Lý thuyết xác suất và thống kê Toán",
     "Type": "Đại cương",
     "NCredits": "3",
