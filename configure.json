@@ -725,7 +725,7 @@
         "Title": "Chương 6 - 7"
       }
     },
-    "Enable": false,
+    "Enable": true,
     "Name": "Cấu trúc dữ liệu và giải thuật",
     "Type": "Cơ sở ngành",
     "NCredits": "3",
