@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Cây (Tree) là gì?",
+        "options": [
+            "Là tập hợp hữu hạn các nút có quan hệ phân cấp xuất phát từ một nút gọi là gốc (root)",
+            "Là tập hợp các nút có quan hệ một chiều xuất phát từ một nút gọi là gốc (root)",
+            "Là tập hợp hữu hạn các nút có quan hệ phân cấp xuất phát từ một nút gọi là đỉnh (top)",
+            "Là tập hợp các nút có quan hệ một chiều xuất phát từ một nút gọi là đỉnh (top)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong một cây, mức của gốc bằng bao nhiêu?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "Mức không tính từ gốc"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cây nhị phân (Binary Tree) là gì?",
+        "options": [
+            "Là cây mà mỗi nút phải có đầy đủ hai nút con, gọi là nút con trái và nút con phải",
+            "Là cây mà từ nút gốc rẽ ra hai nhánh chính",
+            "Là cây mà mỗi nút của cây chỉ có tối đa 2 nút con, gọi là nút con trái và nút con phải",
+            "Là cây mà từ nút gốc rẽ ra tối đa hai nhánh chính"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Có những phương pháp lưu trữ cây nhị phân bao gồm:",
+        "options": [
+            "Lưu trữ bằng mảng và lưu trữ bằng hàng đợi",
+            "Lưu trữ bằng ngăn xếp và lưu trữ bằng hàng đợi",
+            "Lưu trữ bằng ngăn xếp và bằng danh sách liên kết",
+            "Lưu trữ bằng mảng và bằng danh sách liên kết"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Theo phương pháp lưu trữ cây nhị phân bằng mảng, nút con trái của nút thứ i được lưu ở phần tử thứ mấy trong mảng?",
+        "options": [
+            "i + 1",
+            "2i",
+            "2i + 1",
+            "i + 2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Theo phương pháp lưu trữ cây nhị phân bằng mảng, nút con phải của nút thứ i được lưu ở phần tử thứ mấy trong mảng?",
+        "options": [
+            "i + 1",
+            "2i",
+            "2i + 1",
+            "i + 2"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho cây nhị phân được lưu trữ trong mảng như sau: 1, 12, 22, 8, 20, 21, 34, 6, 11. Cho biết mức của phần tử mang giá trị 6 bằng bao nhiêu?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đâu là nhược điểm của phương pháp lưu trữ cây nhị phân bằng mảng?",
+        "options": [
+            "Tốn nhiều bộ nhớ và không hiệu quả trong giải thuật xử lý",
+            "Tốn nhiều bộ nhớ và khó xây dựng",
+            "Khó xây dựng và không hiệu quả trong giải thuật xử lý",
+            "Không có nhược điểm nào"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Theo phương pháp lưu trữ cây nhị phân bằng danh sách liên kết, mỗi nút sẽ bao gồm",
+        "options": [
+            "Một trường Data chứa dữ liệu của nút",
+            "Một con trỏ trỏ tới nút con trái",
+            "Một con trỏ trỏ tới nút con phải",
+            "Cả 3 đáp án trên"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Theo phương pháp lưu trữ cây nhị phân bằng danh sách liên kết, nếu một nút con trái hoặc phải bất kỳ không tồn tại (tức là không có nút con) thì con trỏ trỏ tới nút con đó sẽ mang giá trị?",
+        "options": [
+            "0",
+            "Nil",
+            "Null",
+            "-1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Những phương pháp quét cây nhị phân bao gồm:",
+        "options": [
+            "Tiền thứ tự, trung thứ tự và hậu thứ tự",
+            "Tiền thứ tự, hậu thứ tự",
+            "Trung thứ tự và hậu thứ tự",
+            "Trung thứ tự và hậu thứ tự"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cách quét cây nhị phân nào sau đây là cách quét tiền thứ tự (Preorder)?",
+        "options": [
+            "Quét cây con trái - Thăm gốc - Quét cây con phải",
+            "Quét cây con trái - Quét cây con phải - Thăm gốc",
+            "Thăm gốc - Quét cây con trái - Quét cây con phải",
+            "Quét cây con phải - Thăm gốc - Quét cây con trái"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cách quét cây nhị phân nào sau đây là cách quét trung thứ tự (Inorder)?",
+        "options": [
+            "Quét cây con trái - Thăm gốc - Quét cây con phải",
+            "Quét cây con trái - Quét cây con phải - Thăm gốc",
+            "Thăm gốc - Quét cây con trái - Quét cây con phải",
+            "Quét cây con phải - Thăm gốc - Quét cây con trái"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cách quét cây nhị phân nào sau đây là cách quét hậu thứ tự (Postorder)?",
+        "options": [
+            "Quét cây con trái - Thăm gốc - Quét cây con phải",
+            "Quét cây con trái - Quét cây con phải - Thăm gốc",
+            "Thăm gốc - Quét cây con trái - Quét cây con phải",
+            "Quét cây con phải - Thăm gốc - Quét cây con trái"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho một cây nhị phân, sau khi quét cho ra kết quả như sau: 7 5 2 4 37 21 42 38 53. Biết rằng 7 là gốc. Cho biết cây nhị phân này đã được quét bằng phương pháp nào?",
+        "options": [
+            "Tiền thứ tự",
+            "Trung thứ tự",
+            "Hậu thứ tự",
+            "Không có đáp án đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho một cây nhị phân, sau khi quét cho ra kết quả như sau: 1 3 15 6 11 7 5 10 16 8 4 9 2 17 18 19 20. Biết rằng 8 là gốc. Cho biết cây nhị phân này đã được quét bằng phương pháp nào?",
+        "options": [
+            "Tiền thứ tự",
+            "Trung thứ tự",
+            "Hậu thứ tự",
+            "Không có đáp án đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho một cây nhị phân, sau khi quét cho ra kết quả như sau: 5 6 7 13 11 9 8 1 2 3 4 18 16 14 12 10. Biết rằng 10 là gốc. Cho biết cây nhị phân này đã được quét bằng phương pháp nào?",
+        "options": [
+            "Tiền thứ tự",
+            "Trung thứ tự",
+            "Hậu thứ tự",
+            "Không có đáp án đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho cây nhị phân tìm kiếm được duyệt theo phương pháp tiền thứ tự như sau: 10 8 7 6 5 9 11 13 12 14 4 3 2 1 16 18. Cây này có bao nhiêu mức?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho cây nhị phân tìm kiếm được duyệt theo phương pháp hậu thứ tự như sau: 2 4 7 5 6 3 1 8 9 10 11 17 19 20 18 16 15 8. Cho biết nút có giá trị 10 nằm ở mức thứ mấy?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Thế nào là cây nhị phân tìm kiếm?",
+        "options": [
+            "Là cây nhị phân mà mỗi nút của nó đều thỏa mãn: Giá trị của nút con trái nhỏ hơn giá trị của chính nút đó; Giá trị của nút con phải lớn hơn giá trị của chính nút đó",
+            "Là cây nhị phân mà mỗi nút của nó đều thỏa mãn: Giá trị của nút con trái lớn hơn giá trị của chính nút đó; Giá trị của nút con phải nhỏ hơn giá trị của chính nút đó",
+            "Là cây nhị phân mà mỗi nút chỉ có duy nhất một nút con",
+            "Là cây nhị phân mà từ gốc chia làm hai nhánh, nhưng các nút ở mỗi nhánh chỉ có một nút con."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho danh sách như sau: 24 5 26 35 8 17 32 45 67 32. Nếu lấy 24 làm gốc thì cây nhị phân tìm kiếm này sẽ có mấy mức?",
+        "options": [
+            "4",
+            "3",
+            "6",
+            "5"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho cây nhị phân tìm kiếm được duyệt theo phương pháp tiền thứ tự như sau: 24 5 8 17 26 35 ... 45 67. Trong các số sau, số nào là thích hợp nhất để điền vào dấu \"…\"?",
+        "options": [
+            "15",
+            "25",
+            "28",
+            "32"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho cây nhị phân tìm kiếm được duyệt theo phương pháp hậu thứ tự như sau: 9 7 17 16 25 39 ... 32 18. Trong các số sau, số nào là thích hợp nhất để điền vào dấu \"…\"?",
+        "options": [
+            "20",
+            "42",
+            "36",
+            "12"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cây nhị phân cân đối AVL là gì?",
+        "options": [
+            "Là cây mà đối với mọi nút của nó chiều cao của hai cây con tương ứng chỉ chênh nhau tối đa một đơn vị",
+            "Là cây mà đối với mọi nút của nó chiều cao của hai cây con tương ứng phải chênh nhau một đơn vị",
+            "Là cây nhị phân đầy đủ",
+            "Là cây nhị phân mà tại đó mỗi cây của nút con chỉ được khuyết tối đa 1 phần tử"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nhận xét nào sau đây đúng về cây nhị phân cân đối AVL?",
+        "options": [
+            "Là cây có số nút là một số chẵn",
+            "Cây nhị phân đầy đủ là một cây cân đối AVL",
+            "Mọi cây cân đối AVL đều thỏa mãn điều kiện của một cây nhị phân đầy đủ",
+            "Không thể quét toàn bộ cây nhị phân cân đối"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho cây nhị phân tìm kiếm được duyệt theo phương pháp tiền thứ tự như sau: 28 17 9 15 10 22 32 29 52 33. Kết quả duyệt cây này theo phương pháp hậu thứ tự là?",
+        "options": [
+            "9 17 10 15 22 28 29 32 33 52",
+            "9 17 10 15 22 29 32 33 52 28",
+            "10 15 9 22 17 29 33 52 32 28",
+            "10 15 22 9 17 33 52 29 32 28"
+        ],
+        "answer": 2
+    }
+]

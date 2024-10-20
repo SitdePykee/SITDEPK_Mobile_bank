@@ -1,0 +1,322 @@
+[
+    {
+        "question": "Giải thuật là?",
+        "options": [
+            "Là một dãy các quy tắc chặt chẽ xác định một trình tự các thao tác trên một đối tượng cụ thể để giải quyết một vấn đề hoặc hoàn thành một mục đích cuối cùng nào đó",
+            "Là một dãy các bước xác định một trình tự các thao tác trên một đối tượng cụ thể để giải quyết một vấn đề hoặc hoàn thành một mục đích cuối cùng nào đó",
+            "Là một bản hướng dẫn một trình tự các thao tác trên một đối tượng cụ thể để giải quyết một vấn đề hoặc hoàn thành một mục đích cuối cùng nào đó",
+            "Không có đáp án đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu không phải một cấu trúc điều khiển?",
+        "options": [
+            "Cấu trúc tuần tự",
+            "Cấu trúc lớp",
+            "Cấu trúc chọn lọc",
+            "Cấu trúc quy trình"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Có bao nhiêu cấu trúc điều khiển?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong cấu trúc tuần tự (Sequential), các bước được thực hiện?",
+        "options": [
+            "Theo trình tự một cách chính xác, mỗi bước được thực hiện đúng một lần",
+            "Một trong nhiều thao tác được chọn và thực hiện",
+            "Một hay nhiều bước được thực hiện lặp lại",
+            "Theo trình tự xác định, một bước có thể được thực hiện nhiều hơn một lần"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong cấu trúc chọn lọc (Selection)",
+        "options": [
+            "Theo trình tự một cách chính xác, mỗi bước được thực hiện đúng một lần",
+            "Một trong nhiều thao tác được chọn và thực hiện",
+            "Một hay nhiều bước được thực hiện lặp lại",
+            "Theo trình tự xác định, một bước có thể được thực hiện nhiều hơn một lần"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong cấu trúc chu trình (Repetition)",
+        "options": [
+            "Theo trình tự một cách chính xác, mỗi bước được thực hiện đúng một lần",
+            "Một trong nhiều thao tác được chọn và thực hiện",
+            "Một hay nhiều bước được thực hiện lặp lại",
+            "Theo trình tự xác định, một bước có thể được thực hiện nhiều hơn một lần"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Dữ liệu cơ sở là?",
+        "options": [
+            "Là một tập hợp các bộ dữ liệu xác định lẫn nhau trong một bài toán",
+            "Là một tập hợp các phần tử dữ liệu ban đầu trong một bài toán",
+            "Là một tập hợp các phần tử dữ liệu tính toán từ các dữ liệu cho trước trong một bài toán",
+            "B và C"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong hệ thống quản lý ngân hàng, giả sử ta cần tính số dư tiết kiệm của khách hàng khi biết họ tên khách hàng, số tiền gửi ban đầu, số tháng gửi và lãi suất hàng tháng. Đâu KHÔNG PHẢI là dữ liệu cơ sở?",
+        "options": [
+            "Họ tên người gửi",
+            "Số tiền gửi ban đầu",
+            "Kỳ gửi",
+            "Số dư tiết kiệm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cấu trúc dữ liệu là gì?",
+        "options": [
+            "Là các quy trình xác định chặt chẽ cách thiết kế và tổ chức dữ liệu sao cho phù hợp với bài toán đặt ra",
+            "Là các bước để tổ chức dữ liệu sao cho phù hợp với bài toán đặt ra",
+            "Là sự kết hợp các dữ liệu cơ sở nhằm liên kết thành một cấu trúc thống nhất, tiện lợi cho quá trình xử lý",
+            "Là sự kết hợp các dữ liệu sao cho thống nhất, tiện lợi cho quá trình xử lý và lưu trữ"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nhận xét nào sau đây sai?",
+        "options": [
+            "Việc lựa chọn các cấu trúc dữ liệu và thiết lập giải thuật có cấu trúc tốt, hiệu quả là vấn đề mấu chốt của phát triển phần mềm",
+            "Trong phát triển phần mềm, thiết lập các giải thuật đúng đắn có cấu trúc tốt và hiệu quả quan trọng hơn cấu trúc dữ liệu",
+            "Khi cấu trúc dữ liệu thay đổi thì giải thuật cũng phải thay đổi cho phù hợp",
+            "Cấu trúc dữ liệu và giải thuật gắn bó chặt chẽ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cấu trúc lưu trữ là gì?",
+        "options": [
+            "Là phương thức biểu diễn một cấu trúc dữ liệu trong bộ nhớ",
+            "Là phương thức biểu diễn dữ liệu trong bộ nhớ",
+            "Là cách kết hợp các cấu trúc dữ liệu và giải thuật để lưu trữ dữ liệu trong bộ nhớ",
+            "Là việc sử dụng giải thuật để lưu trữ dữ liệu trong bộ nhớ"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nhận xét nào sau đây đúng?",
+        "options": [
+            "Một cấu trúc dữ liệu có tương ứng duy nhất một cấu trúc lưu trữ",
+            "Hai khái niệm cấu trúc dữ liệu và cấu trúc lưu trữ không hoàn toàn đồng nhất",
+            "Tất cả các cấu trúc dữ liệu đều có thể thể hiện bằng cấu trúc lưu trữ kế tiếp (Sequential Storage Allocation)",
+            "Không có đáp án đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Có mấy phương pháp biểu diễn giải thuật? Là những phương pháp nào?",
+        "options": [
+            "3 phương pháp: Bằng sơ đồ khối, bằng mã vắn tắt, bằng ngôn ngữ lập trình",
+            "3 phương pháp: Bằng sơ đồ khối, bằng mã vắn tắt, bằng lời",
+            "3 phương pháp: Bằng mã vắn tắt, bằng ngôn ngữ lập trình, bằng lời",
+            "3 phương pháp: Bằng lời, bằng sơ đồ khối, bằng ngôn ngữ lập trình"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đâu là ưu điểm của phương pháp diễn đạt giải thuật bằng lời?",
+        "options": [
+            "Làm cho người đọc dễ dàng nắm bắt được tư tưởng chủ đạo của giải thuật",
+            "Làm \"mịn\" giải thuật",
+            "Cho cái nhìn tổng thể về phương pháp giải quyết bài toán đặt ra",
+            "Biểu diễn giải thuật một cách ngắn gọn"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu là ưu điểm của phương pháp diễn đạt giải thuật bằng sơ đồ khối?",
+        "options": [
+            "Làm cho người đọc dễ dàng nắm bắt được tư tưởng chủ đạo của giải thuật",
+            "Làm \"mịn\" giải thuật",
+            "Cho cái nhìn tổng thể về phương pháp giải quyết bài toán đặt ra",
+            "Biểu diễn giải thuật một cách ngắn gọn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu là ưu điểm của phương pháp diễn đạt giải thuật bằng một ngôn ngữ lập trình?",
+        "options": [
+            "Làm cho người đọc dễ dàng nắm bắt được tư tưởng chủ đạo của giải thuật",
+            "Làm \"mịn\" giải thuật",
+            "Cho cái nhìn tổng thể về phương pháp giải quyết bài toán đặt ra",
+            "Biểu diễn giải thuật một cách ngắn gọn"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thế nào là biểu diễn giải thuật bằng lời?",
+        "options": [
+            "Sử dụng các ngôn ngữ tự nhiên để diễn tả giải thuật",
+            "Sử dụng các hình khối với các chức năng khác nhau để diễn tả giải thuật",
+            "Sử dụng các ký pháp và quy tắc của một ngôn ngữ lập trình cụ thể để diễn tả giải thuật",
+            "Không có đáp án đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thế nào là biểu diễn giải thuật bằng sơ đồ khối?",
+        "options": [
+            "Sử dụng các ngôn ngữ tự nhiên để diễn tả giải thuật",
+            "Sử dụng các hình khối với các chức năng khác nhau để diễn tả giải thuật",
+            "Sử dụng các ký pháp và quy tắc của một ngôn ngữ lập trình cụ thể để diễn tả giải thuật",
+            "Không có đáp án đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thế nào là biểu diễn giải thuật bằng ngôn ngữ lập trình?",
+        "options": [
+            "Sử dụng các ngôn ngữ tự nhiên để diễn tả giải thuật",
+            "Sử dụng các hình khối với các chức năng khác nhau để diễn tả giải thuật",
+            "Sử dụng các ký pháp và quy tắc của một ngôn ngữ lập trình cụ thể để diễn tả giải thuật",
+            "Không có đáp án đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ký pháp chữ O lớn là ?",
+        "options": [
+            "Thời gian thực hiện các lệnh trong giải thuật",
+            "Thời gian thực hiện lâu nhất của thuật toán với một kích thước dữ liệu đầu vào xác định",
+            "Thời gian thực hiện lâu nhất của thuật toán với mọi kích thước dữ liệu đầu vào",
+            "Là số câu lệnh tối đa mà thuật toán thực hiện"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Yếu tố quan trọng nhất ảnh hưởng đến thời gian thực hiện một giải thuật là?",
+        "options": [
+            "Giải thuật",
+            "Cấu trúc dữ liệu",
+            "Kích thước dữ liệu đầu vào",
+            "Ngôn ngữ lập trình"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho T1(n) và T2(n) là thời gian thực hiện hai giải thuật T1 và T2 với T1(n) = O(f(n)) và T2 = O(g(n)). Khi đó thời gian thực hiện A1 rồi đến A2 được đánh giá bằng đại lượng ký hiệu bởi ký pháp chữ O lớn là?",
+        "options": [
+            "O(min(f(n), g(n)))",
+            "O(f(n),g(n))",
+            "O(g(n))",
+            "O(max(f(n), g(n)))"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho T1(n) và T2(n) là thời gian thực hiện hai giải thuật A1 và A2 với T1(n) = O(f(n)) và T2  = O(g(n)). Khi đó thời gian thực hiện A1 và A2 lồng nhau được đánh giá bằng đại lượng ký hiệu bởi ký pháp chữ O lớn là?",
+        "options": [
+            "O(min(f(n), g(n)))A23",
+            "O(f(n).g(n))",
+            "O(g(n))",
+            "O(max(f(n), g(n)))"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Module hóa là gì?",
+        "options": [
+            "Là phân chia bài toán lớn thành các bài toán nhỏ hơn, ngày càng cụ thể và chi tiết hơn",
+            "Là đóng gói bài toán bằng một cấu trúc dữ liệu và giải thuật hợp lý, tối ưu",
+            "Là phương pháp xác định cấu trúc dữ liệu và cấu trúc dữ liệu của một bộ dữ liệu",
+            "Là cách biểu diễn bài toán đầu vào dưới dạng thuật toán và cấu trúc dữ liệu hợp lý, tối ưu"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thế nào là phương pháp thiết kế từ đỉnh xuống (TOP DOWN)",
+        "options": [
+            "Xác định các vấn đề chủ yếu, bao quát bài toán sau đó chia nhỏ thành cách nhiệm vụ cụ thể",
+            "Giải quyết các vấn đề cụ thể sau đó gộp lại thành nhóm có cùng chức năng",
+            "Thiết kế thêm một số chương trình làm phong phú hơn",
+            "Cả B và C"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thế nào là phương pháp thiết kế từ dưới lên (BOTTOM UP)",
+        "options": [
+            "Xác định các vấn đề chủ yếu, bao quát bài toán sau đó chia nhỏ thành cách nhiệm vụ cụ thể",
+            "Giải quyết các vấn đề cụ thể sau đó gộp lại thành nhóm có cùng chức năng",
+            "Thiết kế thêm một số chương trình làm phong phú hơn",
+            "Cả B và C"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đâu là cách mô tả chính xác kỹ thuật Chia để trị (Divide and Conquer)",
+        "options": [
+            "Chia bài toán đã cho thành các bài toán con có kích thước nhỏ hơn. Giải lần lượt các bài toán con sau đó tổng hợp kết quả.",
+            "Tạo một bảng lưu tất cả kết quả của bài toán con. Khi cần dùng chỉ cần lấy kết quả trong bảng mà không cần giải lại bài toán",
+            "Lựa chọn các thành phần tốt và tối ưu trước, thành phần không tốt chọn sau",
+            "Phân tích cho tới các điểm dừng. Nếu thấy không xác định được lời giải thì quay ngược trở lại theo con đường đã qua và chọn hướng khác"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu là cách mô tả chính xác kỹ thuật Quy hoạch động (Dynamic Programming)",
+        "options": [
+            "Chia bài toán đã cho thành các bài toán con có kích thước nhỏ hơn. Giải lần lượt các bài toán con sau đó tổng hợp kết quả.",
+            "Tạo một bảng lưu tất cả kết quả của bài toán con. Khi cần dùng chỉ cần lấy kết quả trong bảng mà không cần giải lại bài toán",
+            "Lựa chọn các thành phần tốt và tối ưu trước, thành phần không tốt chọn sau",
+            "Phân tích cho tới các điểm dừng. Nếu thấy không xác định được lời giải thì quay ngược trở lại theo con đường đã qua và chọn hướng khác"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đâu là cách mô tả chính xác kỹ thuật Lựa chọn thành phần (Component Selection)",
+        "options": [
+            "Chia bài toán đã cho thành các bài toán con có kích thước nhỏ hơn. Giải lần lượt các bài toán con sau đó tổng hợp kết quả.",
+            "Tạo một bảng lưu tất cả kết quả của bài toán con. Khi cần dùng chỉ cần lấy kết quả trong bảng mà không cần giải lại bài toán",
+            "Lựa chọn các thành phần tốt và tối ưu trước, thành phần không tốt chọn sau",
+            "Phân tích cho tới các điểm dừng. Nếu thấy không xác định được lời giải thì quay ngược trở lại theo con đường đã qua và chọn hướng khác"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu là cách mô tả chính xác kỹ thuật Quay lui (Backtracking)",
+        "options": [
+            "Chia bài toán đã cho thành các bài toán con có kích thước nhỏ hơn. Giải lần lượt các bài toán con sau đó tổng hợp kết quả.",
+            "Tạo một bảng lưu tất cả kết quả của bài toán con. Khi cần dùng chỉ cần lấy kết quả trong bảng mà không cần giải lại bài toán",
+            "Lựa chọn các thành phần tốt và tối ưu trước, thành phần không tốt chọn sau",
+            "Phân tích cho tới các điểm dừng. Nếu thấy không xác định được lời giải thì quay ngược trở lại theo con đường đã qua và chọn hướng khác"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho 3 thuật toán T1, T2, T3 có độ phức tạp lần lượt là n, n^2, logn. Bạn Nam viết một chương trình sử dụng cả 3 thuật toán trên. Biết rằng chương trình thực hiện các thuật toán trên một cách tuần tự. Độ phức tạp của chương trình là?",
+        "options": [
+            "n",
+            "n^2",
+            "logn",
+            "n^3.logn"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho 3 thuật toán T1, T2, T3 có độ phức tạp lần lượt là n, n, logn. Một chương trình sử dụng 3 thuật toán trên. Biết rằng trong chương trình này, thuật toán T1 lồng vào thuật toán T2, sau đó mới thực hiện đến thuật toán T3. Xác định độ phức tạp của chương trình trên?",
+        "options": [
+            "n",
+            "n^2",
+            "logn",
+            "n^2.logn"
+        ],
+        "answer": 1
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Cấu trúc dữ liệu kiểu danh sách là gì?",
+        "options": [
+            "Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1",
+            "Là tập hợp gồm nhiều phần tử có tính chất thứ tự liên tiếp liền kề nhau",
+            "Là tập hợp có thứ tự bao gồm một số lượng cố định các phần tử, được truy cập với cùng một tên",
+            "Là tập hợp các phần tử có cấu trúc nằm rải rác trong bộ nhớ"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong xử lý danh sách, thuật ngữ KEY muốn nhắc tới?",
+        "options": [
+            "Kết quả của phép tìm kiếm",
+            "Thông tin để tìm kiếm",
+            "Vị trí của phần tử",
+            "Địa chỉ ô nhớ lưu trữ dữ liệu về phần tử"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kết quả của phép tìm kiếm trong danh sách là?",
+        "options": [
+            "Thông tin để tìm kiếm",
+            "Giá trị phần tử cần tìm kiếm",
+            "Vị trí của phần tử",
+            "Địa chỉ ô nhớ lưu trữ dữ liệu về phần tử"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Danh sách kiểu ngăn xếp Stack là gì?",
+        "options": [
+            "Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1",
+            "Là kiểu danh sách tuyến tính mà phép bổ sung một phần tử được thực hiện ở một đầu gọi là lối sau (Rear) còn phép loại bỏ một phần tử thực hiện ở đầu khác gọi là lối trước (Front)",
+            "Là kiểu danh sách mà mỗi phần tử được lưu trữ trong một nút. Mỗi nút bao gồm một số từ máy liên tiếp nhau, nhưng bản thân các nút thì có thể nằm rải rác trong bộ nhớ",
+            "Là một kiểu danh sách tuyến tính đặc biệt mà việc bổ sung hay loại một phần tử chỉ thực hiện ở một đầu gọi là đỉnh (top)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tên gọi khác của Stack là?",
+        "options": [
+            "Danh sách hạn chế",
+            "Danh sách hai đầu",
+            "Danh sách kiểu ly",
+            "Danh sách một đầu"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đặc trưng cơ bản của Stack là?",
+        "options": [
+            "Nguyên tắc vào trước ra trước (FIFO)",
+            "Nguyên tắc vào sau ra trước (LIFO)",
+            "Nguyên tắc vào ra hai đầu (THIO)",
+            "Cả A và B đều đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Phương pháp nào sau đây là phương pháp lưu trữ Stack?",
+        "options": [
+            "Gồm một mảng chứa các phần tử và hai biến Front, Rear để lưu trữ các phần tử ở trước và sau của ngăn xếp",
+            "Gồm một danh sách chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của ngăn xếp",
+            "Gồm một mảng chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của ngăn xếp",
+            "Gồm một danh sách chứa các phần tử và hai biến Front, Rear để lưu trữ các phần tử ở trước và sau của ngăn xếp"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Một Stack được xác định là rỗng khi nào?",
+        "options": [
+            "Khi không thể chứa thêm phần tử nào nữa",
+            "Khi không xác định được con trỏ vị trí của phần tử đầu tiên trong Stack",
+            "Khi biến Top mang giá trị âm",
+            "Khi biến Top bằng 0"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Danh sách kiểu hàng đợi Queue là gì?",
+        "options": [
+            "Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1",
+            "Là kiểu danh sách tuyến tính mà phép bổ sung một phần tử được thực hiện ở một đầu gọi là lối sau (Rear) còn phép loại bỏ một phần tử thực hiện ở đầu khác gọi là lối trước (Front)",
+            "Là kiểu danh sách mà mỗi phần tử được lưu trữ trong một nút. Mỗi nút bao gồm một số từ máy liên tiếp nhau, nhưng bản thân các nút thì có thể nằm rải rác trong bộ nhớ",
+            "Là một kiểu danh sách tuyến tính đặc biệt mà việc bổ sung hay loại một phần tử chỉ thực hiện ở một đầu gọi là đỉnh (top)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Để lưu trữ Queue, có những phương pháp nào?",
+        "options": [
+            "Phương pháp lưu trữ tuần tự và nối vòng",
+            "Phương pháp lưu trữ tuyến tính và rời rạc",
+            "Phương pháp lưu trữ tuần tự và rời rạc",
+            "Phương pháp lưu trữ rời rạc và nối vòng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thế nào là lưu trữ Queue kiểu tuần tự?",
+        "options": [
+            "Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=R+1, khi xóa một phần tử thì F=F+1",
+            "Gồm một danh sách chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của hàng đợi",
+            "Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=(R+1)%MaxSize, khi xóa một phần tử thì F=(F+1)%MaxSize",
+            "Gồm một danh sách chứa các phần tử và một biến Rear để lưu trữ các phần tử ở cuối của hàng đợi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thế nào là lưu trữ Queue kiểu nối vòng?",
+        "options": [
+            "Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=R+1, khi xóa một phần tử thì F=F+1",
+            "Gồm một danh sách chứa các phần tử và một biến Top để lưu trữ các phần tử ở đỉnh của hàng đợi",
+            "Gồm 2 biến: Biến R trỏ vào lối sau của Queue, biến F trỏ vào lối trước của Queue. Khi thêm một phần tử thì R=(R+1)%MaxSize, khi xóa một phần tử thì F=(F+1)%MaxSize",
+            "Gồm một danh sách chứa các phần tử và một biến Rear để lưu trữ các phần tử ở cuối của hàng đợi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nhược điểm của lưu trữ Queue kiểu tuần tự là?",
+        "options": [
+            "Không thể liên kết phần tử này với phần tử kia một cách nhanh chóng",
+            "Việc khai thác và xử lý Queue trở nên khó khăn hơn",
+            "Cần lượng bộ nhớ lớn để lưu trữ",
+            "Queue di chuyển khắp vùng không gian nhớ dù số lượng phần tử là cố định"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thế nào là danh sách liên kết đơn (Linked List)?",
+        "options": [
+            "Là tập hợp gồm nhiều phần tử có tính chất cấu trúc thứ tự giữa các phần tử với nhau: nếu biết được phần tử i thì sẽ biết được vị trí của phần tử i+1",
+            "Là kiểu danh sách tuyến tính mà phép bổ sung một phần tử được thực hiện ở một đầu gọi là lối sau (Rear) còn phép loại bỏ một phần tử thực hiện ở đầu khác gọi là lối trước (Front)",
+            "Là kiểu danh sách mà mỗi phần tử được lưu trữ trong một nút. Mỗi nút bao gồm một số từ máy liên tiếp nhau, nhưng bản thân các nút thì có thể nằm rải rác trong bộ nhớ",
+            "Là một kiểu danh sách tuyến tính đặc biệt mà việc bổ sung hay loại một phần tử chỉ thực hiện ở một đầu gọi là đỉnh (top)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả việc cài đặt danh sách liên kết đơn trên cơ sở mảng?",
+        "options": [
+            "Gồm một mảng chứa các nút (Node). Mỗi nút bao gồm một biến để lưu dữ liệu. Các phần tử được truy cập thông qua địa chỉ mảng. Con trỏ L trỏ tới nút đầu tiên.",
+            "Bao gồm các nút. Trong đó, mỗi nút bao gồm một biến để lưu dữ liệu, một biến con trỏ trỏ đến địa chỉ của nút tiếp theo. Con trỏ L trỏ tới địa chỉ của nút đầu tiên",
+            "Là một mảng lưu trữ các giá trị của hàng đợi. Con trỏ L trỏ tới phần tử đầu tiên trong mảng.",
+            "Không thể lưu danh sách liên kết đơn trên mảng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả việc cài đặt danh sách liên kết đơn trên cơ sở biến con trỏ?",
+        "options": [
+            "Gồm một mảng chứa các nút (Node). Mỗi nút bao gồm một biến để lưu dữ liệu. Các phần tử được truy cập thông qua địa chỉ mảng. Con trỏ L trỏ tới nút đầu tiên.",
+            "Bao gồm các nút. Trong đó, mỗi nút bao gồm một biến để lưu dữ liệu, một biến con trỏ trỏ đến địa chỉ của nút tiếp theo. Con trỏ L trỏ tới địa chỉ của nút đầu tiên",
+            "Là một mảng lưu trữ các giá trị của hàng đợi. Con trỏ L trỏ tới phần tử đầu tiên trong mảng.",
+            "Không thể lưu danh sách liên kết đơn trên mảng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Danh sách liên kết đối xứng (hay danh sách liên kết đôi, Double Linked List) là gì?",
+        "options": [
+            "Là một danh sách mà đầu cuối đều là các con trỏ liên kết",
+            "Là một danh sách mà các phần tử bao gồm một biến mang giá trị và một con trỏ trỏ đến phần tử trước và sau phần tử này trong danh sách",
+            "Là một danh sách mà các phần tử bao gồm một biến mang giá trị và con trỏ trỏ đến phần tử tiếp theo trong danh sách",
+            "Là một danh sách mà các phần tử của nó có hai vùng liên kết"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Con trỏ trỏ tới nút đứng trước của nút cực trái trong danh sách liên kết đối xứng là gì?",
+        "options": [
+            "Con trỏ null",
+            "Con trỏ Nil",
+            "Con trỏ L",
+            "Con trỏ R"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Con trỏ trỏ tới nút đứng trước của nút cực phải trong danh sách liên kết đối xứng là gì?",
+        "options": [
+            "Con trỏ null",
+            "Con trỏ Nil",
+            "Con trỏ L",
+            "Con trỏ R"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nhận xét nào sau đây sai về danh sách liên kết đối xứng?",
+        "options": [
+            "Các phần tử của danh sách liên kết đối xứng nằm rải rác trong bộ nhớ",
+            "Các phần tử được liên kết với nhau thông qua hai con trỏ ở hai đầu mỗi phần tử",
+            "Mỗi phần tử phải luôn có đầy đủ một biến lưu trữ dữ liệu và hai con trỏ ở hai đầu để liên kết đến các phần tử trước và sau nó",
+            "Số lượng phần tử của danh sách liên kết đối xứng là không giới hạn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cấu trúc dữ liệu nào tương ứng với quy tắc LIFO?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Danh sách liên kết đơn",
+            "Danh sách liên kết đối xứng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cấu trúc dữ liệu nào tương ứng với quy tắc FIFO?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Danh sách liên kết đơn",
+            "Danh sách liên kết đối xứng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Bộ phận chăm sóc khách hàng của Bamboo Airways cần tiếp nhận hàng nghìn cuộc gọi đến từ khách hàng. Nếu nhân viên chăm sóc khách hàng đang trong một cuộc điện thoại với một khách hàng bất kỳ thì các cuộc gọi đến sẽ cần chờ cho cuộc gọi đó kết thúc thì mới được nhân viên tiếp nhận. Trong trường hợp này, cần sử dụng cấu trúc dữ liệu nào để xử lý?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Mảng",
+            "Danh sách liên kết"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Điều kiện nào sau đây là điều kiện để kiểm tra xem một danh sách liên kết có rỗng hay không?",
+        "options": [
+            "R = 0",
+            "L = R",
+            "L > R",
+            "L = 0"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cú pháp nào sau đây để lấy dữ liệu từ một nút có địa chỉ CurrPtr trong danh sách liên kết lưu trữ bằng con trỏ?",
+        "options": [
+            "CurrPtr^.Data",
+            "L[CurrPtr].Data",
+            "L[CurrPtr].Data",
+            "CurrPtr.Data"
+        ],
+        "answer": 0
+    }
+]

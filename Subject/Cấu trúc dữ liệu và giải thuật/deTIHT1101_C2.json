@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Cấu trúc dữ liệu mảng là?",
+        "options": [
+            "Là tập hợp có thứ tự bao gồm một số lượng cố định các phần tử, được truy cập với cùng một tên",
+            "Là tập hợp không có thứ tự bao gồm một số lượng cố định các phần tử, được truy cập với cùng một tên",
+            "Là tập hợp có thứ tự bao gồm một số lượng các phần tử, được truy cập với cùng một tên",
+            "Là tập hợp không có thứ tự bao gồm một số lượng các phần tử, được truy cập với cùng một tên"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mảng một chiều là?",
+        "options": [
+            "Là mảng mà tại đó địa chỉ của mảng là địa chỉ của con trỏ L, địa chỉ của các phần tử tiếp theo là các ô nhớ liền kề, liên tiếp nhau.",
+            "Là mảng mà tại đó địa chỉ của mảng là địa chỉ của phần tử đầu tiên, địa chỉ của các phần tử tiếp theo là các ô nhớ không liên tiếp nhau",
+            "Là mảng mà tại đó địa chỉ của mảng là địa chỉ của phần tử đầu tiên, địa chỉ của các phần tử tiếp theo là các ô nhớ liền kề, liên tiếp nhau.",
+            "Là mảng mà tại đó địa chỉ của mảng là địa chỉ của con trỏ L, địa chỉ của các phần tử tiếp theo là các ô nhớ không liên tiếp nhau"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Phương pháp nào sau đây là phương pháp lưu trữ mảng một chiều?",
+        "options": [
+            "Địa chỉ của mảng là địa chỉ của phần tử đầu tiên, ô nhớ liền kề bên phải là con trỏ trỏ đến địa chỉ của phần tử kế tiếp",
+            "Địa chỉ của mảng là địa chỉ của phần tử đầu tiên, các phần tử tiếp theo là các ô nhớ liền kề liên tiếp",
+            "Địa chỉ của mảng là địa chỉ của phần tử đầu tiên, ô nhớ liền kề bên trái là con trỏ trỏ đến địa chỉ của phần tử kế tiếp",
+            "Địa chỉ của mảng là địa chỉ của con trỏ L, các phần tử tiếp theo là các ô nhớ liền kề liên tiếp"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mảng hai chiều là?",
+        "options": [
+            "Là các mảng một chiều liên kết với nhau bằng một con trỏ liên kết",
+            "Là mảng chứa các ô địa chỉ rời rạc trong hệ thống",
+            "Là các mảng gồm n phần tử có ô nhớ liền kề, liên tiếp nhau",
+            "Là các mảng một chiều đứng cạnh nhau"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Phương pháp nào sau đây là phương pháp lưu trữ mảng hai chiều?",
+        "options": [
+            "Lưu trữ theo dòng và lưu trữ theo cột",
+            "Lưu trữ con trỏ của phần tử đầu tiên và phần tử cuối cùng",
+            "Lưu trữ con trỏ của phần tử đầu tiên, phần tử cuối cùng và các con trỏ liên kết",
+            "Lưu trữ địa chỉ của từng mảng một chiều"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho một mảng một chiều A có 10 phần tử. Biết địa chỉ cơ sở của mảng này là Base(A). Hiện tại mảng đã có 4 phần tử. Nếu thêm một phần tử nữa vào mảng thì phần tử này sẽ được lưu ở vị trí nào sau đây?",
+        "options": [
+            "Base(A) + 16",
+            "Base(A) + 4",
+            "Base(A) + 5",
+            "Base(A) + 20"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho một mảng một chiều có chứa các phần tử như sau A = {5, 8, 7, 9, 12, 3, 44, 72}. Phần tử được lưu ở vị trí thứ 6 tính từ địa chỉ cơ sở mang giá trị bao nhiêu?",
+        "options": [
+            "3",
+            "7",
+            "44",
+            "8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho một mảng hai chiều B được lưu theo phương pháp lưu trữ dòng. Giả sử mảng này có kích thước 3x3 và địa chỉ cơ sở là Base(B) thì địa chỉ của phần tử nằm ở dòng 2 cột 3 là?",
+        "options": [
+            "Base(B) + 2",
+            "2*Base(B)+2",
+            "2*Base(B)+3",
+            "Base(B) + 5"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho một mảng hai chiều B được lưu theo phương pháp lưu trữ cột. Giả sử mảng này có kích thước 4x4 và địa chỉ cơ sở là Base(B) thì địa chỉ của phần tử nằm ở dòng 2 cột 3 là?",
+        "options": [
+            "Base(B) + 9",
+            "Base(B) + 6",
+            "2*Base(B)+3",
+            "Base(B) + 5"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho một mảng hai chiều B có địa chỉ cơ sở là Base(B) và kích thước là 3x4. Biết rằng phần tử nằm ở dòng 3 cột 3 có địa chỉ là Base(B) + 10. Mảng hai chiều này được lưu trữ theo phương pháp nào?",
+        "options": [
+            "Phương pháp lưu trữ cột",
+            "Phương pháp lưu trữ dòng",
+            "Phương pháp lưu trữ đường chéo chính",
+            "Phương pháp lưu trữ con trỏ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho một mảng hai chiều B có địa chỉ cơ sở là Base(B) và kích thước là 3x4. Biết rằng phần tử nằm ở dòng 2 cột 4 có địa chỉ là Base(B) + 10. Mảng hai chiều này được lưu trữ theo phương pháp nào?",
+        "options": [
+            "Phương pháp lưu trữ đường chéo chính",
+            "Phương pháp lưu trữ dòng",
+            "Phương pháp lưu trữ cột",
+            "Phương pháp lưu trữ con trỏ"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khi liệt kê các phần tử của mảng hai chiều B theo thứ tự người ta thu được dãy 4, 6, 11, 12, 3, 0, 8, 33, 29. Gỉa sử mảng hai chiều này được lưu theo phương pháp lưu trữ dòng và kích thước là 3x3 thì phần tử mang giá trị 12 nằm ở?",
+        "options": [
+            "Dòng 1 cột 4",
+            "Dòng 1 cột 2",
+            "Dòng 2 cột 3",
+            "Dòng 2 cột 1"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Khi liệt kê các phần tử của mảng hai chiều B theo thứ tự người ta thu được dãy 4, 6, 11, 12, 3, 0, 8, 33, 29. Gỉa sử mảng hai chiều này được lưu theo phương pháp lưu trữ cột và kích thước là 3x3 thì phần tử mang giá trị 12 nằm ở?",
+        "options": [
+            "Dòng 1 cột 2",
+            "Dòng 1 cột 4",
+            "Dòng 2 cột 3",
+            "Dòng 2 cột 1"
+        ],
+        "answer": 0
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "question": "Đồ thị có hướng là?",
+        "options": [
+            "Là một tập hợp hữu hạn các phần tử gọi là nút hay đỉnh, cùng với một tập hợp hữu hạn các cạnh có hướng nối các cặp đỉnh với nhau",
+            "Là tập hợp hữu hạn các phần tử gọi là nút hay đỉnh được nối với nhau thông qua các cạnh vô hướng",
+            "Là tập hợp hữu hạn các phần tử gọi là nút hay đỉnh được nối với nhau bởi một đường đi có hướng một chiều từ đỉnh này đến đỉnh bất kỳ còn lại",
+            "Là tập hợp hữu hạn các phần tử gọi là nút hay đỉnh mà giữa các nút/đỉnh này không có các cặp cạnh vô hướng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Các phương pháp biểu diễn đồ thị có hướng là:",
+        "options": [
+            "Biểu diễn bằng ma trận nghịch đảo và danh sách liền kề",
+            "Biểu diễn bằng ma trận kề và danh sách kề",
+            "Biểu diễn bằng ma trận nghịch đảo và ma trận kề",
+            "Biểu diễn bằng ma trận liền kề và ma trận liên thuộc"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong phương pháp biểu diễn đồ thị có hướng  bằng ma trận liền kề, thành phần ở hàng i cột j mang ý nghĩa gì?",
+        "options": [
+            "Đường đi từ j đến i",
+            "Số đường đi từ i đến j",
+            "Đường đi từ i đến j",
+            "Số đường đi từ j đến i"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong phương pháp biểu diễn đồ thị có hướng  bằng ma trận liền kề, nếu thành phần ở hàng i cột j mang giá trị 1 thì điều đó có nghĩa là:",
+        "options": [
+            "Có một cạnh vô hướng nối từ i đến j",
+            "Có một cạnh vô hướng nối từ j đến i",
+            "Có một cạnh có hướng nối từ j đến i",
+            "Có một cạnh có hướng nối từ i đến j"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong phương pháp biểu diễn đồ thị có hướng bằng ma trận liền kề, nếu không có đường đi bất kỳ từ đỉnh i đến đỉnh j thì phần tử ở dòng j cột i mang giá trị gì?",
+        "options": [
+            "0",
+            "1",
+            "-1",
+            "Không thể biết trước"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đâu là mô tả của phương pháp biểu diễn đồ thị có hướng bằng danh sách liền kề?",
+        "options": [
+            "Được biểu diễn bởi một mảng các con trỏ. Mỗi con trỏ cho mỗi nút trong đồ thị có hướng.",
+            "Mỗi phần tử của một mảng bất kỳ chỉ đến một nút đầu lưu trữ dữ liệu cho nút ấy và chứa một con trỏ chỉ đến một danh sách liên kết của các nút kề",
+            "Mỗi nút kề có hai trường: trường lưu trữ dữ liệu của nút và một trường liên kết chỉ đến nút tiếp theo trong danh sách kề này",
+            "Lần lượt cả A, B, C"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đồ thị vô hướng là?",
+        "options": [
+            "Là một tập hợp hữu hạn các phần tử gọi là nút hay đỉnh, cùng với một tập hợp hữu hạn các cạnh có hướng nối các cặp đỉnh với nhau",
+            "Là tập hợp hữu hạn các phần tử gọi là nút hay đỉnh được nối với nhau bởi một đường đi có hướng một chiều từ đỉnh này đến đỉnh bất kỳ còn lại",
+            "Là một tập hữu hạn các phần tử gọi là nút hay đỉnh cùng với một tập hợp hữu hạn các cạnh nối các cặp đỉnh với nhau",
+            "Là tập hợp hữu hạn các phần tử gọi là nút hay đỉnh được nối với nhau bởi một đường đi từ đỉnh này đến đỉnh bất kỳ còn lại"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Các phương pháp biểu diễn đồ thị vô hướng là:",
+        "options": [
+            "Biểu diễn bằng ma trận kề và danh sách kề",
+            "Biểu diễn bằng ma trận kề, danh sách kề và danh sách cạnh",
+            "Biểu diễn bằng ma trận kề và danh sách cạnh",
+            "Biểu diễn bằng danh sách kề và danh sách cạnh"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong phương pháp biểu diễn đồ thị vô hướng bằng ma trận kề, nếu phần tử ở dòng i cột j mang giá trị 1 thì điều đó có ý nghĩa là:",
+        "options": [
+            "Có một cạnh vô hướng nối từ i đến j",
+            "Có một cạnh vô hướng nối từ j đến i",
+            "Có một cạnh có hướng nối từ j đến i",
+            "Có một cạnh có hướng nối từ i đến j"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ma trận liền kề của đồ thị vô hướng có đặc điểm nào sau đây?",
+        "options": [
+            "Là ma trận nghịch đảo",
+            "Là ma trận đối xứng",
+            "Là ma trận phản đối xứng",
+            "Là ma trận đơn vị"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cho một đồ thị vô hướng gồm n đỉnh. Giả sử có một cạnh vô hướng nối giữa đỉnh i và đỉnh j thì phần tử ở dòng j cột i trong ma trận kề của đồ thị này mang giá trị bằng bao nhiêu?",
+        "options": [
+            "0",
+            "-1",
+            "1",
+            "Không thể biết trước"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu là một nhược điểm của phương pháp lưu trữ đồ thị vô hướng bằng ma trận kề?",
+        "options": [
+            "Không thể thiết lập danh sách liên kết do là đồ thị vô hướng",
+            "Khó cho việc xử lý giải thuật",
+            "Tốn nhiều bộ nhớ",
+            "Phải lưu trữ các thông tin thừa"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Phương pháp quét cây theo chiều sâu (DFS) thực hiện",
+        "options": [
+            "Thăm gốc rồi chọn một trong các nút con để thăm. Trước khi thăm các nút con khác, thăm nút con hiện tại theo chiều sâu",
+            "Thăm gốc rồi thăm các con của nó theo các mức tương ứng",
+            "Thăm gốc rồi chọn một trong các nút con để thăm. Thăm bất kỳ cây con hoặc nút con nào, miễn là quét hết theo chiều sâu",
+            "Thăm gốc rồi thăm các con của nó theo các mức từ cao xuống thấp"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Phương pháp quét cây theo chiều rộng (BFS) thực hiện",
+        "options": [
+            "Thăm gốc rồi chọn một trong các nút con để thăm. Trước khi thăm các nút con khác, thăm nút con hiện tại theo chiều sâu",
+            "Thăm gốc rồi thăm các con của nó theo các mức tương ứng",
+            "Thăm gốc rồi chọn một trong các nút con để thăm. Thăm bất kỳ cây con hoặc nút con nào, miễn là quét hết theo chiều sâu",
+            "Thăm gốc rồi thăm các con của nó theo các mức từ cao xuống thấp"
+        ],
+        "answer": 1
+    }
+]

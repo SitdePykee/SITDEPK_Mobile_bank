@@ -1,0 +1,242 @@
+[
+    {
+        "question": "Trong sắp xếp, khi nhắc tới \"Khóa\" là đang nhắc tới?",
+        "options": [
+            "Một trường mà ta đang muốn sắp xếp theo trường đó",
+            "Là một trường cố định làm mốc, không thay đổi trong quá trình sắp xếp",
+            "Là một trường dữ liệu giúp xác định các trường còn lại cần sắp xếp",
+            "Là một trường dữ liệu giúp xác định một và chỉ một phần tử cần sắp xếp"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thuật toán sắp xếp nào sau đây không thuộc nhóm phương pháp sắp xếp đổi chỗ?",
+        "options": [
+            "Sắp xếp nổi bọt (Bubble Sort)",
+            "Sắp xếp trộn (Merge Sort)",
+            "Sắp xếp chèn (Insertion Sort)",
+            "Sắp xếp chọn (Selection Sort)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp nổi bọt?",
+        "options": [
+            "Duyệt từ đầu đến cuối mảng, nếu phần tử đứng trước lớn hơn phần tử đứng sau thì đổi chỗ",
+            "Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]",
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Sắp thứ tự các phần tử a[i] vào dãy có thứ tự s[i]. Mảng count có phần tử count[j] đếm số phần tử của mảng a có khóa j"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp chèn?",
+        "options": [
+            "Duyệt từ đầu đến cuối mảng, nếu phần tử đứng trước lớn hơn phần tử đứng sau thì đổi chỗ",
+            "Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]",
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Sắp thứ tự các phần tử a[i] vào dãy có thứ tự s[i]. Mảng count có phần tử count[j] đếm số phần tử của mảng a có khóa j"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp chọn?",
+        "options": [
+            "Duyệt từ đầu đến cuối mảng, nếu phần tử đứng trước lớn hơn phần tử đứng sau thì đổi chỗ",
+            "Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]",
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Sắp thứ tự các phần tử a[i] vào dãy có thứ tự s[i]. Mảng count có phần tử count[j] đếm số phần tử của mảng a có khóa j"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thuật toán sắp xếp nào sau đây không thuộc nhóm phương pháp sắp xếp xen vào?",
+        "options": [
+            "Sắp xếp chèn",
+            "Sắp xếp chèn nhị phân",
+            "Sắp xếp Shell (Sắp xếp giảm độ tăng)",
+            "Sắp xếp chọn"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp chèn nhị phân?",
+        "options": [
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Tìm kiếm vị trí thích hợp bằng thuật toán tìm kiếm nhị phân. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Chọn một khoảng cách khởi tạo (h) và chia danh sách thành các nhóm con. Sắp xếp từng nhóm con bằng cách sử dụng thuật toán sắp xếp chèn. Giảm khoảng cách h để tạo ra các nhóm con mới. Lặp lại quá trình cho đến khi khoảng cách h giảm xuống 1.",
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp Shell (sắp xếp giảm độ tăng)?",
+        "options": [
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Tìm kiếm vị trí thích hợp bằng thuật toán tìm kiếm nhị phân. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Chọn một khoảng cách khởi tạo (h) và chia danh sách thành các nhóm con. Sắp xếp từng nhóm con bằng cách sử dụng thuật toán sắp xếp chèn. Giảm khoảng cách h để tạo ra các nhóm con mới. Lặp lại quá trình cho đến khi khoảng cách h giảm xuống 1.",
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thuật toán sắp xếp nào sau đây không thuộc nhóm phương pháp sắp xếp lựa chọn?",
+        "options": [
+            "Sắp xếp chọn",
+            "Sắp xếp nhanh (Quick Sort)",
+            "Sắp xếp chèn",
+            "Sắp xếp Heap"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nội dung nào sau đây mô tả cách hoạt động của thuật toán sắp xếp nhanh (Quick Sort)?",
+        "options": [
+            "Chọn một khoảng cách khởi tạo (h) và chia danh sách thành các nhóm con. Sắp xếp từng nhóm con bằng cách sử dụng thuật toán sắp xếp chèn. Giảm khoảng cách h để tạo ra các nhóm con mới. Lặp lại quá trình cho đến khi khoảng cách h giảm xuống 1.",
+            "Tại bước thứ i, lần lượt so sánh a[i] với các phần tử đứng trước nó. Tìm kiếm vị trí thích hợp bằng thuật toán tìm kiếm nhị phân. Nếu có vị trí phù hợp với điều kiện đang xét thì chèn phần tử a[i] vào vị trí này",
+            "Ở bước thứ i ta lựa chọn phần tử nhỏ nhất trong dãy a[i] đến a[n] và đổi chỗ với phần tử a[i]",
+            "Chọn ngẫu nhiên một phần tử a[i] làm phần tử biên. Phân hoạch dãy cần sắp xếp thành ba dãy con liên tiếp sao cho: dãy thứ nhất gồm các phần tử nhỏ hơn a[i], dãy thứ hai gồm các phần tử bằng a[i], dãy thứ ba gồm các phần tử lớn hơn a[i]. Sau đó lặp lại phân hoạch cho dãy thứ nhất và thứ ba nếu có nhiều hơn một phần tử"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Độ phức tạp trung bình của nhóm sắp xếp đổi chỗ là?",
+        "options": [
+            "O(n^2)",
+            "O(n)",
+            "O(logn)",
+            "O(n.logn)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Độ phức tạp trung bình của thuật toán sắp xếp trộn (Merge Sort) là?",
+        "options": [
+            "O(n^2)",
+            "O(n)",
+            "O(logn)",
+            "O(n.logn)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho dãy khoá 42,23,74,11,65,58. Dùng phương pháp sắp xếp kiểu chèn (Insertion sort), sau 3 bước dãy có dạng nào?",
+        "options": [
+            "11,23,42,74,65,58",
+            "11,23,42,65,74,58",
+            "11,23,42,74,58,65",
+            "11,23,58,65,42,74"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho dẫy khoá 42,23,74,11,65,58,94,36. Sắp xếp dãy khoá theo kiểu nổi bọt (Bubble sort), sau mấy bước phần tử 36 về đúng vị trí của nó?",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87 .Sắp xếp dãy khoá theo kiểu nổi bọt (Bubble sort), sau bước thứ 1, khoá 87 về vị trí thứ mấy",
+        "options": [
+            "8",
+            "7",
+            "10",
+            "9"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87. Sắp xếp dãy khoá theo kiểu nổi bọt (Bubble sort), sau bước thứ 1, ba vị trí cuối cùng là các khoá nào:",
+        "options": [
+            "58,87,99",
+            "36,99,87",
+            "74,99,87",
+            "87,94,99"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87. Sắp xếp dãy khoá theo kiểu phân đoạn (Quick Sort),sau bước thứ 1, ba vị trí đầu tiên là các khoá nào?",
+        "options": [
+            "11 42 23",
+            "11 42 58",
+            "11 23 36",
+            "11 42 36"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho dẫy khoá 42,23,74,11,65,58,94,36,99,87 .Sắp xếp dãy khoá theo kiểu chèn (Insertion sort), sau 3 bước ba vị trí cuối cùng là các khoá nào:",
+        "options": [
+            "87 94 99",
+            "65 94 99",
+            "36 99 87",
+            "58 94 99"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cho 2 dãy đã sắp xếp: A:15,17,19,21,30,48 và B:7,9,16,22,47. Thực hiện sắp xếp 2 dãy này bằng phương pháp sắp xếp trộn thu được dãy C. Cho biết phần tử thứ 7 trong dãy C bằng?",
+        "options": [
+            "19",
+            "16",
+            "22",
+            "21"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Khóa tìm kiếm là gì?",
+        "options": [
+            "Là giá trị cần tìm kiếm",
+            "Là vị trí của phần tử cần tìm kiếm",
+            "Là mảng cần thực hiện tìm kiếm",
+            "Là một giá trị cố định mà sẽ sử dụng để đối chiếu tương quan với các phần tử của mảng cần tìm kiếm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mô tả nào sau đây là của thuật toán Tìm kiếm tuần tự (hay tìm kiếm tuyến tính)?",
+        "options": [
+            "Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1",
+            "Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy",
+            "Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy",
+            "Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mô tả nào sau đây là của thuật toán Tìm kiếm nhị phân ?",
+        "options": [
+            "Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1",
+            "Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy",
+            "Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy",
+            "Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Mô tả nào sau đây là của thuật toán Tìm kiếm bằng khóa?",
+        "options": [
+            "Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1",
+            "Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy",
+            "Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy",
+            "Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mô tả nào sau đây là của thuật toán Tìm kiếm bằng bảng băm?",
+        "options": [
+            "Chia đôi đoạn tìm kiếm hiện tại làm đôi. Nếu như khóa tìm kiếm lớn hơn giá trị chính giữa của đoạn thì bỏ toàn bộ phần bên trái, ngược lại bỏ toàn bộ phần bên phải. Lặp lại như vậy cho đến khi đoạn chỉ còn độ dài bằng 1",
+            "Bắt đầu từ phần tử thứ nhất, lần lượt só sánh khóa tìm kiếm với khóa tương ứng của các bản ghi trong bảng, cho tới khi tìm được bản ghi mong muốn hoặc đã hết bảng mà chưa thấy",
+            "Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy",
+            "Vị trí của mỗi phần tử được xác định trực tiếp bằng một hàm của chính nó chứ không phải một dãy so sánh. Bằng một quy tắc nào đó, ta biến đổi giá trị của khóa thành một địa chỉ tương đối dùng để lưu trữ bản ghi tương ứng, đồng thời cũng để tìm kiếm bản ghi ấy"
+        ],
+        "answer": 3
+    }
+]
