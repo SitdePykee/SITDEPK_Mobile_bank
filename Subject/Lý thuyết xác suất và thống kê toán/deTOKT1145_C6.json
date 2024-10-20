@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Giá trị θ mũ được coi là ước lượng không chệch của θ nếu?",
+        "options": [
+            "E(θ mũ) = θ",
+            "V(θ mũ) = θ",
+            "P(θ mũ) nhỏ hơn alpha",
+            "Không có đáp án đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Giá trị θ^ A được coi là hiệu quả hơn giá trị θ^ B nếu ?",
+        "options": [
+            "E(θ^ A) > E(θ^ B)",
+            "E(θ^ A) < E(θ^ B)",
+            "V(θ^ A) < V(θ^ B)",
+            "V(θ^ A) > V(θ^ B)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Điều kiện tiên quyết để đánh giá được ước lượng θ^ bất kỳ có hiệu quả hay không là?",
+        "options": [
+            "E(θ^) > 0",
+            "θ^ không chệch",
+            "V(θ^) > 0",
+            "θ^ là một biến cố"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Xác suất sinh viên đi làm thêm là p = 0.4. Biết rằng 1 là có đi làm, 0 là ngược lại. Khảo sát ngẫu nhiên 3 mẫu w1 = (0, 0, 1, 0, 1), w2 = (0, 1, 1, 1, 0), w3 = (1, 0, 0, 1, 1). Mẫu nào là hợp lý nhất?",
+        "options": [
+            "w1",
+            "w2",
+            "w3",
+            "Cả w2 và w3"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cho mẫu (0, 1, 1, 0, 1) rút ra từ biến A(p) chưa biết p. Trong các ước lượng sau cho p, giá trị nào hợp lý nhất",
+        "options": [
+            "0.5",
+            "0.6",
+            "0.7",
+            "0.8"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Khi thực hiện ước lượng μ khi biết σ^2, sai số biên được tính bằng công thức?",
+        "options": [
+            "ε=(σ.z(α/2))/(căn n)",
+            "ε=(2.σ.z(α/2))/(căn n)",
+            "ε=(σ^2.z^2(α/2))/n",
+            "ε=(4.σ^2.z^2(α/2))/n"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cân ngẫu nhiên 25 sản phẩm khối lượng trung bình là 25.32g và phương sai 5.28 g^2. Giả sử khối lượng phân phối chuẩn. Với độ tin cậy 95% ước lượng khối lượng trung bình của tất cả các sản phẩm bằng khoảng tin cậy đối xứng?",
+        "options": [
+            "24.37 < μ < 26.27",
+            "24.53 < μ < 26.12",
+            "23.51 < μ < 27.13",
+            "23.14 < μ < 27.5"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Một lô hàng mỹ phẩm nhập từ Trung Quốc được đưa về Việt Nam qua đường biên giới. Kiểm tra ngẫu nhiên 100 sản phẩm thấy khối lượng trung bình là 5.6g, phương sai 1.23 g^2. Với độ tin cậy 90%, ước lượng khối lượng trung bình của cả lô hàng bằng khoảng tin cậy tối đa?",
+        "options": [
+            "(0; 5.76)",
+            "(0; 5.80)",
+            "(0; 5.74)",
+            "(0; 5.78)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Một công ty giải trí X phát hành album âm nhạc. Kiểm tra ngẫu nhiên 50 album thì thấy rằng trung bình mỗi album có kích thước trung bình 45cm^2, độ lệch chuẩn 12cm^2. Giả sử kích thước phân phối chuẩn. Với độ tin cậy 95% thì để sai số không quá 2cm^2, cần kiểm tra thêm ít nhất bao nhiêu album nữa?",
+        "options": [
+            "27 sản phẩm",
+            "48 sản phẩm",
+            "Không cần kiểm tra thêm",
+            "89 sản phẩm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một nhà máy thủy điện cho xả lũ . Kiểm tra ngẫu nhiên 7  ngày, người ta thấy rằng trung bình mỗi ngày nhà máy này xả ra ngoài 1275 khối nước, độ lệch chuẩn là 322 khối. Giả sử khối lượng nước phân phối chuẩn, với độ tin cậy bằng bao nhiêu thì lượng nước trung bình tối thiểu mỗi ngày nhà máy thủy điện này xả ra là 1038?",
+        "options": [
+            "90%",
+            "5%",
+            "95%",
+            "2.50%"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Một nhà máy điều chế H2SO4 nhập khẩu một lô quặng spirit sắt. Thử nghiệm với 60 quặng khác nhau thấy rằng độ lệch chuẩn lượng H2SO4 là 1.56l. Giả sử lượng H2SO4 phân phối chuẩn, với độ tin cậy 95%, hãy cho biết lượng H2SO4 trung bình của mẫu 60 quặng trên cần phải là bao nhiêu để lượng H2SO4 trung bình mà nhà máy thu được đạt giá trị tối đa bằng 22.4l?",
+        "options": [
+            "21.78 lít",
+            "22.07 lít",
+            "21.88 lít",
+            "22.73 lít"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nhà máy sản xuất tơ sợi X khảo nghiệm 10 mẫu tơ mà họ đưa ra thị trường trong năm nay thì nhận thấy rằng trung bình điểm đánh giá nhận được từ người dùng là 8.25 điểm, phương sai 26.11 điểm^2. Giả sử điểm đánh giá phân phối chuẩn, với độ tin cậy 95%, cần phải tăng số lượng mẫu tơ khảo sát thêm bao nhiêu để độ dài khoảng tin cậy không vượt quá 3.5?",
+        "options": [
+            "15.3 lần",
+            "10 lần",
+            "2.7 lần",
+            "4.4 lần"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Khảo sát ngẫu nhiên 15 mẫu xe đua F1 thấy rằng tốc độ trung bình của là 23 m/s, độ lệch chuẩn 5 m/s. Giả sử tốc độ phân phối chuẩn và độ tin cậy là 95%, độ dao động của tốc độ đo bởi phương sai tối đa là bao nhiêu?",
+        "options": [
+            "2.96 (m/s)^2",
+            "10.65 (m/s)^2",
+            "53.26 (m/s)^2",
+            "14.78 (m/s)^2"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hỏi ngẫu nhiên 100 sinh viên thu được dữ liệu điểm trung bình học phần Xác suất thống kê bằng 8.5, độ lệch chuẩn 1.25. Giả sử điểm phân phối chuẩn, với độ tin cậy 95%, khoảng tin cậy cho độ lệch chuẩn điểm Xác suất thống kê của sinh viên bằng?",
+        "options": [
+            "(1.20; 2.11)",
+            "(0.96; 1.69)",
+            "(1.26; 2)",
+            "(1; 1.61)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Khảo sát ngẫu nhiên 10 mẫu đất tại đồng bằng sông Cửu Long, thấy độ mặn của đất trung bình bằng 5g/kg. Giả sử độ mặn phân phối chuẩn. Với độ tin cậy 95%, phương sai của 10 mẫu đất trên cần phải bằng bao nhiêu để độ dài khoảng tin cậy xấp xỉ bằng 5?",
+        "options": [
+            "0.75",
+            "1.32",
+            "1.75",
+            "3.22"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Thành phố Buenos Aires khảo sát số lượng cây xanh tại 50 địa điểm du lịch ngẫu nhiên trong thành phố. Với độ tin cậy 95%, hãy cho biết độ biến động lượng cây của 50 địa điểm trên phải bằng bao nhiêu để phương sai lượng cây xanh ở các địa điểm du lịch toàn thành phố nằm trong khoảng 300 - 668 cây^2?",
+        "options": [
+            "450 cây^2",
+            "330 cây^2",
+            "21 cây",
+            "39 cây"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Do nạn trộm nắp cống, Ủy ban nhân dân thành phố Hà Nội đặt làm một lô nắp cống bằng titanium từ Trung Quốc. Khảo sát ngẫu nhiên 30 chiếc, thu được phương sai khối lượng bằng 23.87 kg^2. Với độ tin cậy 90%, ước lượng phương sai của khối lượng lô hàng này sử dụng khoảng tin cậy tối thiểu?",
+        "options": [
+            "σ^2 < 35.01",
+            "σ^2 < 16.26",
+            "16.26 < σ^2",
+            "17.7 < σ^2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tập đoàn Huyndai cho nghiệm thu dây chuyền sản xuất dòng xe KIA mới. Kiểm tra ngẫu nhiên 100 xe thì thấy rằng có 44 xe có tỉ lệ bị rò điện. Ước lượng tỉ lệ rò điện của dây chuyền sản xuất, biết rằng độ tin cậy bằng 95%",
+        "options": [
+            "0.26 < p < 0.39",
+            "0.28 < p < 0.45",
+            "0.36 < p < 0.52",
+            "0.32 < p < 0.54"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Quan sát ngẫu nhiên 400 người vào cửa hàng thì có 144 người mua hàng. Với độ tin cậy 95% hãy cho biết muốn độ dài khoảng tin cậy giảm xuống còn một nửa thì cần quan sát tối thiểu bao nhiêu người?",
+        "options": [
+            "1960",
+            "1600",
+            "5000",
+            "2750"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Các thành viên Đội sinh viên tình nguyện trường Đại học X thực hiện bán đồ gây quỹ cho hoạt động thiện nguyện sắp tới. Biết rằng, cứ 500 người được mời mua hàng thì có 325 người mua hàng. Với độ tin cậy 90%, nếu cả đợt có 5000 người được mời vào gian hàng thì có tối đa bao nhiêu người mua hàng?",
+        "options": [
+            "3450",
+            "3425",
+            "3440",
+            "3432"
+        ],
+        "answer": 1
+    }
+]
