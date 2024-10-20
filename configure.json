@@ -102,7 +102,7 @@
         "Title": "Chương 9"
       }
     },
-    "Enable": false,
+    "Enable": true,
     "Name": "Cơ sở lập trình",
     "Type": "Cơ sở ngành",
     "NCredits": "3",
